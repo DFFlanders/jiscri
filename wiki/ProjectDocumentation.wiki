@@ -1,0 +1,16 @@
+#summary This page lists the documentation JISCRI projects are required to submit.
+
+= Introduction =
+All JISC projects are required to complete documentation, 
+
+Even if you have done a JISC project before, the processes continue to change (alongside the technology) so you will need to read over the project guidelines, though we have changed some things for the JISCRI projects.  In short, the 'Rapid Innovation' projects are of a different project species, there are some amendments we have made so as to embrace a more lightweight and webworthy documentation process.
+
+Below is a list of template documents you will need to fill out.  
+
+= Details =
+We have provided both the official Word document template form and a xhtml formatted (microformatted) templates below.  You are of course welcome to use the word documents, but would also welcome the use of an open standard such as xhtml.  So as to make the XHTML docuements wordprocessor and WYSIWYG friendly, we've provided them as Google Docs templates so you can copy & paste them into Google Docs to edit them there without even having to know that you are semantically structuring your documents to provide linked data goodness!  
+
+Projects Documentation Templates:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
