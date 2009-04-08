@@ -1,16 +1,26 @@
 #summary This page lists the documentation JISCRI projects are required to submit.
 
-= Introduction =
+= Intro to Project Documentation =
 All JISC projects are required to complete documentation, 
 
-Even if you have done a JISC project before, the processes continue to change (alongside the technology) so you will need to read over the project guidelines, though we have changed some things for the JISCRI projects.  In short, the 'Rapid Innovation' projects are of a different project species, there are some amendments we have made so as to embrace a more lightweight and webworthy documentation process.
+Even if you have done a JISC project before, the processes continue to change (alongside the technology) so you will need to read over the [http://www.jisc.ac.uk/media/documents/funding/project_management/projectmanagementguidelines.pdf project guidelines], though we have changed some of the documentation requirements for the JISCRI projects.  In short, the 'Rapid Innovation' projects are of a different project species, there are some amendments we have made so as to embrace a more lightweight and webworthy documentation process.
 
 Below is a list of template documents you will need to fill out.  
 
-= Details =
+= Project Document Templates =
 We have provided both the official Word document template form and a xhtml formatted (microformatted) templates below.  You are of course welcome to use the word documents, but would also welcome the use of an open standard such as xhtml.  So as to make the XHTML docuements wordprocessor and WYSIWYG friendly, we've provided them as Google Docs templates so you can copy & paste them into Google Docs to edit them there without even having to know that you are semantically structuring your documents to provide linked data goodness!  
 
 Projects Documentation Templates:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+  * Core Project Information Form <- please fill out within first month of project.
+  * Project Plan <- please fill out within first month of project.
+    * Word 97 (doc) version :(
+    * Word 2007 (docx) version :|
+    * XHTML (Google Docs) version :) <-watch this video on how to copy&paste XHTML into Google Docs to utilise their WYSYWIG
+  * Progress Reports: So as to make your life easier (and ideally enable you to write documentation for all those potential users on the World Wild Web, we are requesting a series of project progress blog posts.  In short, we would like you to write a blog post on the following themes (making sure to use the correct tags):
+    * Methodology <- please make sure to use tags: "jisc", "jiscri", 
+    * Risks
+    * etc.
+  * Final Project Report
+    * Word 97 (doc) version :(
+    * Word 2007 (docx) version :|
+    * XHTML (Google Docs) version :) <-watch this video on how to copy&paste XHTML into Google Docs to utilise their WYSYWIG
