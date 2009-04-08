@@ -11,7 +11,7 @@ Below is a list of template documents you will need to fill out.
 We have provided both the official Word document template form and a xhtml formatted (microformatted) templates below.  You are of course welcome to use the word documents, but would also welcome the use of an open standard such as xhtml.  So as to make the XHTML docuements wordprocessor and WYSIWYG friendly, we've provided them as Google Docs templates so you can copy & paste them into Google Docs to edit them there without even having to know that you are semantically structuring your documents to provide linked data goodness!  
 
 Projects Documentation Templates:
-  * Core Project Information Form <- please fill out within first month of project.
+  * [http://spreadsheets.google.com/viewform?hl=en&formkey=cG84ZHFaX0d1TmY1UTJmZDAweHI5Vnc6MA.. Core Project Information Form] <- please fill out within first fortnight of project.
   * Project Plan <- please fill out within first month of project.
     * Word 97 (doc) version :(
     * Word 2007 (docx) version :|
