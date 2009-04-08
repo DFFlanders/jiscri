@@ -8,12 +8,12 @@ Even if you have done a JISC project before, the processes continue to change (a
 Below is a list of template documents you will need to fill out.  
 
 = Project Document Templates =
-We have provided both the official Word document template form and a xhtml formatted (microformatted) templates below.  You are of course welcome to use the word documents, but would also welcome the use of an open standard such as xhtml.  So as to make the XHTML docuements wordprocessor and WYSIWYG friendly, we've provided them as Google Docs templates so you can copy & paste them into Google Docs to edit them there without even having to know that you are semantically structuring your documents to provide linked data goodness!  
+We have provided both the official Word document template form and a XHTML formatted (including microformats!) templates below.  You are of course welcome to use the word documents, but would also welcome the use of an open standard such as XHTML.  So as to make the XHTML document wordprocessor friendly, we've formatted them as Google Docs templates so you can copy & paste them into a Google Docs to edit them there with their user friendly WYSIWYG :)
 
 Projects Documentation Templates:
-  * [http://spreadsheets.google.com/viewform?hl=en&formkey=cG84ZHFaX0d1TmY1UTJmZDAweHI5Vnc6MA.. Core Project Information Form] <- please fill out within first fortnight of project.
-  * Consortium Agreement <- please contact the programme manager ASAP!
-  * Project Plan <- please fill out within first month of project.
+  * [http://spreadsheets.google.com/viewform?hl=en&formkey=cG84ZHFaX0d1TmY1UTJmZDAweHI5Vnc6MA.. Core Project Information Form] <- please fill out within first fortnight of project.  Deadline: April 20th 2009.
+  * Consortium Agreement <- if applicable, please contact the programme manager ASAP to discuss!
+  * Project Plan <- please fill out within first month of project.  Deadline: May 1st 2009.
     * Word 97 (doc) version :(
     * Word 2007 (docx) version :|
     * XHTML (Google Docs) version :) <-watch this video on how to copy&paste XHTML into Google Docs to utilise their WYSYWIG
