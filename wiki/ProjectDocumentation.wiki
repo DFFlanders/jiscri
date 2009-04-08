@@ -12,13 +12,15 @@ We have provided both the official Word document template form and a xhtml forma
 
 Projects Documentation Templates:
   * [http://spreadsheets.google.com/viewform?hl=en&formkey=cG84ZHFaX0d1TmY1UTJmZDAweHI5Vnc6MA.. Core Project Information Form] <- please fill out within first fortnight of project.
+  * Consortium Agreement <- please contact the programme manager ASAP!
   * Project Plan <- please fill out within first month of project.
     * Word 97 (doc) version :(
     * Word 2007 (docx) version :|
     * XHTML (Google Docs) version :) <-watch this video on how to copy&paste XHTML into Google Docs to utilise their WYSYWIG
   * Progress Reports: So as to make your life easier (and ideally enable you to write documentation for all those potential users on the World Wild Web, we are requesting a series of project progress blog posts.  In short, we would like you to write a blog post on the following themes (making sure to use the correct tags):
     * SWOT Analysis <- please make sure to use tags: "swot", "jiscri", "jisc", "[your own project tag]", etc.
-    * Methodology
+    * Methodology <- more info soon, check back.
+    * Money <- more info soon, check back.
     * TBC...
   * Final Project Report
     * Word 97 (doc) version :(
