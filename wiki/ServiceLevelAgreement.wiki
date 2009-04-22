@@ -15,13 +15,21 @@ The following is a list of things that the Programme Manager is likely to consul
     * _Failure to actively communicate with the Programme Manager on documentation can result in stoppage and even pulling back of your funding._
   # A programme manager will attempt to organise events around common patterns and nodes that emerge over the course of the project.
     * Ideas for event welcome, especially if you can provide a free venue! ;-)
-  # Support projects by providing advice on: development practices, evaluation techniques, dissemination plan and business case (sustainability) strategy. 
+  # Support projects by providing advice on: development practices, IPR, evaluation techniques, dissemination plan and business case (sustainability) strategy. 
   # Last but certainly not least is the essential service of helping create a community, which of course requires the wisdom of crowds so we can find commonalities to exploit!  Again, any ideas for how to enable shared commonalties between communities is greatly appreciated (and please do think outside of the JISC community box!).  
 
 = Chronological examples of service rendered by Programme Manager to individual projects =
 
 From a typical 6 month project the following can be expected from the Programme Manager:
   * A F2F visit to the host project institution to meet the project team (project manager, developers and bonus points if we can meet a real end user!)
-    * Go over service points 1 & 2
-  * 
-  * Automatic links to other wiki pages
+  * A Programme Meeting with all projects in attendance
+    * You usually get a nice meal out of it, let alone the networking opportunities :)
+  * Updates on when ProjectDocumentation is due
+  * Support for any project events of significance
+    * On particular interest are events that involve actual end users
+    * Any multi-developer gathering: talkShop, barcamp, pair-programming, etc.
+  * On call (twitter, skype, email, etc.) support on any queries.
+  * Attendance at final project event
+    * Meetings with senior management
+    * Final evaluation lunches 
+    * Software launch events
