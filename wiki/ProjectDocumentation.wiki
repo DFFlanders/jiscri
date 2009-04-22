@@ -11,7 +11,7 @@ Below is a list of template documents you will need to fill out.
 We have provided both the official Word document template form and a XHTML formatted (including microformats!) templates below.  You are of course welcome to use the word documents, but would also welcome the use of an open standard such as XHTML.  So as to make the XHTML document wordprocessor friendly, we've formatted them as Google Docs templates so you can copy & paste them into a Google Docs to edit them there with their user friendly WYSIWYG :)
 
 ==List of Projects Documentation Templates:==
-  * [http://spreadsheets.google.com/viewform?hl=en&formkey=cG84ZHFaX0d1TmY1UTJmZDAweHI5Vnc6MA.. Core Project Information Form] <- please fill out within first fortnight of the project.  Deadline: April 20th 2009.
+  * [http://spreadsheets.google.com/viewform?hl=en&formkey=cG84ZHFaX0d1TmY1UTJmZDAweHI5Vnc6MA.. Core Project Information Form] <- please fill out within first fortnight of the project.  Deadline: May 1st 2009.
   * Consortium Agreement <- if applicable, please contact the programme manager ASAP to discuss!
   * Project Plan <- please fill out within first month of project.  Deadline: May 1st 2009.
     * Word 97 (doc) version :(
