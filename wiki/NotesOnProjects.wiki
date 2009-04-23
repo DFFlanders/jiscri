@@ -1,23 +1,15 @@
 #summary Notes by programme manager on various projects and their progress.
 
-Please note: these notes are not complete nor definitive, they are only thoughts and notes by the Programme Manager as gleaned from brief meetings/communication with the projects.  For official comments please see official project websites or the jisc.ac.uk website.
+Please note: these notes are not complete nor definitive, they are only thoughts and notes by the Programme Manager as gleaned from brief meetings/communication with the projects.  For official project information please see official project websites or the jisc.ac.uk website.
 
 = Projects =
 
-Please click on the following links for each project to see notes:
+Please click on the following links to see the Programme Managers notes on each project:
 
   * [http://docs.google.com/Doc?id=ddpd4q4q_1d92bh6hh allAboutMePrints at University of Southampton]
-  * Wireslike.us at University of Bath, UKLON
-  * CLASM at ULCC
+  * [http://docs.google.com/Doc?id=ddpd4q4q_3z62g6wfg Wireslike.us at University of Bath, UKLON]
+  * [http://docs.google.com/Doc?id=ddpd4q4q_4j7g26hzb CLASM at ULCC]
   * [http://docs.google.com/Doc?id=ddpd4q4q_2x26x3zf3 PAXS at University of Southampton]
   * [http://docs.google.com/Doc?id=ddpd4q4q_0wk83gvfv AMSeT at University of Leeds]
-  * DIASER at University of Southampton
-  * XPERT at University of Nottingham
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+  * [http://docs.google.com/Doc?id=ddpd4q4q_5d48qqhfs DIASER at University of Southampton]
+  * [http://docs.google.com/Doc?id=ddpd4q4q_6hr3f38fd XPERT at University of Nottingham]
