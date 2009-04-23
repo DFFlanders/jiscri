@@ -1,0 +1,17 @@
+#summary Notes by programme manager on various projects and their progress.
+
+Please note: these notes are not complete nor definitive, they are only thoughts and notes by the Programme Manager as gleaned from brief meetings/communication with the projects.  For official comments please see official project websites or the jisc.ac.uk website.
+
+= Projects =
+
+Please click on the following links for each project to see notes:
+
+  * 
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
