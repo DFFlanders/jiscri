@@ -15,11 +15,15 @@ We have provided both the official Word document template form and a XHTML forma
   # Consortium Agreement <- if applicable, please contact the programme manager ASAP to discuss!
   # Project Plan <- please fill out within first month of project.  Deadline: May 1st 2009.
     * Word 97 (doc) version :(
+      * [http://www.jisc.ac.uk/media/documents/funding/project_management/coversheettemplate0407.doc cover sheet]
+      * [http://www.jisc.ac.uk/media/documents/funding/project_management/projectplantemplate0407.doc project plan]
+      * [http://www.jisc.ac.uk/media/documents/funding/project_management/workpackagestemplate0407.doc workplan]
+      * [http://www.jisc.ac.uk/media/documents/funding/project_management/budgetprojectplanstemplate0407.doc budget]
+    * Word 2007 (docx) version :|
       * cover sheet
       * project plan
       * workplan
       * budget
-    * Word 2007 (docx) version :|
     * XHTML (Google Docs) version :)
       * watch this video on how to copy&paste XHTML into Google Docs to utilise their WYSYWIG
       * the XHTML Project Plan has full project plan template included (cover sheet, project plan, workplan and budget).
