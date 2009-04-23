@@ -11,22 +11,28 @@ Below is a list of template documents you will need to fill out.
 We have provided both the official Word document template form and a XHTML formatted (including microformats!) templates below.  You are of course welcome to use the word documents, but would also welcome the use of an open standard such as XHTML.  So as to make the XHTML document wordprocessor friendly, we've formatted them as Google Docs templates so you can copy & paste them into a Google Docs to edit them there with their user friendly WYSIWYG :)
 
 ==List of Projects Documentation Templates:==
-  * [http://spreadsheets.google.com/viewform?hl=en&formkey=cG84ZHFaX0d1TmY1UTJmZDAweHI5Vnc6MA.. Core Project Information Form] <- please fill out within first fortnight of the project.  Deadline: May 1st 2009.
-  * Consortium Agreement <- if applicable, please contact the programme manager ASAP to discuss!
-  * Project Plan <- please fill out within first month of project.  Deadline: May 1st 2009.
+  # [http://spreadsheets.google.com/viewform?hl=en&formkey=cG84ZHFaX0d1TmY1UTJmZDAweHI5Vnc6MA.. Core Project Information Form] <- please fill out within first fortnight of the project.  Deadline: May 1st 2009.
+  # Consortium Agreement <- if applicable, please contact the programme manager ASAP to discuss!
+  # Project Plan <- please fill out within first month of project.  Deadline: May 1st 2009.
     * Word 97 (doc) version :(
+      * cover sheet
+      * project plan
+      * workplan
+      * budget
     * Word 2007 (docx) version :|
-    * XHTML (Google Docs) version :) <-watch this video on how to copy&paste XHTML into Google Docs to utilise their WYSYWIG
-  * Progress Reports: So as to make your life easier (and ideally enable you to write documentation for all those potential users on the World Wild Web), we are requesting a series of project progress blog posts (instead of the reports).  In short, we would like you to write a blog post on the following themes (making sure to use the correct tags):
+    * XHTML (Google Docs) version :)
+      * watch this video on how to copy&paste XHTML into Google Docs to utilise their WYSYWIG
+      * the XHTML Project Plan has full project plan template included (cover sheet, project plan, workplan and budget).
+  # Progress Reports: So as to make your life easier (and ideally enable you to write documentation for all those potential users on the World Wild Web), we are requesting a series of project progress blog posts (instead of the reports).  In short, we would like you to write a blog post on the following themes (making sure to use the correct tags):
     * TBC SWOT Analysis? <- please make sure to use tags: "swot", "jiscri", "jisc", "[your own project tag]", etc.
     * TBC Methodology? <- more info soon, check back.
     * TBC Money? <- more info soon, check back.
     * TBC...
-  * Final Project Report
+  # Final Project Report
     * Word 97 (doc) version :(
     * Word 2007 (docx) version :|
     * XHTML (Google Docs) version :) <-watch this video on how to copy&paste XHTML into Google Docs to utilise their WYSYWIG
-  * Completion Report and Final Budget
+  # Completion Report and Final Budget
     * Word 97 (doc) version :(
     * Word 2007 (docx) version :|
     * XHTML (Google Docs) version :) <-watch this video on how to copy&paste XHTML into Google Docs to utilise their WYSYWIG
