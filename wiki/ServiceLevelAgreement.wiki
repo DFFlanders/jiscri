@@ -1,4 +1,4 @@
-#summary This page describes the SLA of the Programme Manager to each individual project within the programme.
+#summary This page describes what things (services) the Programme Manager can do for you!
 
 = Service Level Agreement =
 
