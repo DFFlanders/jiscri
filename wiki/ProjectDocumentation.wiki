@@ -13,6 +13,8 @@ We have provided both the official Word document template form and a XHTML forma
 ==List of Projects Documentation Templates:==
   # [http://spreadsheets.google.com/viewform?hl=en&formkey=cG84ZHFaX0d1TmY1UTJmZDAweHI5Vnc6MA.. Core Project Information Form] <- please fill out within first fortnight of the project.  Deadline: May 1st 2009.
   # Consortium Agreement <- if applicable, please contact the programme manager ASAP to discuss!
+    * All consortium based projects must sign a consortium agreement, otherwise the lead institution must treat each partner as a consultant and arrange for consultant contracts based upon individual workpackage agreements.  
+    * You must provide a copy of the consortium agreement to the programme manager.
   # Project Plan <- please fill out within first month of project.  Deadline: May 1st 2009.
     * Word 97 (doc) version :(
       * [http://www.jisc.ac.uk/media/documents/funding/project_management/coversheettemplate0407.doc cover sheet]
