@@ -20,10 +20,12 @@ Develop distributed repository of learning materials created via Xerte Online To
 = Meetings =
 
 ==Meeting on 5th of May at 9am w/ Project Team and Steering Board==
-To Do:
-  * Go over Core project info: tag for this page!
-  * Sign off on ProgManger SLA
-  * SWOT analysis (one thought for each: strengths, weaknesses, opportunities and threats) for the project?
+
+Actions:
+  * Go over Core project info: uniquely identifiable web tag for the project!!!
+  * Sign off on ProgManger SLA: please sign in the comments section of ServiceLevelAgreement page
+
+===SWOT analysis:===
 
 Strengths:
   * Synergy with national strategies OER
@@ -80,6 +82,15 @@ Threats:
   * multimedia content integration: skills of lecturers 
   * future funding, sustainability
 
+===workflow===
+sign up for tool > install tool > allow RSS feed to be aggregated > enter email address for attribution > confirmation link in email > admin console to turn feed off > 
+
+how academic publishes?
+* opt in / opt out : publish
+* Q/A process
+
+<--! is there a clickable tick and take down policy? -->
+
 Notes:
 
 * beta prototype 
@@ -92,7 +103,7 @@ Notes:
 Audience: Further Education
 Moodle and Xerte on a stick <- xerte toolkit on a USB
 
-Last Firday of the month have a online tutorial, supoprted by tech Dis
+Last Friday of the month have a online tutorial, supoprted by tech Dis, 
 
 code sprints:
 * installed in other institutions
@@ -101,4 +112,3 @@ code sprints:
 user install toolkit, after install asks to submit to repository -> RSS push -> [entity] -> push items into Repository 
 
 Sprint: push to repository 
-
