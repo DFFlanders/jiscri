@@ -1,4 +1,5 @@
 #summary One-sentence summary of this page.
+#labels project
 
 = Project Details =
 
@@ -24,6 +25,8 @@ Develop distributed repository of learning materials created via Xerte Online To
 Actions:
   * Go over Core project info: uniquely identifiable web tag for the project!!!
   * Sign off on ProgManger SLA: please sign in the comments section of ServiceLevelAgreement page
+  * Look at pedagogical patterns exposed: Tom Boyle (RLO-CETL), Andrew Boyle (AMSET), 
+  * Talk to Scott Wilson: Apache Shindig installation of XERTE on Moodle, Sakai and Blackboard
 
 ===SWOT analysis:===
 
@@ -83,6 +86,8 @@ Threats:
   * future funding, sustainability
 
 ===workflow===
+http://farm4.static.flickr.com/3542/3503403445_67e1ab17fa.jpg?v=0
+
 sign up for tool > install tool > allow RSS feed to be aggregated > enter email address for attribution > confirmation link in email > admin console to turn feed off > 
 
 how academic publishes?
@@ -92,18 +97,24 @@ how academic publishes?
 <--! is there a clickable tick and take down policy? -->
 
 Notes:
+* packages are not http addressable. <- use cases for http granularity?
 
-* beta prototype 
+* achieve beta prototype of aggregator
 * set of tools for developers:
 ** actionscript open source
 * 200 developers on mailiing list: 
 * 3000 hits
 ** toolkits atop language: form fill
 
+* creating the open source community to support XERTE documentation, screencast and installation? <--! who supports the creation and support of this community?
+
+
 Audience: Further Education
 Moodle and Xerte on a stick <- xerte toolkit on a USB
 
-Last Friday of the month have a online tutorial, supoprted by tech Dis, 
+Last Friday of the month have a online tutorial, supoprted by techdis, 
+
+
 
 code sprints:
 * installed in other institutions
@@ -111,4 +122,5 @@ code sprints:
 
 user install toolkit, after install asks to submit to repository -> RSS push -> [entity] -> push items into Repository 
 
-Sprint: push to repository 
+presenting at Alt-C in Manchester 2009
+attendance at Friday events
