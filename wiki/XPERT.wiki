@@ -1,0 +1,104 @@
+#summary One-sentence summary of this page.
+
+= Project Details =
+
+A3-10 University of Nottingham XPERT University of Bolton, 
+JISC TechDis
+Andy Beggan andy.beggan - nottingham.ac.uk
+19 months 4/1/2009 10/1/2010 => 
+59777 
+Develop distributed repository of learning materials created via Xerte Online Toolkit.
+
+= Project Team =
+  * Andy Beggan is the project manager and lead of learning team at Nottingham
+  * Alison Johnson role will be to facilitate, organise and disseminate the activities of the project and started this week working 2 days per week
+
+= Documentation Progress =
+  * podcast on Xerte Online Toolkits internally which we plan to put on YouTube.  You will see it on page 14 of the following RLO created in Xerte Online Toolkits about our Second Life project.
+  * http://www.nottingham.ac.uk/toolkits/play_922
+
+= Meetings =
+
+==Meeting on 5th of May at 9am w/ Project Team and Steering Board==
+To Do:
+  * Go over Core project info: tag for this page!
+  * Sign off on ProgManger SLA
+  * SWOT analysis (one thought for each: strengths, weaknesses, opportunities and threats) for the project?
+
+Strengths:
+  * Synergy with national strategies OER
+  * Works for most people most of the time
+  * (x1) user friendly, ease of use
+  * Cost of implementation
+  * Rapid production with minimal technical expertise
+  * Automation of publishing process
+  * Open Access
+  * TechDis endorsement
+  * IT IS FREE!
+  * Already have a user community
+  * Separation of concerns in code: xml backbone vs run time ? <- Is there a programming pattern being used, e.g. MVC, RMR?
+
+Weaknesses:
+  * Timescale - 5 months
+  * small number of partners (content generation)
+  * Trying to serve too many customers (bespoke vs generic)
+  * Lack of awareness of open content?
+  * Academic buy in, getting people to use it, using eLearning more generally
+  * Fear of publishing openly <- culture of change
+  * credibility of being a Nottingham product <- market posititon
+  * Written in ActionScript
+
+Opportunities:
+  * Completion date in September (short)
+  * Dissemination at ALT
+  * Rich content can attract new distance learning audiences: team teaching including international, adult learners, hospitalised learners, Jorum-haters...
+  * cross referencing like Amazon <- other users have liked this resource
+  * Legal requirement for open learning license
+  * FE communities
+  * National Standard for HE content creation?
+  * DDA or DED legislation for legal requirements in Accessibility requirements
+  * ongoing funding and potential funding
+  * using it for staff development: teach the teachers
+  * Training events
+  * get international recognition
+  * Try before you buy <--! is it easy to install? political battles to get it installed (digital signature for exe?)
+
+Threats:  
+  * (x1)Commercial competition
+  * Summer Holiday
+  * Timeliness for engaging academic staff and learners
+  * Customer perception of e-learning
+  * Repository fatique
+  * Open Learn competition
+  * Reusuable learning objects becoming fragmented
+  * Overhead of supporting multiple users
+  * list out the top three most immediate code sprints to be done along with an effort required rating 1-5 (i.e. little effort = 1 : good deal of effort = 5)?
+  * names and a quick biog for a handful of end user currently involved in the project?
+  * preference for managing the project, e.g. prince, waterfall, agile, scrum, etc.
+  * potential business cases for making the stuff creating viable in the long term, e.g. how do you see the project resources being funded beyond the life of this project?
+  * misuse of tool by others <- how tool can be used
+  * multimedia content integration: skills of lecturers 
+  * future funding, sustainability
+
+Notes:
+
+* beta prototype 
+* set of tools for developers:
+** actionscript open source
+* 200 developers on mailiing list: 
+* 3000 hits
+** toolkits atop language: form fill
+
+Audience: Further Education
+Moodle and Xerte on a stick <- xerte toolkit on a USB
+
+Last Firday of the month have a online tutorial, supoprted by tech Dis
+
+code sprints:
+* installed in other institutions
+* aggregatre RSS feeds: 
+
+user install toolkit, after install asks to submit to repository -> RSS push -> [entity] -> push items into Repository 
+
+Sprint: push to repository 
+
