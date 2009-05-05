@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary auto create rss feeds out of learning resources for consumption by central rss aggregation service
 #labels project
 
 = Project Details =
@@ -8,11 +8,20 @@ JISC TechDis
 Andy Beggan andy.beggan - nottingham.ac.uk
 19 months 4/1/2009 10/1/2010 => 
 59777 
+Project is extending the Xerte online packaging tool which creates learning resources to expose an RSS feed of the content so it can be syndicated to a central store of learning content.
+
 Develop distributed repository of learning materials created via Xerte Online Toolkit.
 
 = Project Team =
   * Andy Beggan is the project manager and lead of learning team at Nottingham
   * Alison Johnson role will be to facilitate, organise and disseminate the activities of the project and started this week working 2 days per week
+
+= Project Partners =
+  * Roy Attwood and Brett Haslam at Bolton
+    * Installation
+  * Alison Johnson at JISC Tech Dis
+    * Providing teaching material and support documentation on how to use XERTE
+    * Installing 
 
 = Documentation Progress =
   * podcast on Xerte Online Toolkits internally which we plan to put on YouTube.  You will see it on page 14 of the following RLO created in Xerte Online Toolkits about our Second Life project.
@@ -27,6 +36,7 @@ Actions:
   * Sign off on ProgManger SLA: please sign in the comments section of ServiceLevelAgreement page
   * Look at pedagogical patterns exposed: Tom Boyle (RLO-CETL), Andrew Boyle (AMSET), 
   * Talk to Scott Wilson: Apache Shindig installation of XERTE on Moodle, Sakai and Blackboard
+  * Business Cases for how XERTE could be submitted 
 
 ===SWOT analysis:===
 
