@@ -1,0 +1,17 @@
+#summary explores generation of metadata about individuals and their likely community memberships.
+#labels project
+
+What questions does the project answer?
+  * Do you need people to sit down on social networking sites to generate data or can a machine guess for you?
+
+= Introduction =
+
+Add your content here.
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
