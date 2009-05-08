@@ -1,0 +1,59 @@
+#summary explores generation of metadata about individuals and their likely community memberships.
+
+What questions does the project answer?
+  * Do you need people to sit down and declare social networks or can a machine automatically suggest that network (the ties that bind) for you?
+
+= Introduction =
+
+==Project Details==
+A4-8 
+University of Bath, UKLON 
+writeslike.us 
+6 months 4/1/2009 10/1/2009
+29427
+
+==Project Team==
+Project Director: Michael Day m.day(at)ukoln.ac.uk
+Project Manager (PI): Emma Tomkin
+
+
+
+=Meetings=
+
+==Mtg on 07 May 2009==
+
+====SWOT:====
+  * Strengths:
+    * existing resources ready to be exploited for social network data <- Intute IRS dataset
+    * We need to be able to recognise scholarly networks
+  * Weaknesses:
+    * requires data throughput and compute time to process
+    * mathematically intensive experimentation with algorithms 
+    * precision (++) vs. recall (-)
+  * Opportunities:
+    * Could be a game changer for delivering scholarly resources to the right scholarly social networks
+    * Some relations should be exposed of networks (~40%) and potentially more (~%60?)
+  * Threats:
+    * Minimal staff time to devote to complex problems in algorithm adjustment 
+
+====Workpackage Sprints / labour rating (<easy>X1...X5<hard>):====
+list out the top three most immediate code sprints to be done along with an effort required rating 1-5 (i.e. little effort = 1 : good deal of effort = 5)?
+
+  # Ascribe data to person: assign scholarly profile index to a name (X1)
+  # Find unique data points for each person <- names, ldap, etc. (X3)
+  # Test algorythm social network lasso (X5)
+  # Create widget to show academic social network (X2)
+
+names and a quick biog for a handful of end user currently involved in the project?
+
+preference for managing the project, e.g. prince, waterfall, agile, scrum, etc.
+
+potential business cases for making the stuff creating viable in the long term, e.g. how do you see the project resources being funded beyond the life of this project?
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
