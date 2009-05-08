@@ -6,10 +6,10 @@ Please note: these notes are not complete nor definitive, they are only thoughts
 
 Please click on the following links to see the Programme Managers notes on each project:
 
-  * [http://docs.google.com/Doc?id=ddpd4q4q_1d92bh6hh allAboutMePrints at University of Southampton]
-  * [http://docs.google.com/Doc?id=ddpd4q4q_3z62g6wfg Writeslike.us at University of Bath, UKLON]
-  * [http://docs.google.com/Doc?id=ddpd4q4q_4j7g26hzb CLASM at ULCC]
-  * [http://docs.google.com/Doc?id=ddpd4q4q_2x26x3zf3 PAXS at University of Southampton]
-  * [http://docs.google.com/Doc?id=ddpd4q4q_0wk83gvfv AMSeT at University of Leeds]
-  * [http://docs.google.com/Doc?id=ddpd4q4q_5d48qqhfs DIASER at University of Southampton]
-  * [http://docs.google.com/Doc?id=ddpd4q4q_6hr3f38fd XPERT at University of Nottingham]
+  * allAboutMePrints at University of Southampton
+  * writesLikeUs at University of Bath, UKLON
+  * CLASM at ULCC
+  * PAXS at University of Southampton
+  * AMSeT at University of Leeds
+  * DIASER at University of Southampton
+  * XPERT at University of Nottingham
