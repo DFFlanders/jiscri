@@ -1,0 +1,101 @@
+#summary creating template teaching/learning workflows atop Alfresco CMS using BPML
+#labels projects
+
+What questions does this project answer?
+  *
+  *
+
+= Introduction =
+
+A4-2 
+University of Leeds 
+Alfresco Management and Security Toolkit (AMSeT)
+Andrew Booth a.g.booth - leeds.ac.uk
+6 month project = 4/1/2009 to 9/1/2009 
+Develop Web service toolkit for JSR-based Alfresco CMS, including Shibb SP (based on Guanxi), SWORD, Blackboard integration
+£28151
+Mtg on Friday April 24 in Leeds - confirmed
+
+Programme Manager Thoughts:
+   * Andrew and Brian have been around the block with these kinds of projects.  Primarily they are building tools that will better enable them to integrate the University systems (Blackboard, Shiboleth, WebApps, etc) into a core enterprise system.  They know what they want and I have confidence they will build what is in the their workplan.
+  * Their insight into pedagogical workflow is trying to move the community beyond the .ac.uk/.edu domain and rather embrace the principle of let the Web do the heavy lifting (BPMN, instead of LTI-LD or LAMS) and we just take care of the remaining 10% (hence their use of Alfresco and simple .ac.uk fixes: SWORD, Shibboleth, Blackboard). 
+  * It will be interested to see what sweet spots they find in creating the 40-some template learning/teaching workflows and which ones truly do take advantage of BPMN beyond what ReST based (long polling) or XMPP messaging architectures can provide.
+    * I think there is potential to utilise this for e-Administration
+    * Would like to have a developer barcamp (show & tell) to have projects show their use case and then how the tools they are using fits their use case and why (explain it in >5min).
+ 
+Primary Product (output) = workflow integration of Alfresco with other core systems across the University architecture
+ 
+Secondary Products (outputs):
+* Want to show that there are alternative workflows to IMS Learning Design and LAMS
+  * utilise business tried and tested (and funded) workflow tools (BPML) to create template learning workflows
+* Alfresco as a bank-end system to any learning activity be that VLE, PLE, web interface, etc.
+* Emphasis upon eLearning as an automated process based engine.
+ 
+Use Case:
+* Workflow: student writes paper -> is sent to teacher -> teacher audits paper -> paper sent to class discussion board -> class audits paper -> paper returned to student -> student does final edit -> student published paper -> teacher grades paper.
+** The “what is” learning design pattern.
+ 
+Users:
+* potential use of MSc students to try out workflows
+* Andrew teaches 2nd year undergrad students Python vs. formerly teaching 1st year grad students Java (OO)
+ 
+Developers:
+* Just the two project members (Brian and Andrew)
+  * Andrew teaches bioinformatics
+  * Brian teaches Chemistry
+* Partial contact with Blackboard Building Block developer in the library
+* Services run outside of central IT
+ 
+Methodology:
+  * VC: “three developers and a garage” => “two developers and shed”
+  * Epic sprint over the summer between the two of them, isolated,  sprint then jog,
+  * well defined workpackages, waterfall approach.
+ 
+Four primary workpackages (listed from easiest to most laborious):
+  * Blackboard integration into Alfresco
+  * SWORD integration into Alfresco
+  * Shibboleth integration into Alfresco
+    * Guaxi by Andrew
+  * BPML Workflow integration into Alfresco
+    * ~40 workflow patterns to template (users, groups and content)
+   * Use of WSDL to generate workflows by Brian
+ 
+Should liaise with:
+  * Groovy <- AaronZ, Jim?
+  * LTI <- Scott
+  * BPML <- Simon Hodson, Richard Green, Balbir Bahn
+  * OpenID/Shib <- Kent Dev
+ 
+Technologies Using:
+  * IDE = NetBeans
+  * Glassfish
+  * Groovy as Scripting Lang
+  * Java based architecture
+  * WAFFLE? ESBus to coordinate various service endpoints for workflow
+  * BPMN
+  * WSDL / SOAP
+ 
+Potential Technologies to Compare:
+  * OAuth / OpenID
+  * Apache Shindig, Wookie, LTIL
+ 
+SWOT analysis:
+  * Strengths:
+    *6+ Years team has worked together
+    * have had ~7 JISC projects
+    * self-contained
+  * Weaknesses:
+    * BPEL has no concept of a person (user orientation/control of workflow vs. being lead through the workflow <- could be strength as learners need to be lead sometimes?)
+    * New to SWORD
+    * could use one more developer <- fEC shaved budget
+  * Opportunities
+    * Make the HE community aware of Alfresco and integration points into Enterprise University Architecture
+    * Alfresco provides a content system (repository) plus enterprise workflow and service coordination atop.
+  * Threats
+    * cost of entry
+    * buy in by central IT of architecture
+
+Sustainability (Business Cases):
+  * No effective plan, pet project to support students and potentially move central IT onto new arhictecture
+  * Will continue to look for .ac.uk grant funding
+  * difficult to get research council funding due to lack of RC understanding technical aspects of projects.
