@@ -7,16 +7,16 @@ What questions does the project answer?
 = Introduction =
 
 ==Project Details==
-A4-8 
-University of Bath, UKLON 
-writeslike.us 
-6 months 4/1/2009 10/1/2009
-29427
+  * A4-8 
+  * University of Bath, UKLON 
+  * writeslike.us 
+  * 6 months 4/1/2009 10/1/2009
+  * 29427
 
 ==Project Team==
-Project Director: Michael Day m.day(at)ukoln.ac.uk
-Project Manager (PI): Emma Tomkin
-
+  * Project Director = Michael Day m.day(at)ukoln.ac.uk
+  * Project Manager / Developer = Emma Tomkin
+  * Developer = Alex Strelnikov
 
 
 =Meetings=
@@ -51,10 +51,8 @@ preference for managing the project, e.g. prince, waterfall, agile, scrum, etc.
 
 potential business cases for making the stuff creating viable in the long term, e.g. how do you see the project resources being funded beyond the life of this project?
 
+====Notes====
 
-= Details =
+http://farm4.static.flickr.com/3401/3510545366_cd6ede23ae.jpg?v=0
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+http://www.flickr.com/photos/36299951@N08/3510544930/ 
