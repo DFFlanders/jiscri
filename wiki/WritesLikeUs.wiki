@@ -37,7 +37,7 @@ Project Manager (PI): Emma Tomkin
   * Threats:
     * Minimal staff time to devote to complex problems in algorithm adjustment 
 
-====Workpackage Sprints / labour rating (<easy>X1...X5<hard>):====
+====Workpackage-Sprints====
 list out the top three most immediate code sprints to be done along with an effort required rating 1-5 (i.e. little effort = 1 : good deal of effort = 5)?
 
   # Ascribe data to person: assign scholarly profile index to a name (X1)
