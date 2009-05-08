@@ -1,8 +1,15 @@
 #summary explores generation of metadata about individuals and their likely community memberships.
 #labels project
 
-What questions does the project answer?
-  * Do you need people to sit down and declare social networks or can a machine automatically suggest that network (the ties that bind) for you?
+=Project Descriptions / Outputs=
+  * What questions does the project answer?
+    # Do you need people to sit down and declare social networks or can a machine automatically suggest that network (the ties that bind) for you?
+  * Two sentence project pitch: explores generation of metadata about individuals and their likely community memberships.
+  * Official Project Description: The writeslike.us project explores the question of generating metadata about individuals and their likely community memberships. It is a practical development project for development of a prototype repository enhancement
+service and sample interface, proposing candidate community participation information from analysis of existing documents & metadata. 
+
+
+
 
 = Introduction =
 
