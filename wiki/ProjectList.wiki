@@ -1,4 +1,5 @@
 #summary This page lists all the projects in the JISCRI programme
+#labels projects
 
 Please note: these notes are not complete nor definitive, they are only thoughts and notes by the Programme Manager as gleaned from brief meetings/communication with the projects.  For official project information please see official project websites or the jisc.ac.uk website.
 
@@ -9,7 +10,7 @@ Please click on the following links to see the Programme Managers notes on each 
   * AllAboutMePrints at University of Southampton
   * WritesLikeUs at University of Bath, UKLON
   * [CLASM] at ULCC
-  * PAXS at University of Southampton
-  * AMSeT at University of Leeds
-  * DIASER at University of Southampton
-  * XPERT at University of Nottingham
+  * [PAXS] at University of Southampton
+  * [AMSeT] at University of Leeds
+  * [DIASER] at University of Southampton
+  * [XPERT] at University of Nottingham
