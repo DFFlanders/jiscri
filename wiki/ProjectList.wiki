@@ -6,7 +6,7 @@ Please note: these notes are not complete nor definitive, they are only thoughts
 
 Please click on the following links to see the Programme Managers notes on each project:
 
-  * allAboutMePrints at University of Southampton
+  * AllAboutMePrints at University of Southampton
   * writesLikeUs at University of Bath, UKLON
   * CLASM at ULCC
   * PAXS at University of Southampton
