@@ -1,4 +1,5 @@
 #summary explores generation of metadata about individuals and their likely community memberships.
+#labels project
 
 What questions does the project answer?
   * Do you need people to sit down and declare social networks or can a machine automatically suggest that network (the ties that bind) for you?
