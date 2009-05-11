@@ -1,0 +1,38 @@
+#summary One-sentence summary of this page.
+#labels project
+
+=Descriptions=
+  * What questions are this project trying to answer:
+    * How can we enrich the repository users experience my giving them more interesting and informative home within the repository environment?
+    * How can we best exploit what we know about users of the repository to expose their skills and promote their position in their field of expertise to improve their reputation and the reputation of their institution?
+
+= Project Details =
+  * A4-5 
+  * University of Southampton
+  * David Millard dem@ecs.soton.ac.uk
+  * 6 months 4/1/2009 10/1/2009
+  * 29751
+
+=Meetings=
+
+==Mtg on Thursday May 14th at Southampton==
+
+Sign off on ProgManger SLA
+
+SWOT analysis (one thought for each: strengths, weaknesses, opportunities and threats) for the project?
+
+list out the top three most immediate code sprints to be done along with an effort required rating 1-5 (i.e. little effort = 1 : good deal of effort = 5)?
+
+names and a quick biog for a handful of end user currently involved in the project?
+
+preference for managing the project, e.g. prince, waterfall, agile, scrum, etc.
+
+potential business cases for making the stuff creating viable in the long term, e.g. how do you see the project resources being funded beyond the life of this project?
+
+
+=== Notes ===
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
