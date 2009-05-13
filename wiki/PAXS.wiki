@@ -1,0 +1,27 @@
+#summary One-sentence summary of this page.
+#labels project
+
+= Introduction =
+A4-9 University of Southampton
+Plugins for Advanced Export & Search (PAXS)
+monica mc schraefel mc-ecs.soton.ac.uk
+6 months 4/1/2009 9/1/2009
+29829
+
+Mtg on Wed 13th in Southampton - confirmed
+Sign off on ProgManger SLA
+
+SWOT analysis (one thought for each: strengths, weaknesses, opportunities and threats) for the project?
+
+list out the top three most immediate code sprints to be done along with an effort required rating 1-5 (i.e. little effort = 1 : good deal of effort = 5)?
+
+names and a quick biog for a handful of end user currently involved in the project?
+
+preference for managing the project, e.g. prince, waterfall, agile, scrum, etc.
+
+potential business cases for making the stuff creating viable in the long term, e.g. how do you see the project resources being funded beyond the life of this project?
+
+
+Who is writing in the high impact journals: 
+URI for 
+ubber CV
