@@ -7,6 +7,8 @@
     * Q1
     * Q2
 
+
+
 =Project Info=
   * Strand: A4-11 
   * Institution: University of Southampton Distributed Internet Archieve Systems for Educational Repositories DIASER
@@ -24,11 +26,60 @@ Sign off on ProgManger SLA
 
 SWOT analysis (one thought for each: strengths, weaknesses, opportunities and threats) for the project?
 
+  *
 list out the top three most immediate code sprints to be done along with an effort required rating 1-5 (i.e. little effort = 1 : good deal of effort = 5)?
 
 names and a quick biog for a handful of end user currently involved in the project?
+  * 
 
 preference for managing the project, e.g. prince, waterfall, agile, scrum, etc.
 
 potential business cases for making the stuff creating viable in the long term, e.g. how do you see the project resources being funded beyond the life of this project?
 
+
+Algorythm 
+sub gen-dir creates the year folders
+
+hvautoc_c.pl is the distribution 
+
+bacula is creating backups in form differentials
+
+critical and non critical is decided
+
+speed of links between nodes: lowest maximum bandwidth is basis
+
+hyper virtual auto changer = mechanical arm tape drive (virtualised)
+
+distributed virtual tape drive (IBM 98), 
+gen_hvauto = control over 
+
+vim
+
+two phases of copies: 
+
+diaser.pl
+
+install as  helper_scripts
+
+move node 
+
+launch / deployable date:
+  * 29th RSS feed
+
+Audience:
+  * low cost robust
+  * ethical computing SMEs
+  * 
+
+Methodology:
+  * open development methodology -> GPL, -> extended open development.  Decisions are made on user feedback.
+  * repository managers
+  * IT managers who have remit to this
+  * systems administrators
+  * 
+
+Three systems: afternoon time, plus 3-4K pounds 
+
+sustanable:
+* levels of support: email, web, phone, etc.
+* 
