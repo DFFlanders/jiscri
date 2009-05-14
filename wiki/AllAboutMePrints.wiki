@@ -13,6 +13,11 @@
   * 6 months 4/1/2009 10/1/2009
   * 29751
 
+=Project Team=
+  * David Millard
+  * Yvonne
+  * 
+
 =Meetings=
 
 ==Mtg on Thursday May 14th at Southampton==
@@ -21,13 +26,58 @@ Sign off on ProgManger SLA
 
 SWOT analysis (one thought for each: strengths, weaknesses, opportunities and threats) for the project?
 
+  * strengths: integration with ePrints as a profile (homepage) plugin
+  * weaknesses:dependent upon the quality of the developers 
+  * opportunities: number and variety fo users helping to build the prototype (from previous projects)
+  * threats: commercial threats of other systems (iTunesU, Slideshare, YouTubeEdu, etc).
+
+user process:
+  * fortnightly build
+  * build framework for profiles take to a workshop with end users to test (workshops every two of three months)
+  * will show features to domain experts (3-4 from southampton, portsmouth), workshops are lead by domain experts who collects students together
+
+
 list out the top three most immediate code sprints to be done along with an effort required rating 1-5 (i.e. little effort = 1 : good deal of effort = 5)?
 
 names and a quick biog for a handful of end user currently involved in the project?
 
-preference for managing the project, e.g. prince, waterfall, agile, scrum, etc.
+preference for managing the project: agile
 
 potential business cases for making the stuff creating viable in the long term, e.g. how do you see the project resources being funded beyond the life of this project?
+
+Oneshare about getting into a services place.  Repositories are hand crafted but don't want to support everyone who comes along and wants to use it.  
+  * Eprints is a frmaework for building repositories, as is it is a research repositoriy, one share would enable the plugins to enhance it to enable it to handle other content types.  
+  * Open source model of support = ePrints services
+
+
+History:
+  * Projects: Pharoes, EdShare (IR T&L repo), LangaugeBox (t&l sbjt repo)
+  * Research repositories are for archiving, learning repositroesare about living docs, ergo it is not about the metadata it is about the content being shown...
+  * Pulling features and functions from T&L repos into a single ePrints instance = OneShare Project (McGreggor)
+  * integration with VLE, VLE use is mandated at Southampton
+  * Langauge box as a light VLE
+
+LORO at the open university using a version of EdShare (Anna Quin at OU)
+  * Institutional support of staff for using t&l repositories
+  * 
+
+HUMBox = Humanities OER project to manage t&l box
+  * 
+
+Teaching and Learning is not about the content but about the community <- collection and commentary
+  * building community is partially about identity
+  * MePrints = as plugin for ePrints
+  * making a profile page based off of installation: t&l as seperate profile page at OU
+  * 
+
+Yvonne and David teaching a business tech, and first module is computation thinking, students who havn't done maths can't abstract.
+
+Teachers can't identify learning activities: 
+
+EdShare has 1000 deposits
+LanguageBox has 300 deposits
+
+
 
 
 === Notes ===
