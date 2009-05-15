@@ -2,8 +2,8 @@
 #labels projects
 
 What questions does this project answer?
-  *
-  *
+  * Through its extensive range of features and AMSeT-added Guanxi Shibboleth and SWORD interfaces, can Alfresco provide a useful content management system for VLE and PLE projects?
+  * Can Web service workflow backed by an Alfresco resource repository provide a useful platform for implementing teaching and learning designs?
 
 = Introduction =
 
