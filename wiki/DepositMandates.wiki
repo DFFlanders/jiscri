@@ -36,7 +36,7 @@
   * 2,300 activities were identified in publish process model for Houghton report so as to provide estimate of cost 12:29:25
   * used a solow-swam model (Nobel Prized model) for economic costing (publishers contested though no alternative model suggestions) 12:32:04
   * Houghton looking to extend this model to all countries (UK and Australia thus far) 12:33:49
-  * Houghton Report recommendation is that OA cost saving would equal greater funding for research <bottomLine> 12:34:53
+  * Houghton Report recommendation is that OA cost saving would equal greater funding for research (bottomLine) 12:34:53
   * Houghton report data is available OA so anyone can update data so model will churn out alternative findings 12:37:58
   * moving forward: publishers in conversation with JISC to fund further study to have more accurate figures to put into model 12:39:34
   * Loughborough response to report was to mandate OA starting Oct 2009, will be enforced via Personal Research Plan meeting with author. 12:50:11
