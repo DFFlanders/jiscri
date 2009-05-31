@@ -1,95 +1,54 @@
 #summary One-sentence summary of this page.
   
-  * 48 funders now have a OA policy ("mandate") to deposit published content, including: UKMPC, HIM HNMI, etc... 
-10:05:25
-  * Wellcome wants publishers to offer service to author to auto publish XML paper with CC license (publishers are mostly keen) 
-10:07:07
-  * authors don't want to deposit themselves, they expect publisher to deal with it, though this costs Wellcome up to 2% of their budget 
-10:09:07
-  * author self publishing could result in an additional £80million of funding that could go into research 
-10:14:02
-chriskeene: will be publishing my notes from  mandates event later noticing a few familiar faces here (little wave at @dfflanders)
-10:14:38
-  * workflow for publishers (email to author) has resulted in a significant "box ticking" of OA route 
-10:17:08
-  * many publishers still do not have an OA policy and have not adopted an OA option workflow for authors 
-10:21:31
-  * nice = blog post of presentation up as last slide of presentation #wellcome http://bit.ly/X6Vcm 
-10:25:07
-  * Q: how Wellcome will also provide policy on research data that goes up alongside publication, A: 2 policies that need to be connected 
-10:28:01
-  * Wellcome supplements grant with OA publishing fee (is not included in Grant budget) so money has to be spent on OA 
-10:30:18
-  * OA money is not given to publisher but paid to author so they are aware of the costs they are spending on OA 
-10:31:52
-  * research councils perspective up next 
-10:33:04
-chriskeene: will be adding to the same blog post throughout the day http://sn.im/j0677 'pinch of salt' sorryfor spelling. 
-10:38:59
-  * Research Councils have very different cultures in how hand's on they are with their funding and mandates http://tinyurl.com/kq8t5s 
-10:40:46
-  * RT: Why Research Councils are interested in OA (aka repositories) = 1 speed of dissimination, 2 priciple of "free" for end user... 
-10:43:37
+  * 48 funders now have a OA policy ("mandate") to deposit published content, including: UKMPC, HIM HNMI, etc... 10:05:25
+  * Wellcome wants publishers to offer service to author to auto publish XML paper with CC license (publishers are mostly keen) 10:07:07
+  * authors don't want to deposit themselves, they expect publisher to deal with it, though this costs Wellcome up to 2% of their budget 10:09:07
+  * author self publishing could result in an additional £80million of funding that could go into research 10:14:02
+chriskeene: will be publishing my notes from  mandates event later noticing a few familiar faces here (little wave at @dfflanders)10:14:38
+  * workflow for publishers (email to author) has resulted in a significant "box ticking" of OA route 10:17:08
+  * many publishers still do not have an OA policy and have not adopted an OA option workflow for authors 10:21:31
+  * nice = blog post of presentation up as last slide of presentation #wellcome http://bit.ly/X6Vcm 10:25:07
+  * Q: how Wellcome will also provide policy on research data that goes up alongside publication, A: 2 policies that need to be connected 10:28:01
+  * Wellcome supplements grant with OA publishing fee (is not included in Grant budget) so money has to be spent on OA 10:30:18
+  * OA money is not given to publisher but paid to author so they are aware of the costs they are spending on OA 10:31:52
+  * research councils perspective up next 10:33:04
+chriskeene: will be adding to the same blog post throughout the day http://sn.im/j0677 'pinch of salt' sorryfor spelling. 10:38:59
+  * Research Councils have very different cultures in how hand's on they are with their funding and mandates http://tinyurl.com/kq8t5s 10:40:46
+  * RT: Why Research Councils are interested in OA (aka repositories) = 1 speed of dissimination, 2 priciple of "free" for end user... 10:43:37
   * jury is still out on if OA increases citation rates, but RC's could respond more if evidence for this. 
 10:44:55
-  * still no decision on if Research Councils are subject to FOI request for publically funded research 
-10:45:58
-  * Institutions could add OA publishing costs to fEC <--what systems do Grants departments monitor this by, CRM? 
-10:47:10
-  * RAE funding has clear business case for why institution should be actively maintaining OA publishing workflows 
-10:49:31
+  * still no decision on if Research Councils are subject to FOI request for publically funded research 10:45:58
+  * Institutions could add OA publishing costs to fEC <--what systems do Grants departments monitor this by, CRM? 10:47:10
+  * RAE funding has clear business case for why institution should be actively maintaining OA publishing workflows 10:49:31
   * STFC required OA for projects Oct 2006, should see affect five years anon, so still waiting to see response. 
 10:53:06
-  * 3/4 of researchers still not aware there is a mandate, senior researchers aware, new researchers not (despite willingness 4 new models) 
-10:57:09
-  * embargo periods are difficult to mandate or monitor, need institutions to have internal (fEC) workflows to assure 
-10:58:51
-  * RCUK position on OA here http://www.rcuk.ac.uk/access/default.htm 
-11:23:35
-chriskeene: nice coffee on a sunny balcony, now in next session at 
-12:07:55
-  * embargos are the "problem space" that need to be explored <--could OAI-ORE have a real use case for embargo parts of papers? 
-12:15:32
-  * UKPubMed using Whatizit text mining pipe via iHop to enhance search 
-12:15:49
-jimdowning: @dfflanders You weren't in the ICE-TheOREM presentation then? Yes. It can. 
-12:19:17
-  * Oppenheim up next on Houghton Report 
-12:20:30
-  * Oppenheim insisting that at start of report he was open to publishers as offering a good deal to scholarly communication 
-12:21:05
-  * Houghton report here: http://www.jisc.ac.uk/news/stories/2009/01/houghton.aspx 
-12:22:47
-  * @jimdowning sorry should have cited you! Yes ICE-Theorm was first to show pragmatics of ORE, re embargo of sections in papers 
-12:25:49
+  * 3/4 of researchers still not aware there is a mandate, senior researchers aware, new researchers not (despite willingness 4 new models) 10:57:09
+  * embargo periods are difficult to mandate or monitor, need institutions to have internal (fEC) workflows to assure 10:58:51
+  * RCUK position on OA here http://www.rcuk.ac.uk/access/default.htm 11:23:35
+chriskeene: nice coffee on a sunny balcony, now in next session at 12:07:55
+  * embargos are the "problem space" that need to be explored <--could OAI-ORE have a real use case for embargo parts of papers? 12:15:32
+  * UKPubMed using Whatizit text mining pipe via iHop to enhance search 12:15:49
+jimdowning: @dfflanders You weren't in the ICE-TheOREM presentation then? Yes. It can. 12:19:17
+  * Oppenheim up next on Houghton Report 12:20:30
+  * Oppenheim insisting that at start of report he was open to publishers as offering a good deal to scholarly communication 12:21:05
+  * Houghton report here: http://www.jisc.ac.uk/news/stories/2009/01/houghton.aspx 12:22:47
+  * @jimdowning sorry should have cited you! Yes ICE-Theorm was first to show pragmatics of ORE, re embargo of sections in papers 12:25:49
   * ~100million in cost savings if we embraced open access publishing of publically funded research content 
 12:26:18
-  * 2,300 activities were identified in publish process model for Houghton report so as to provide estimate of cost 
-12:29:25
-  * used a solow-swam model (Nobel Prized model) for economic costing (publishers contested though no alternative model suggestions) 
-12:32:04
-  * Houghton looking to extend this model to all countries (UK and Australia thus far) 
-12:33:49
-  * Houghton Report recommendation is that OA cost saving would equal greater funding for research <bottomLine> 
-12:34:53
-  * Houghton report data is available OA so anyone can update data so model will churn out alternative findings 
-12:37:58
-  * moving forward: publishers in conversation with JISC to fund further study to have more accurate figures to put into model 
-12:39:34
-  * Loughborough response to report was to mandate OA starting Oct 2009, will be enforced via Personal Research Plan meeting with author. 
-12:50:11
-chriskeene: have updated blog post http://sn.im/j0677 
-12:52:49
-aclobridge: RT @dfflanders ~100million in cost savings if we embraced open access publishing of publically funded research content 
-15:19:47
-  * mandates as a way of harmonising view (not as god's commandment from on high) 
-15:20:52
-  * liking hubbard's movement around room, shows his passion for what we can achieve. 
-15:25:27
+  * 2,300 activities were identified in publish process model for Houghton report so as to provide estimate of cost 12:29:25
+  * used a solow-swam model (Nobel Prized model) for economic costing (publishers contested though no alternative model suggestions) 12:32:04
+  * Houghton looking to extend this model to all countries (UK and Australia thus far) 12:33:49
+  * Houghton Report recommendation is that OA cost saving would equal greater funding for research <bottomLine> 12:34:53
+  * Houghton report data is available OA so anyone can update data so model will churn out alternative findings 12:37:58
+  * moving forward: publishers in conversation with JISC to fund further study to have more accurate figures to put into model 12:39:34
+  * Loughborough response to report was to mandate OA starting Oct 2009, will be enforced via Personal Research Plan meeting with author. 12:50:11
+chriskeene: have updated blog post http://sn.im/j0677 12:52:49
+aclobridge: RT @dfflanders ~100million in cost savings if we embraced open access publishing of publically funded research content 15:19:47
+  * mandates as a way of harmonising view (not as god's commandment from on high) 15:20:52
+  * liking hubbard's movement around room, shows his passion for what we can achieve. 15:25:27
   * pointing out the multiple decisions authors could make in deciding how to publish OA, need to "mandate" common workflow decision easier 
 15:28:44
-  * "compliance...big it up" <- there are repository groups in every Russell and 1994 group who are there to support mandate 
-15:37:32
+  * "compliance...big it up" <- there are repository groups in every Russell and 1994 group who are there to support mandate 15:37:32
   *  will compile a list of ppl in each HEIs so funders can go to them to find out who to contact that will follow up mandate compliance
 15:50:54
   * publishers need to see repo managers as friends as they police copyright 
