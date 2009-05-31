@@ -1,6 +1,6 @@
 #summary One-sentence summary of this page.
   
-* 48 funders now have a OA policy ("mandate") to deposit published content, including: UKMPC, HIM HNMI, etc... 
+  * 48 funders now have a OA policy ("mandate") to deposit published content, including: UKMPC, HIM HNMI, etc... 
 10:05:25
   * Wellcome wants publishers to offer service to author to auto publish XML paper with CC license (publishers are mostly keen) 
 10:07:07
