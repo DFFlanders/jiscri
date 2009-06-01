@@ -19,6 +19,11 @@ Two questions this project attempts to answer:
   * Neil P Chue Hong – Project advisor.
   * Dr Simon J Hettrick - Documentation, graphics and marketing.
 
+=Latest News (RSS) for Project=
+
+<wiki:gadget url="http://sourceforge.net/export/rss2_projnews.php?group_id=258272&rss_fulltext
+=1" up_feeds="http://google-code-featured.blogspot.com/atom.xml" width="780" height="340" border="0" up_showaddbutton="0"/>
+
 =Meetings=
 
 ==Mtg on Thursday 14th May 2009==
