@@ -1,5 +1,5 @@
 #summary creating template teaching/learning workflows atop Alfresco CMS using BPML
-#labels projects
+#labels project
 
 What questions does this project answer?
   * Through its extensive range of features and AMSeT-added Guanxi Shibboleth and SWORD interfaces, can Alfresco provide a useful content management system for VLE and PLE projects?
