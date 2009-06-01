@@ -1,5 +1,5 @@
 #summary moodle plugin for depositing/displaying CLA content in repositories
-#labels projects
+#labels project
 
 Descriptions:
   * SWORD plugin for Moodle for deposit into common IR packages, and extend this to cope with licensed material, encoding the license conditions.
@@ -29,4 +29,3 @@ Courses:
      * Copyright licensing users: Nick Shepard (leeds)
 
 Build:
-
