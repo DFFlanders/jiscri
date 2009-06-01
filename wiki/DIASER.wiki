@@ -5,7 +5,7 @@
 * One sentence summary: A mid to long term, disk based backup volume management solution with triple redundancy providing a quick and low-cost way to make an environment more robust and data more accessible by archiving in multiple places providing fast retrieval of archived data from all node hosting locations and created using a Perl installer.
 
 Two questions this project attempts to answer:
-  * Can single NAS and mid to low end tape drives be easily replaced by a distributed disk based software archive solution?
+  * Can a distributed disk-based storage solution be secure and organised enough to replace single NAS or Tape storage systems.
   * Are end users able to quickly adopt a long term archive strategy and use the DIASER software to implement this?
 
 =Project Info=
