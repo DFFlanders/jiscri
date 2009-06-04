@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary simple to use redundancy software for open source servers
 #labels project
 
 =Project Description=
