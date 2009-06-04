@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary creating 'advances search' and 'metadata extraction' plugings for ePrints
 #labels project
 
 = Basic Project Information =
