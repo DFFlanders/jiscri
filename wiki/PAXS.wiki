@@ -1,13 +1,33 @@
 #summary One-sentence summary of this page.
 #labels project
 
-= Introduction =
-A4-9 University of Southampton
-Plugins for Advanced Export & Search (PAXS)
-monica mc schraefel mc-ecs.soton.ac.uk
-6 months 4/1/2009 9/1/2009
-29829
+= Basic Project Information =
 
+==Project Description==
+
+Short Description (120 characters twitter like description than anyone can understand)
+  * [one hundred and twenty characters is about this long with a little bit more to really get to the point]
+
+Long Description (More formal like description, think abstract 
+  * [abstract like description: should be under 250 words]
+
+Question this project answers (again another powerful way to explain what you do):
+  * Q1
+  * Q2
+
+==Project Details==
+  * A4-9 
+  * University of Southampton
+  * Plugins for Advanced Export & Search (PAXS)
+  * 6 months 4/1/2009 9/1/2009
+  * £29829
+
+==Project Team==
+  * PM: mc schraefel mc at ecs.soton.ac.uk
+  * DEV: Dan Smith ds at ecs.soton.ac.uk  
+  * DEV: Jo Lambert jl2 at ecs.soton.ac.uk 
+
+=Meeting Notes=
 Mtg on Wed 13th in Southampton - confirmed
 Sign off on ProgManger SLA
 
@@ -20,8 +40,3 @@ names and a quick biog for a handful of end user currently involved in the proje
 preference for managing the project, e.g. prince, waterfall, agile, scrum, etc.
 
 potential business cases for making the stuff creating viable in the long term, e.g. how do you see the project resources being funded beyond the life of this project?
-
-
-Who is writing in the high impact journals: 
-URI for 
-ubber CV
