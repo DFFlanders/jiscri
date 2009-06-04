@@ -7,14 +7,14 @@ What questions does this project answer?
 
 = Introduction =
 
-A4-2 
-University of Leeds 
-Alfresco Management and Security Toolkit (AMSeT)
-Andrew Booth a.g.booth - leeds.ac.uk
-6 month project = 4/1/2009 to 9/1/2009 
-Develop Web service toolkit for JSR-based Alfresco CMS, including Shibb SP (based on Guanxi), SWORD, Blackboard integration
-£28151
-Mtg on Friday April 24 in Leeds - confirmed
+  * A4-2 
+  * University of Leeds 
+  * Alfresco Management and Security Toolkit (AMSeT)
+  * Andrew Booth a.g.booth - leeds.ac.uk
+  * 6 month project = 4/1/2009 to 9/1/2009 
+  * Develop Web service toolkit for JSR-based Alfresco CMS, including Shibb SP (based on Guanxi), SWORD, Blackboard integration
+  * £28151
+  * Mtg on Friday April 24 in Leeds - confirmed
 
 Programme Manager Thoughts:
    * Andrew and Brian have been around the block with these kinds of projects.  Primarily they are building tools that will better enable them to integrate the University systems (Blackboard, Shiboleth, WebApps, etc) into a core enterprise system.  They know what they want and I have confidence they will build what is in the their workplan.
