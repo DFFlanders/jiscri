@@ -1,9 +1,9 @@
-#summary One-sentence summary of this page.
+#summary user profile plugin for ePrints
 #labels project
 
 =Descriptions=
   * What questions are this project trying to answer:
-    * How can we enrich the repository users experience my giving them more interesting and informative home within the repository environment?
+    * How can we enrich the repository users experience by giving them more interesting and informative home within the repository environment?
     * How can we best exploit what we know about users of the repository to expose their skills and promote their position in their field of expertise to improve their reputation and the reputation of their institution?
 
 = Project Details =
