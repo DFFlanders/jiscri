@@ -1,9 +1,9 @@
 #summary This page lists the documentation JISCRI projects are required to submit.
 
 = Intro to Project Documentation =
-All JISC projects are required to complete documentation, 
+All JISC projects are *required* to complete documentation.  This is not only to justify the spending of tax payer money but to also help inform JISC in it future funding decisions.
 
-Even if you have done a JISC project before, the processes continue to change (alongside the technology) so you will need to read over the [http://www.jisc.ac.uk/media/documents/funding/project_management/projectmanagementguidelines.pdf project guidelines], though we have changed some of the documentation requirements for the JISCRI projects.  In short, the 'Rapid Innovation' projects are of a different project species, there are some amendments we have made so as to embrace a more lightweight and webworthy documentation process.
+Even if you have done a JISC project before, the processes continues to change (alongside the technology) so you will need to read over the [http://www.jisc.ac.uk/media/documents/funding/project_management/projectmanagementguidelines.pdf project guidelines], though we have changed some of the documentation requirements for the JISCRI projects.  In short, the 'Rapid Innovation' projects are of a different project species, there are some amendments we have made so as to embrace a more lightweight and webworthy documentation process.
 
 Below is a list of template documents you will need to fill out.  
 
