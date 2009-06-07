@@ -1,44 +1,39 @@
 #summary This page lists the documentation JISCRI projects are required to submit.
+#labels documentation
 
 = Intro to Project Documentation =
-All JISC projects are *required* to complete documentation.  This is not only to justify the spending of tax payer money but to also help inform JISC in it future funding decisions.
+All JISC projects are *required* to complete documentation.  This is not only to justify the spending of tax payer money but to also help inform the JISC in future funding decisions.  Most importantly documentation is there to help spread best practice among the HE community and for the Rapid Innovation Programme we have attempted to scope all documentation so you can directly see the benefits that documentation has the community as a whole.
 
-Even if you have done a JISC project before, the processes continues to change (alongside the technology) so you will need to read over the [http://www.jisc.ac.uk/media/documents/funding/project_management/projectmanagementguidelines.pdf project guidelines], though we have changed some of the documentation requirements for the JISCRI projects.  In short, the 'Rapid Innovation' projects are of a different project species, there are some amendments we have made so as to embrace a more lightweight and webworthy documentation process.
+Even if you have done a JISC project before, the processes continues to change (alongside the technology) so you will need to read over the [http://www.jisc.ac.uk/media/documents/funding/project_management/projectmanagementguidelines.pdf project guidelines], *however* we have changed some of the documentation requirements for the JISCRI projects.  In short, the 'Rapid Innovation' projects are of a different project species, there are some amendments we have made so as to embrace a more lightweight and webworthy documentation process.
 
 Below is a list of template documents you will need to fill out.  
 
 = Project Documentation Templates =
-We have provided both the official Word document template form and a XHTML formatted (including microformats!) templates below.  You are of course welcome to use the word documents, but would also welcome the use of an open standard such as XHTML.  So as to make the XHTML document wordprocessor friendly, we've formatted them as Google Docs templates so you can copy & paste them into a Google Docs to edit them there with their user friendly WYSIWYG :)
+Below is a full listing of documenation you will need to fill out over the course of the project.  In short this consists of the following:
 
-==List of Projects Documentation Templates:==
-  # [http://spreadsheets.google.com/viewform?hl=en&formkey=cG84ZHFaX0d1TmY1UTJmZDAweHI5Vnc6MA.. Core Project Information Form] <- please fill out within first fortnight of the project.  Deadline: May 1st 2009.
+  # Project Plan (Core Project Resources, Project Overview, Project Diagrams and Project Budget)
+  # Progress posts (a list of various themes you can pick from  to post abou via blog or other)
+  # Completion report (which if you follow progress posts themes will be auto completed) and budget report plus sign-off.
+
+==Project Plan==
+  # [http://spreadsheets.google.com/viewform?hl=en&formkey=cG84ZHFaX0d1TmY1UTJmZDAweHI5Vnc6MA.. Core Project Information Form] <- please fill out within first fortnight of the project. 
   # Consortium Agreement <- if applicable, please contact the programme manager ASAP to discuss!
     * All consortium based projects must sign a consortium agreement, otherwise the lead institution must treat each partner as a consultant and arrange for consultant contracts based upon individual workpackage agreements.  
     * You must provide a copy of the consortium agreement to the programme manager.
-  # Project Plan <- please fill out within first month of project.  Deadline: May 1st 2009.
-    * Word 97 (doc) version :(
-      * [http://www.jisc.ac.uk/media/documents/funding/project_management/coversheettemplate0407.doc cover sheet]
-      * [http://www.jisc.ac.uk/media/documents/funding/project_management/projectplantemplate0407.doc project plan]
-      * [http://www.jisc.ac.uk/media/documents/funding/project_management/workpackagestemplate0407.doc workplan]
-      * [http://www.jisc.ac.uk/media/documents/funding/project_management/budgetprojectplanstemplate0407.doc budget]
-    * Word 2007 (docx) version :|
-      * cover sheet
-      * project plan
-      * workplan
-      * budget
-    * XHTML (Google Docs) version :)
-      * watch this video on how to copy&paste XHTML into Google Docs to utilise their WYSYWIG
-      * the XHTML Project Plan has full project plan template included (cover sheet, project plan, workplan and budget).
-  # Progress Reports: So as to make your life easier (and ideally enable you to write documentation for all those potential users on the World Wild Web), we are requesting a series of project progress blog posts (instead of the reports).  In short, we would like you to write a blog post on the following themes (making sure to use the correct tags):
+  # Project Plan <- please fill out within first month of project.
+    * Project Plan Template Here
+      * The project plan must include 
+
+==Progress Posts==
+  # Progress Reports: So as to make your life easier we are suggesting a series of blog posts be written for the project.  If you decide to do the following posts you will not beed to do the final completion report.  If you do not want to write the posts then you will need to do the final completion report.  The posts are intended to dissiminate the knowledge of the project in the now, rather than waiting til the end of the project to share your experiences. In short, we would like you to write a blog post on the following themes(making sure to use the correct tags):
     * TBC SWOT Analysis? <- please make sure to use tags: "swot", "jiscri", "jisc", "[your own project tag]", etc.
     * TBC Methodology? <- more info soon, check back.
     * TBC Money? <- more info soon, check back.
     * TBC...
-  # Final Project Report
-    * Word 97 (doc) version :(
-    * Word 2007 (docx) version :|
-    * XHTML (Google Docs) version :) <-watch this video on how to copy&paste XHTML into Google Docs to utilise their WYSYWIG
-  # Completion Report and Final Budget
-    * Word 97 (doc) version :(
-    * Word 2007 (docx) version :|
-    * XHTML (Google Docs) version :) <-watch this video on how to copy&paste XHTML into Google Docs to utilise their WYSYWIG
+
+==Final Project Report/Budget and Sign-Off==
+  * Final Project Report (if you have done the above progress posts you do not need to complete this document, instead please fill out this form so we can auto create a completion report for you from the blog posts.
+  * Final Budget Template Here
+    * Please note that the final budget will be made open under FOI regulations so do not put any personal data in the budget, e.g. instead of listing names of people please list their their general role in the project: "project manager", "project developer", "consultant developer", etc.
+  * Sign-off Form
+    * To complete the project you will need to fill out the above form.  This is both the legal ending of your project and the feedback JISC requires to improve on rapid innovation the next time around.
