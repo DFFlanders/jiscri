@@ -1,39 +1,68 @@
 #summary This page lists the documentation JISCRI projects are required to submit.
 #labels documentation
 
+*_please remember all JISCRI projects must acknowledge that they have read this requirement by signing off on it at the bottom of this page (in "comments" section).  Also please do leave feedback, questions, etc._*
+
 = Intro to Project Documentation =
-All JISC projects are *required* to complete documentation.  This is not only to justify the spending of tax payer money but to also help inform the JISC in future funding decisions.  Most importantly documentation is there to help spread best practice among the HE community and for the Rapid Innovation Programme we have attempted to scope all documentation so you can directly see the benefits that documentation has the community as a whole.
+All JISC projects are *required* to complete documentation.  This is not only to justify the spending of tax payer money but to also help inform the JISC in future funding decisions.  Most importantly documentation is there to help spread best practice amongst our community and for the Rapid Innovation Programme we have attempted to scope all documentation so you can directly see the benefits that documentation has for the community as a whole.
 
-Even if you have done a JISC project before, the processes continues to change (alongside the technology) so you will need to read over the [http://www.jisc.ac.uk/media/documents/funding/project_management/projectmanagementguidelines.pdf project guidelines], *however* we have changed some of the documentation requirements for the JISCRI projects.  In short, the 'Rapid Innovation' projects are of a different project species, there are some amendments we have made so as to embrace a more lightweight and webworthy documentation process.
+For the JISCRI projects we have changed the documentation to reflect the ethos of 'rapid innovation', however if you would like to use the old [http://www.jisc.ac.uk/media/documents/funding/project_management/projectmanagementguidelines.pdf project guidelines] from the JISC website please feel free to though we hope you will like the changes we have made to the documentation below.  In short, the 'Rapid Innovation' projects are of a different project species, and so we've changed the way documentation works so that it is lightweight and web-worthy.  Overall we hope it gets you writing documentation for one another, rather than just to the JISC executive.
 
-Below is a list of template documents you will need to fill out.  
+Below is a list of template documents you will need to fill out if you are going to adopt the JISCRI documentation procedures, otherwise you will need to adhere to the old [http://www.jisc.ac.uk/media/documents/funding/project_management/projectmanagementguidelines.pdf project guidelines] on the JISC website. 
 
-= Project Documentation Templates =
-Below is a full listing of documenation you will need to fill out over the course of the project.  In short this consists of the following:
+= JISCRI Project Documentation Templates =
+Below is a full listing of documentation you will need to complete during the course of the project.  In short this consists of three sets of documents:
 
-  # Project Plan (Core Project Resources, Project Overview, Project Diagrams and Project Budget)
-  # Progress posts (a list of various themes you can pick from  to post abou via blog or other)
-  # Completion report (which if you follow progress posts themes will be auto completed) and budget report plus sign-off.
+  # Project Plan (Core Project Resources, Project Overview/Brochure, Project Diagrams and Project Budget)
+  # Progress Posts (a list of various themes you can pick from to post abou via blog or other)
+  # Completion report (which if you follow the 'Progress Posts' themes will be auto completed) and budget report with final project sign-off.
 
 ==Project Plan==
-  # [http://spreadsheets.google.com/viewform?hl=en&formkey=cG84ZHFaX0d1TmY1UTJmZDAweHI5Vnc6MA.. Core Project Information Form] <- please fill out within first fortnight of the project. 
+  # [http://spreadsheets.google.com/viewform?hl=en&formkey=cG84ZHFaX0d1TmY1UTJmZDAweHI5Vnc6MA.. Core Project Resources Form] <- please fill out within first fortnight of the project. 
+    * This form is gathering the key URIs in your project so that JISC can support you as effectively as possible in monitoring your project so it can pass on news and other benefits to other JISC projects.  This form is essential and needs to be filled out as soon as you have your staff, website/blog/wiki, code repository and rss feeds in place.
   # Consortium Agreement <- if applicable, please contact the programme manager ASAP to discuss!
     * All consortium based projects must sign a consortium agreement, otherwise the lead institution must treat each partner as a consultant and arrange for consultant contracts based upon individual workpackage agreements.  
-    * You must provide a copy of the consortium agreement to the programme manager.
+    * You must provide a copy of the consortium agreement to your programme manager.
   # Project Plan <- please fill out within first month of project.
-    * Project Plan Template Here
-      * The project plan must include 
+    * The Project Plan has the following four templates you must fill out:
+      # Project Overview / Brochure: We are hoping you will be able to adapt your project proposal (bid) into something that is more attractive to a wider audience.  Keep it short, snappy and easy to read (pictures, screenshots, screencasts, prezzie's, paper protoypes, intro videos much welcome!)  
+      # Project Diagrams: These diagrams will help other projects find and contact the right people in your project, it will also enable us to create a massive project genealogy that will help us find groupings of projects for future work.
+      # Project Budget: We recommend you use something like GoogleSpreadsheet to keep an ongoing status of your budget.  Please remember all documents you create as part of your project are subject to FOI so best to maintain best practice with your budgets right from the begining by keeping them transparent.
 
 ==Progress Posts==
-  # Progress Reports: So as to make your life easier we are suggesting a series of blog posts be written for the project.  If you decide to do the following posts you will not beed to do the final completion report.  If you do not want to write the posts then you will need to do the final completion report.  The posts are intended to dissiminate the knowledge of the project in the now, rather than waiting til the end of the project to share your experiences. In short, we would like you to write a blog post on the following themes(making sure to use the correct tags):
-    * TBC SWOT Analysis? <- please make sure to use tags: "swot", "jiscri", "jisc", "[your own project tag]", etc.
-    * TBC Methodology? <- more info soon, check back.
-    * TBC Money? <- more info soon, check back.
-    * TBC...
+  * So as to make your life easier we are suggesting a series of blog posts be written for the project as it progresses.  
+  * If you decide to do the following progress posts you will _NOT need to do the final completion report_.  If you do not want to write the posts then you will need to do the final completion report (you must do one or the other). 
+  * The posts are intended to dissiminate the knowledge of the project in the now, rather than waiting until the end of the project to share your experiences. 
+  * In short, we would like you to write a blog post on the following themes during the course of your project though you are welcome to find variance in the theme as you see fit.  We are not prescriptive here and really want you to write something that people in the community will want to read, i.e. don't write them for JISC alone.
+  * Please make sure to use the correct tags for each post so that our robots can come along and aggregate all posts on various topics into our analytics tools (manyEyes, GoogleData, etc).  We are hoping this data helps all of us to communicate on the whole to one another in more transparent ways so we can jointly steer the community.
+  * The posts can be as short or as long as you like so long as you keep your fellow projects and Higher Education community audience in mind.  You must do do a minimum six progress posts (preferably all ten) otherwise you must fill out the completion report at the end of the project.  Accordingly keep the posts short and manageable, we want you to publish early and often!
+
+The following topics make up the required Progress Posts.  
+  # Executive Summary: how would you describe your project to one of the heads at your institution so that they understand the value it has to the University sector on the whole?  This post should provide a fifty-thousand foot and above overview of the work you are doing and how it could change the institution you are working for or even effect all Universities.  Bonus points if you kind add in contemporary political agenda's, e.g. government's use of "transparency" etc.
+    * required tags = execSummary, JISCRI, JISC, [your own project tag], etc.
+  # How do you work on a day-to-day basis: what software tools or productivity methods do you use and how do you use them?  How do they make you more productive and why do you see value in using them?  Any and all tools, methodologies or diagrams showing off the way your project is run from an individual perspective are welcome.
+    * required tags = "methodology", "implementation", "productivity" "jiscri", "jisc", "[your own project tag]", etc.
+  # Technical standards: what technologies, frameworks, standards or anything else that makes your life easier (or harder) in your work.  For example: what programming language do you use and why do you love it (or framework or IDE or pattern), e.g. Why I love Object Relational Mapping in Python and Django; or why I think SWORD is great but could be better, etc.
+    * required tags = techStandards, 
+  # Show me the money: What is the most important thing you spend project money on, e.g. "the money we spent on buying users to use our software was the most significant money we spent...", or "spending our money on going to this event was great because I learned this..." etc.
+    * required tags = 
+  # User case: what is the core user case(s) you think of when developing the app.  What is the user story you share with your team or other people when talking about why you decided to focus on a specific part of your build or project, e.g. "we often talk about the lecturer's widow when we are building the harddrive arhive app as it has helped us focus on this...", etc.
+    * required tags = 
+  # Disruptive Innovation: 
+    * required tags = = disruptiveInnovation, JISCRI, JISC, 
+  # My JISC ideas: you tell us what we could be doing better, what community activities should we be encouraging, what projects (beyond your own) should we really be paying attention to, what could we do better.  Please do give us ideas for what we can do (and of course you can tell us what we could be doing better, though please tell us how!).  
+    * required tags =
+  # Small WIN(s) (perhaps use twitter for this?): announce small wins for the project, e.g. when you finish a coding sprint or when a user send you a smiley for the interface you just created.  The more of these short "win" posts the better!
+    * required tags =: "WIN" and "JISCRI"
+  # Learned FAIL(s): telling people where thing went wrong so they don't repeat mistakes is priceless.  Again use twitter here to just let people know when things didn't go according to plan 
+    * required tags = FAIL, JISCRI
+  # Roll Your Own: tell us what posts we should require other projects to do and give us an example of why that post would be useful to assign other projects.
+    * required tags = RYO, JISCRI, JISC, 
 
 ==Final Project Report/Budget and Sign-Off==
-  * Final Project Report (if you have done the above progress posts you do not need to complete this document, instead please fill out this form so we can auto create a completion report for you from the blog posts.
+  * Final Project Report (if you have done the above Progress Posts you do not need to complete this document, instead please fill out this form so we can auto create a completion report for you from the blog posts.
+    * Final Project Report Template (for everyone who did not do the Progress Posts)
   * Final Budget Template Here
     * Please note that the final budget will be made open under FOI regulations so do not put any personal data in the budget, e.g. instead of listing names of people please list their their general role in the project: "project manager", "project developer", "consultant developer", etc.
-  * Sign-off Form
+  * Final Project Sign-off Form
     * To complete the project you will need to fill out the above form.  This is both the legal ending of your project and the feedback JISC requires to improve on rapid innovation the next time around.
