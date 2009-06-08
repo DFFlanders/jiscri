@@ -19,7 +19,7 @@ There are four sets of documents you will need to complete during the course of 
   # Final Project Sign-Off (including programme survey and legal completion of project)
 
 ==Project Planning==
-  # [http://spreadsheets.google.com/viewform?hl=en&formkey=cG84ZHFaX0d1TmY1UTJmZDAweHI5Vnc6MA.. Core Project Resources Form] <toDo> please fill out within first fortnight of the project. </toDo>
+  # [http://spreadsheets.google.com/viewform?hl=en&formkey=cG84ZHFaX0d1TmY1UTJmZDAweHI5Vnc6MA.. Core Project Resources Form] <- please fill out within first fortnight of the project.
     * This form is gathering the key URIs in your project so that JISC can support you as effectively as possible in monitoring your project.  
     * For example by having all the project blog feeds we can aggregate them into a central feed so we can more effectively pass on news and developments as they occur to other JISC projects.  
     * This form is essential and needs to be filled out as soon as you have your staff, website/blog/wiki, code repository and rss feeds in place.
