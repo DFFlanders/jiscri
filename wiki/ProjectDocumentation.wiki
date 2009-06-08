@@ -27,7 +27,7 @@ There are four sets of documents you will need to complete during the course of 
     * This document clearly states the obligation you have to JISC in how you plan to achieve your project.  
     * This document can be cut and paste from your project proposal so long as nothing has changed with the budget.
 
-</Please remember all documents you create as part of your project are subject to FOI so best to maintain best practice with regards to transparency and openness throughout your project.>
+*_Please remember all documents you create as part of your project are subject to FOI so best to maintain best practice with regards to transparency and openness throughout your project_>
 
 ==Progress Posts==
   * So as to make your life easier we are suggesting a series of blog posts be written for the project as it progresses (this is in place of the final completion report so should save you time)
@@ -39,18 +39,18 @@ There are four sets of documents you will need to complete during the course of 
 
 The following topics make up the required Progress Posts (you can do these posts in the order you see as most pragmatic to your project).  
 
-  # SWOT analysis...
-    * required tags =  , RapidInnovation, JISCRI, JISC, [your own project tag], etc.
+  # Project SWOTing: Undertake a basic [http://en.wikipedia.org/wiki/SWOT_analysis SWOT analysis] of your project (which is a good thing to repeatedly do with yourself when you have a couple free moments waiting for a bus or train, especially helpful at the end of code sprints).  The key is to truly knowing thyself or at least your project.  
+    * required tags =  SWOT, RapidInnovation, JISCRI, JISC, [your own project tag], etc.
   # How do you work on a day-to-day basis: what software tools or productivity methods do you use and how do you use them?  How do they make you more productive and why do you see value in using them?  Any and all tools, methodologies or diagrams showing off the way your project is run from an individual perspective are welcome.
-    * required tags = "methodology", "implementation", "productivity", RapidInnovation, JISCRI, JISC, [your own project tag], etc.
-  # Technical standards: what technologies, frameworks, standards or anything else that makes your life easier (or harder) in your work.  For example: what programming language do you use and why do you love it (or framework or IDE or pattern), e.g. why I love Object Relational Mapping in Python and Django; or why I think SWORD is great but could be better, etc.
+    * required tags = methodology, implementation, productivity, RapidInnovation, JISCRI, JISC, [your own project tag], etc.
+  # Technical standards: what technologies, frameworks, standards or anything else that makes your life easier (or harder) in your work.  For example: what programming language (or framework or IDE or pattern) do you use and why do you love it, e.g. "why I love Object Relational Mapping in Python and Django" or" why I think SWORD is great but could do this...", etc.
     * required tags = techStandards, TechnicalDevelopment, RapidInnovation, JISCRI, JISC, [your own project tag], etc.
-  # Value Add: What is the most important thing you spend project money on, e.g. "spending our money on going to this event was great because I learned this...", or " etc.
+  # Value Add: What is the most important thing you spend your project money on, e.g. "spending our money on going to this event was great because I learned this...", or " etc.
     * required tags = valueAdd, RapidInnovation, JISCRI, JISC, [your own project tag], etc.
   # User participation: what is the core user case(s) you think of when developing the app.  What is the user story you share with your team or other people when talking about why you decided to focus on a specific part of your build or project, e.g. "we often talk about the lecturer's widow when we are building the harddrive arhive app as it has helped us focus on this...", etc.
     * required tags = usercase, enduser,... RapidInnovation, JISCRI, JISC, [your own project tag], etc.
 <how it changes over time
-  # Small WIN(s) & FAIL(9s) <- perhaps use twitter for this?: announce small wins for the project, e.g. when you finish a coding sprint or when a user has a 'wow your software is cool' moment.  The more of these short "win" posts the better!  Also don't forget to post the FAIL(s) as well: telling people where thing went wrong so they don't repeat mistakes is priceless for a thriving community.
+  # Small WIN(s) & FAIL(s) <- perhaps use twitter for this?: announce small wins for the project, e.g. when you finish a coding sprint or when a user has a 'wow your software is cool' moment.  The more of these short "win" posts the better!  Also don't forget to post the FAIL(s) as well: telling people where thing went wrong so they don't repeat mistakes is priceless for a thriving community.
     * required tags =: "WIN" or "FAIL" and "JISCRI"
   # Final Progress Post
     * [This is a special post that will have criteria added to it so please watch this space as your project is getting closer to the end]
