@@ -8,7 +8,7 @@ All JISC projects are *required* to complete documentation.  This is not only to
 
 For the JISCRI projects we have changed the documentation to reflect the ethos of 'rapid innovation', however if you would like to use the old [http://www.jisc.ac.uk/media/documents/funding/project_management/projectmanagementguidelines.pdf project guidelines] from the JISC website please feel free to though we hope you will like the changes we have made to the documentation below.  In short, the 'Rapid Innovation' projects are of a different project species, and so we've changed the way documentation works so that it is lightweight and web-worthy.  Overall we hope it gets you writing documentation for one another, rather than just to the JISC executive.
 
-Below is a list of template documents you will need to fill out if you are going to adopt the JISCRI documentation procedures, otherwise you will need to adhere to the old [http://www.jisc.ac.uk/proj_manguide microsoft word documentation templates] on the JISC website. 
+Below is a list of template documents you will need to fill out if you are going to adopt the JISCRI documentation procedures, otherwise you will need to adhere to the old [http://www.jisc.ac.uk/proj_manguide microsoft word documentation templates] on the JISC website. Please notify your project manager if this is the documenataiton you will be using otherwise we will assume you are using the custom JISCRI documentation as described below.
 
 = JISCRI Project Documentation Templates =
 Below is a full listing of documentation you will need to complete during the course of the project.  In short this consists of three sets of documents:
