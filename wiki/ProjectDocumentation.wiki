@@ -14,7 +14,7 @@ Below is a list of documentation you will need to complete so as to fulfil your 
 There are four sets of documents you will need to complete during the course of your JISCRI project:
 
   # Project Planning (Core Project Resources Form, Project Plan and Project Budget)
-  # Progress Posts (including a list of themes and tags for you to post about via blog)
+  # Progress Posts (of which a list of themes and tags are provided for each post)
   # Final Budget Report (official summary of how the money was spent)
   # Final Project Sign-Off (including programme survey and legal completion of project)
 
