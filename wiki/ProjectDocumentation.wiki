@@ -40,9 +40,9 @@ There are four sets of documents you will need to complete during the course of 
 The following topics make up the required Progress Posts (you can do these posts in the order you see as most pragmatic to your project).  
 
   # *Project SWOTing*: Undertake a basic [http://en.wikipedia.org/wiki/SWOT_analysis SWOT analysis] of your project (which is a good thing to repeatedly do with yourself when you have a couple free moments waiting for a bus or train, especially helpful at the end of code sprints).  The key is to truly knowing thyself or at least your project. 
+    * required tags =  SWOT, rapidInnovation, JISCRI, JISC, <your own project tag>, etc.
   # *User participation*: what is the core user case(s) you think of when developing the app; how has this story changed as you have engaged with the end user e.g. "we often talk about Sam the part time working student we met while at..." 
     * required tags = userCase, endUser, rapidInnovation, JISCRI, JISC, <your own project tag>, etc. 
-    * required tags =  SWOT, rapidInnovation, JISCRI, JISC, <your own project tag>, etc.
   # *Day-to-day work*: what software tools or productivity methods do you use and how do you use them?  How do they make you more productive and why do you see value in using them?  Any and all tools, methodologies or diagrams showing off the way your project is run from an individual perspective are welcome.
     * required tags = methodology, implementation, productivity, rapidInnovation, JISCRI, JISC, <your own project tag>, etc.
   # *Technical standards*: what technologies, frameworks, standards or anything else that makes your life easier (or harder) in your work.  For example: what programming language (or framework, IDE, pattern, etc) do you use and why do you love it, e.g. "why I love Object Relational Mapping in Python and Django" or" why I think SWORD is great but could do this...", etc.
