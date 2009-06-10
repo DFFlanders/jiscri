@@ -26,6 +26,10 @@
 
 = Meetings =
 
+== Demo of RSS output from tool ==
+
+http://www.nottingham.ac.uk/xpert/ <- 9 June 2009
+
 ==Meeting on 5th of May at 9am w/ Project Team and Steering Board==
 
 Actions:
