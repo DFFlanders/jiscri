@@ -49,7 +49,7 @@ The following topics make up the required Progress Posts (you can do these posts
     * required tags = techStandards, technicalDevelopment, rapidInnovation, JISCRI, JISC, <your own project tag>, etc.
   # *Value Add*: What was the more important thing you discovered that brought value to your project, e.g. what was the "wow" moment that made you change your perspective on a specific technology or process.
     * required tags = valueAdd, disruptiveInnovation, rapidInnovation, JISCRI, JISC, [your own project tag], etc.
-  # *Small WIN(s) & FAIL(s)* <- perhaps use twitter for this?: announce small wins for the project, e.g. when you finish a coding sprint or when a user has a 'wow your software is cool' moment.  The more of these short "win" posts the better!  Also don't forget to post the FAIL(s) as well: telling people where thing went wrong so they don't repeat mistakes is priceless for a thriving community.
+  # *Small WIN(s) & FAIL(s)* (you could use twitter for these posts instead of your project blog if you do several tweets): announce small wins for the project, e.g. when you finish a coding sprint or when a user has a 'wow your software is cool' moment.  The more of these short "win" posts the better!  Also don't forget to post the FAIL(s) as well: telling people where thing went wrong so they don't repeat mistakes is priceless for a thriving community.
     * required tags =: "WIN" or "FAIL" and "JISCRI"
   # *Final Progress Post*
     * <This is a special post that will have criteria and template added to it so please watch this space as your project is getting closer to the end>
