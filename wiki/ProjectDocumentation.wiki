@@ -1,7 +1,7 @@
 #summary This page lists the documentation JISCRI projects are required to submit.
 #labels documentation
 
-*_Please remember all JISCRI projects must acknowledge that they have read this requirement by signing off on it at the bottom of this page (in "comments" section).  Also please do leave feedback, questions, etc._*
+*_Please do acknowledge the reading of this document by leaving a comment at the end of it (in the comments section), your feedback on this process is greatly appreciated._*
 
 = Intro to Project Documentation =
 All JISC projects are *required* to complete documentation.  This is not only to justify the spending of public money but to also help inform the JISC in future funding decisions.  Most importantly documentation is there to help spread best practice amongst our community and to help you to effectively plan the work you want to achieve. For the Rapid Innovation Programme we have attempted to scope all documentation so you can directly see the benefits that documentation has for yourself and for the community as a whole.
