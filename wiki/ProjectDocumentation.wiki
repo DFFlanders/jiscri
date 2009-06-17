@@ -31,12 +31,12 @@ There are four sets of documents you will need to complete during the course of 
 *_Please remember all documents you create as part of your project are subject to FOI so best to maintain best practice with regards to transparency and openness throughout your project_*
 
 ==Progress Posts==
-  * So as to make your life easier we are suggesting a series of blog posts be written for the project as it progresses (this is in place of the final completion report so should save you time)
+  * So as to make your life easier we are suggesting a series of blog posts be written for the project as it progresses (this is in place of the final completion report so should save you time!)
   * The posts are intended to disseminate the knowledge of the project in the now, rather than waiting until the end of the project to share your experiences. 
   * In short, we would like you to write a blog post on the following themes during the course of your project, though you are welcome to find variance in the theme as you see fit.  We are not prescriptive here and really want you to write something that people in the community will want to read, i.e. don't write them for JISC alone.
-  * Please make sure to use the correct tags for each post so that our robots can come along and aggregate all posts on various topics into our analytics tools (manyEyes, Google Data, etc).  We are hoping this open data approach helps increase the synchronous-ability in which we communicate with one another.
+  * Please make sure to use the correct tags for each post (including your own project tag) so that our robots can come along and aggregate all posts on various topics into our analytics tools (manyEyes, Google Data, etc).  We are hoping this open data approach helps increase the synchronous-ability in which we communicate with one another.
   * The posts can be as short or as long as you like so long as you keep your fellow projects and Higher Education community audience in mind.  
-  * You must cover all the topic themes (and use all the tags) below be that in ten separate posts or in three or four longer posts (though our preference is for early and often where possible).
+  * You must cover all the topic themes (and use all the tags) below: be that in ten separate posts or in three or four longer posts (though our preference is for early and often where possible).
 
 The following topics make up the required Progress Posts (you can do these posts in the order you see as most pragmatic to your project).  
 
