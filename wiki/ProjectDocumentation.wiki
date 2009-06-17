@@ -25,7 +25,7 @@ There are four sets of documents you will need to complete during the course of 
     * This form is essential and needs to be filled out as soon as you have your staff, website/blog/wiki, code repository and rss feeds in place.
   # *[http://code.google.com/p/jiscri/downloads/list?q=label:ProjectPlan Project Plan Template HTML]*  <- please complete within the first month of your project.
     * [http://www.screencast.com/users/DFFlanders/folders/Jing/media/e4db2015-6e3f-40fd-ad13-6f93ff60d772 Screencast on how to upload the XHTML template to Google Docs]
-    * [http://www.screencast.com/users/DFFlanders/folders/Jing/media/0fbb2d94-5f22-423b-8a6f-62a88e67b0c8g Screencast on how to upload the XHTML template to Word]
+    * [http://www.screencast.com/users/DFFlanders/folders/Jing/media/0fbb2d94-5f22-423b-8a6f-62a88e67b0c8 Screencast on how to upload the XHTML template to Word]
     * This document clearly states the obligation you have to JISC in how you plan to achieve your project.  
     * This document can be cut and pasted from your project proposal so long as nothing has changed with the budget.
 
