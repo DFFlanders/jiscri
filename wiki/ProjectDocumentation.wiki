@@ -58,7 +58,7 @@ The following topics make up the required Progress Posts (you can do these posts
 
 ==Final Project Budget and Sign-Off==
   # *Final Budget Template* (everyone must fill this out)
-    * [http://code.google.com/p/jiscri/downloads/list?q=label:budget Spreadsheet Templates Listed Here].
+    * [http://code.google.com/p/jiscri/downloads/list?q=label:budget Budget spreadsheet templates listed here].
     * Please note that the final budget will be made open under FOI regulations so do not put any personal data in the budget, e.g. instead of listing names of people please list their their general role in the project: "project manager", "project developer", "consultant developer", etc.
   # *Final Project Sign-off Form* <!--link to final report coming soon-->
     * To complete the project you will need to fill out the above form.  This is both the legal ending of your project and the feedback JISC requires to improve on rapid innovation the next time around.
