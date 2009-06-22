@@ -1,0 +1,30 @@
+#summary This page is to help remind programme managers what core information they need from projects so they can help them in the overall context of the programme.
+
+= Project Description =
+
+Add your content here.
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
+
+= Docuemntation =
+
+
+= Meetings =
+(reverse chronological order of scheduled face to face meetings)
+
+Date of Meeting
+  * Agenda
+  * 
+
+
+= Correspondance =
+
+Email, Phone calls, twitters, links sent, etc.
+
+Remind projects regarding best practice in FOI.
