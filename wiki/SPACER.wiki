@@ -1,0 +1,31 @@
+#summary One-sentence summary of this page.
+#labels project
+
+Project Descriptions:
+  * 10 second elevator pitch:
+  * Twitter description (120 characters laymen description):
+  * Questions this project solves:
+    * User Question:
+    * Bigger Question:
+
+= Core Project Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
+
+
+= Meetings =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
+
+== Correspondance ==
+
+  * meeting (Tuesday 23rd June) with the BGS and Edina in order to finalise the use case and requirements for SPACER
+    * Participants: Tyler Mitchell(OSGeo), Stuart Marsh (BGS), Joe Vernon(Edina), Gobe
+Hobona(CGS), Mike Jackson(CGS), Andrew Chamberlain(ComSine/1Spatial)
+  * 
