@@ -1,5 +1,5 @@
 #summary One-sentence summary of this page.
-#labels project
+#labels project,watch
 
 Project Descriptions:
   * 10 second elevator pitch:
@@ -15,6 +15,11 @@ Add your content here.  Format your content with:
   * Headings, paragraphs, and lists
   * Automatic links to other wiki pages
 
+= Project Team =
+  * Project Manager = Mike Jackson
+  * Lead Developer = Gobe Hobona
+  * CS Student Dev Assistant = ?
+
 
 = Meetings =
 
@@ -24,8 +29,10 @@ Add your content here.  Format your content with:
   * Automatic links to other wiki pages
 
 == Correspondance ==
-
+(in chronological order)
   * meeting (Tuesday 23rd June) with the BGS and Edina in order to finalise the use case and requirements for SPACER
     * Participants: Tyler Mitchell(OSGeo), Stuart Marsh (BGS), Joe Vernon(Edina), Gobe
 Hobona(CGS), Mike Jackson(CGS), Andrew Chamberlain(ComSine/1Spatial)
-  * 
+  * 2009-06-24 request for late start date (from June to August) to hire student CS dev assistant
+    * DFF: Agreed so long as risk assessment (plan A, B and C) in case student isn't available.
+    * DFF: Want budget of contributions from other org (Edina) into project
