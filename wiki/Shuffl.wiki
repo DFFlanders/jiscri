@@ -1,14 +1,51 @@
-#summary post-it notes turned into linked data
+#summary post-it notes turned into linked data...
 #labels project
 
-= Introduction =
+= Project Description =
+  * 10 second elevator pitch:
+  * Twitter description (120 characters laymen description):
+  * Questions this project answers:
+    * User Question:
+    * Bigger Question:
 
-Add your content here.
+= Project Details =
 
+  * Name of Host Institution: 
+  * JISC Programme/Strand: 
+  * Length of Project:
+    * Project Start Date:
+    * Project End Date:
+  * Grant Awarded to Project:
 
-= Details =
+= Project Team =
+  * Project Manager/Investigator
+  * Developer
+  * Admin
+  * Partners
+  * Consultants
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+= Documentation =
+  * Core Project Resources
+  * Project Plan
+  * Progress Posts RSS Feed
+  * Final Budget
+  * Sign-off Form
+
+= Meetings =
+(reverse chronological order of scheduled face to face meetings)
+
+First Meeting, Date of Meeting, Location of Meeting
+  * Agenda:
+    * Programme Manager SLA:
+    * SWOT:
+    * Documentation: Core Project Resources, Project Plan, Progress Posts 
+    * List Top Three Sprints/Workpackages and Level of Difficulty for each
+    * Use Cases and Type/Name of Real/Named Users:
+    * Technologies/Tools Using (Standards, Methods, 
+    * Methodology (Agile, SCRUM, TDD, etc) --> Code Repo/Wiki/Site?
+    * Sustainability / Success Plan / Business Case
+
+= Correspondance =
+
+  * Email, Phone calls, twitters, links sent, etc.
+  * Remind projects regarding best practice in FOI.
