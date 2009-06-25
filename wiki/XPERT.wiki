@@ -1,6 +1,11 @@
 #summary auto create rss feeds out of learning resources for consumption by central rss aggregation service
 #labels project
 
+=Project Description=
+  * Short: Develop distributed repository of learning materials created via Xerte Online Toolkit.
+  * 10 second: Project is extending the Xerte online packaging tool which creates learning resources to expose an RSS feed of the content so it can be syndicated to a central store of learning content.
+  * Questions project answers: 
+
 = Project Details =
   * A3-10 University of Nottingham 
   * 19 months 4/1/2009 10/1/2010
@@ -14,11 +19,6 @@
   * JISC TechDis: 
      * Providing teaching material and support documentation on how to use XERTE
      * Installing 
-
-=Project Description=
-  * Short: Develop distributed repository of learning materials created via Xerte Online Toolkit.
-  * 10 second: Project is extending the Xerte online packaging tool which creates learning resources to expose an RSS feed of the content so it can be syndicated to a central store of learning content.
-  * Questions project answers: 
 
 = Documentation Progress =
   * podcast on Xerte Online Toolkits internally which we plan to put on YouTube.  You will see it on page 14 of the following RLO created in Xerte Online Toolkits about our Second Life project.
