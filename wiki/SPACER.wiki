@@ -36,7 +36,7 @@ Hobona(CGS), Mike Jackson(CGS), Andrew Chamberlain(ComSine/1Spatial)
   * 2009-06-24 request for late start date (from June to August) to hire student CS dev assistant
     * DFF: Agreed so long as risk assessment (plan A, B and C) in case student isn't available.
     * DFF: Want budget of contributions from other org (Edina) into project
-  * GH: adopting Google Android instead of Nokia Java ME, although the proposal mentioned Nokia Java ME.
+  * 2009-06-29 GH: adopting Google Android instead of Nokia Java ME, although the proposal mentioned Nokia Java ME.
     * Signing: There is self-signing support in Android but Nokia requires applications to be signed with certificates from VeriSign, Thawte or Geotrust. Certificates cost at least $400 and are valid for a year. Signing is needed because we intend access both http and location capabilities of the phones.
     * Usability: HTC/Google Android phones have bigger screens, touch interfaces and generally better usability.
     * Community: The Android and iPhone communities appear to be growing at a much larger pace than the Nokia community of developers because of the signing issue.
