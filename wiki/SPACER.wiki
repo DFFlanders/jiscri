@@ -51,8 +51,7 @@ First Meeting, Date of Meeting, Location of Meeting
 == Correspondance ==
 (in chronological order)
   * meeting (Tuesday 23rd June) with the BGS and Edina in order to finalise the use case and requirements for SPACER
-    * Participants: Tyler Mitchell(OSGeo), Stuart Marsh (BGS), Joe Vernon(Edina), Gobe
-Hobona(CGS), Mike Jackson(CGS), Andrew Chamberlain(ComSine/1Spatial)
+    * Participants: Tyler Mitchell(OSGeo), Stuart Marsh (BGS), Joe Vernon(Edina), Gobe Hobona(CGS), Mike Jackson(CGS), Andrew Chamberlain (ComSine 1Spatial)
   * 2009-06-24 request for late start date (from June to August) to hire student CS dev assistant
     * DFF: Agreed so long as risk assessment (plan A, B and C) in case student isn't available.
     * DFF: Want budget of contributions from other org (Edina) into project
