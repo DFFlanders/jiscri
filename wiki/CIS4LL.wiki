@@ -1,5 +1,5 @@
 #summary A crowd-sourced information system for advanced language learning.
-#labels project
+#labels project,DFF
 
 = Project Description =
   * 10 second elevator pitch (how do you sell this to an early adopter?): The CloudBank project aims to build a mobile- and web-based crowd-sourced information system to help international students share their knowledge and understanding of the local language and culture. The system allows students to collect, annotate and tag language- and culture-related content found in everyday life, including text, images and other media, and to share these content items with other language learners.
@@ -49,3 +49,5 @@ First Meeting, Date of Meeting, Location of Meeting
 (descending chronological order)
   * Email, Phone calls, twitters, links sent, etc.
   * Remind projects regarding best practice in FOI.
+
+  * 2009-07-02 DFF sent email requesting return of grant letter and F2F meeting.
