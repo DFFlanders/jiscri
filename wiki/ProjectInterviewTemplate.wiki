@@ -1,10 +1,6 @@
 #summary This page is to help remind programme managers what core information they need from projects so they can help them in the overall context of the programme.
 
 = Project Description =
-
-Add your content here.
-
-= Project Description =
   * 10 second elevator pitch (how do you sell this to an early adopter?):
   * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them):
   * Questions this project answers:
