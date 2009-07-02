@@ -1,0 +1,51 @@
+#summary A crowd-sourced information system for advanced language learning.
+#labels project
+
+= Project Description =
+  * 10 second elevator pitch (how do you sell this to an early adopter?): The CloudBank project aims to build a mobile- and web-based crowd-sourced information system to help international students share their knowledge and understanding of the local language and culture. The system allows students to collect, annotate and tag language- and culture-related content found in everyday life, including text, images and other media, and to share these content items with other language learners.
+  * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them):
+  * Questions this project answers:
+    * User Question (what itch does it scratch):
+    * Community Question (how does this change the way things were done):
+
+= Project Details =
+
+  * Name of Host Institution: 
+  * JISC Programme/Strand: 
+  * Length of Project:
+    * Project Start Date:
+    * Project End Date:
+  * Grant Awarded to Project:
+
+= Project Team =
+  * Project Manager/Investigator
+  * Developer
+  * Admin
+  * Partners
+  * Consultants
+
+= Documentation =
+  * Core Project Resources
+  * Project Plan
+  * Progress Posts RSS Feed
+  * Final Budget
+  * Sign-off Form
+
+= Meetings =
+(reverse chronological order of scheduled face to face meetings)
+
+First Meeting, Date of Meeting, Location of Meeting
+  * Agenda:
+    * Programme Manager SLA:
+    * SWOT:
+    * Documentation: Core Project Resources, Project Plan, Progress Posts 
+    * List Top Three Sprints/Workpackages and Level of Difficulty for each
+    * Use Cases and Type/Name of Real/Named Users:
+    * Technologies/Tools Using (Standards, Methods, 
+    * Methodology (Agile, SCRUM, TDD, etc) --> Code Repo/Wiki/Site?
+    * Sustainability / Success Plan / Business Case
+
+= Correspondance =
+(descending chronological order)
+  * Email, Phone calls, twitters, links sent, etc.
+  * Remind projects regarding best practice in FOI.
