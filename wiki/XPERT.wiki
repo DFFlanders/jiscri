@@ -1,5 +1,5 @@
 #summary auto create rss feeds out of learning resources for consumption by central rss aggregation service
-#labels project
+#labels project,DFF
 
 =Project Description=
   * Short: Develop distributed repository of learning materials created via Xerte Online Toolkit.
@@ -23,6 +23,12 @@
 = Documentation Progress =
   * podcast on Xerte Online Toolkits internally which we plan to put on YouTube.  You will see it on page 14 of the following RLO created in Xerte Online Toolkits about our Second Life project.
   * http://www.nottingham.ac.uk/toolkits/play_922
+  
+  * [http://spreadsheets.google.com/pub?key=po8dqZ_GuNf5Q2fd00xr9Vw&single=true&gid=0&range=c2%3Az2&output=html Core Project Resources] - need department project is based within.
+  * Project Plan
+  * Progress Posts RSS Feed
+  * Final Budget
+  * Sign-off Form
 
 = Meetings =
 
