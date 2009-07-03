@@ -1,12 +1,8 @@
 #summary Android app for GPS-supported mobile phones to query repositories offering metadata through geospatial standards.
-#labels project,watch
+#labels project,watch,android,geo,mobile
 
 = Project Description =
-
-Add your content here.
-
-= Project Description =
-  * 10 second elevator pitch (how do you sell this to an early adopter?):
+  * 10 second elevator pitch (how do you sell this to an early adopter?): Historically, a student or researcher conducting fieldwork was only able to search for datasets relevant to their study sites after downloading data from their mobile devices into a computer back at their laboratories. SPACER aims to develop mobile software that improves the process by enabling repositories to be searched whilst the student or researcher is still out in the field. The project will develop a demonstrator prototype that enables mobile phones with built-in Global Positioning System (GPS) devices to query repositories supporting standards of the Open Geospatial Consortium (OGC) - a global group of over 380 private, public and academic organisations (http://www.opengeospatial.org).
   * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them):
   * Questions this project answers:
     * User Question (what itch does it scratch):
@@ -14,20 +10,26 @@ Add your content here.
 
 = Project Details =
 
-  * Name of Host Institution: 
-  * JISC Programme/Strand: 
-  * Length of Project:
-    * Project Start Date:
-    * Project End Date:
-  * Grant Awarded to Project:
+  * Name of Host Institution: University of Nottingham
+  * JISC Programme/Strand: 03/09
+  * Length of Project: 6 months
+    * Project Start Date: Mon, Jun 1st 2009
+    * Project End Date: Wed, Sep 30th 2009
+  * Grant Awarded to Project: £31,741.00 
+  * PIMS listing: https://pims.jisc.ac.uk/projects/view/1339
 
 = Project Team =
-  * Project Manager = Mike Jackson
-  * Lead Developer = Gobe Hobona
-  * CS Student Dev Assistant = ?
+
+  * Project Manager = Mike Jackson, mike.jackson at nottingham.ac.uk, 0115 84 68130
+  * Lead Developer = Gobe Hobona, gobe.hobona at nottingham.ac.uk 0115 84 68408
+  * CS Student Dev Assistant = TBC
+  * Colm Jordan	(Stakeholder Representative(BGS), cjj at bgs.ac.uk 0115 93 63227
+  * Ben Butchart (Stakeholder Representative(Edina), b.butchart at ed.ac.uk 0131 65 11227
 
 = Documentation =
-  * Core Project Resources
+  * Core Project Resources: Received 2009-03-07
+    * only using "spacer" tag will need to make sure to use JISC tag with 'spacer' tag so it is uniquely identifiable for crawler. 
+    * core success factors: a.)  downloading of project files(or source code) on the Sourceforge project, b.) announcement of the project demonstrator on the community mailing lists and related events. 
   * Project Plan
   * Progress Posts RSS Feed
   * Final Budget
