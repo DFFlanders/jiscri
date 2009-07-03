@@ -18,8 +18,8 @@
   * Grant Awarded to Project:
 
 = Project Team =
-  * Project Manager/Investigator
-  * Developer
+  * Project Manager/Investigator: 
+  * Developers: Marcus Winter, Sanaz Fallahkhair
   * Admin
   * Partners
   * Consultants
