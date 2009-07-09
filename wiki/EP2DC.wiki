@@ -1,0 +1,74 @@
+#summary a module for eprints that supports the submission of xml formatted data with the associated manuscript.
+#labels project
+
+= Project Description =
+  * 10 second elevator pitch (how do you sell this to an early adopter?): The objective is to develop a prototype module to enable the EPrints repository to support the 5ubmission of XML-formatted experimental data together with the manuscript to which they correspond. The basic motivations for the work are to promote the conservation of experimental data and to link data to publications. As Semantic technologies become established, the ever-increasing body of experimental data will provide new opportunities for knowledge discovery within and across disciplines.							
+  * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them):
+  * Questions this project answers:
+    * User Question (what itch does it scratch):
+    * Community Question (how does this change the way things were done):			 								
+
+
+= Project Details =
+
+  * Name of Host Institution: University of Southampton
+  * JISC Programme/Strand: 
+  * Length of Project:
+    * Project Start Date:5/6/2009
+    * Project End Date:5/6/2009
+  * Grant Awarded to Project: £40000
+
+= Project Team =
+  * Project Manager: Philippa Reed p.a.reed@soton.ac.uk
+  * Developer
+  * Admin
+  * Partners
+  * Consultants
+
+= Documentation =
+  * Core Project Resources
+    * Received date:
+    * Comments:
+    * Approved:
+    * Locations:
+  * Project Plan
+    * Received date:
+    * Comments:
+    * Approved:
+    * Locations:
+  * Progress Posts RSS Feed
+    * Received date:
+    * Comments:
+    * Approved:
+    * Locations:
+  * Final Budget
+    * Received date:
+    * Comments:
+    * Approved:
+    * Locations:
+  * Sign-off Form
+    * Received date:
+    * Comments:
+    * Approved:
+    * Locations:
+
+= Meetings =
+(reverse chronological order of scheduled face to face meetings)
+
+First Meeting, Date of Meeting, Location of Meeting
+  * Agenda:
+    * Programme Manager SLA:
+    * SWOT:
+    * Documentation: Core Project Resources, Project Plan, Progress Posts 
+    * List Top Three Sprints/Workpackages and Level of Difficulty for each
+    * Use Cases and Type/Name of Real/Named Users:
+    * Technologies/Tools Using (Standards, Methods, 
+    * Methodology (Agile, SCRUM, TDD, etc) --> Code Repo/Wiki/Site?
+    * Sustainability / Success Plan / Business Case
+
+= Correspondance =
+(descending chronological order)
+  * Email, Phone calls, twitters, links sent, etc.
+  * Remind projects regarding best practice in FOI.
+
+  * 2009-07-09 Phillipa contacted to request delay of project for one month. 
