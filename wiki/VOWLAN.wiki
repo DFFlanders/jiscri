@@ -1,0 +1,71 @@
+#summary A portable voice over wireless local area network for learning/research taking place in remote areas.
+
+= Project Description =
+  * 10 second elevator pitch (how do you sell this to an early adopter?): develop a robust, flexible and highly portable wireless communications network for use in educational collaborative group work. This network infrastructure could be used to support a broad range of learning, teaching and research activities. We are developing this system for use on geology fieldwork courses where we have established a clear need for reliable voice communication, a sense-of-presence video stream and the sharing of high-resolution digital images. The outstanding challenge to be addressed is to develop a wireless network that will prioritise the transfer of audio and video data in order to support a continuous dialogue between the students and lecturers. The project will use open source software and standard Wi-Fi technology to produce a reliable and flexible communication toolkit for mobile learning.
+  * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them):
+  * Questions this project answers:
+    * User Question (what itch does it scratch):
+    * Community Question (how does this change the way things were done):
+
+= Project Details =
+
+  * Name of Host Institution: 
+  * JISC Programme/Strand: 
+  * Length of Project:
+    * Project Start Date:
+    * Project End Date:
+  * Grant Awarded to Project:
+  * Project Website: http://projects.kmi.open.ac.uk/era/wiki
+
+= Project Team =
+  * Project Owner: Trevor D. Collins, t.d.collins at open.ac.uk
+  * Developer: John Lea, san at spc.org
+  * Admin
+  * Partners
+  * Consultants
+
+= Documentation =
+  * Core Project Resources
+    * Received date:
+    * Comments:
+    * Approved:
+    * Locations:
+  * Project Plan
+    * Received date:
+    * Comments:
+    * Approved:
+    * Locations:
+  * Progress Posts RSS Feed: http://projects.kmi.open.ac.uk/era/wiki/index.php?title=Special:RecentChanges&feed=rss
+    * Received date:
+    * Comments:
+    * Approved:
+    * Locations:
+  * Final Budget
+    * Received date:
+    * Comments:
+    * Approved:
+    * Locations:
+  * Sign-off Form
+    * Received date:
+    * Comments:
+    * Approved:
+    * Locations:
+
+= Meetings =
+(reverse chronological order of scheduled face to face meetings)
+
+First Meeting, Date of Meeting, Location of Meeting
+  * Agenda:
+    * Programme Manager SLA:
+    * SWOT:
+    * Documentation: Core Project Resources, Project Plan, Progress Posts 
+    * List Top Three Sprints/Workpackages and Level of Difficulty for each
+    * Use Cases and Type/Name of Real/Named Users:
+    * Technologies/Tools Using (Standards, Methods, 
+    * Methodology (Agile, SCRUM, TDD, etc) --> Code Repo/Wiki/Site?
+    * Sustainability / Success Plan / Business Case
+
+= Correspondance =
+(descending chronological order)
+  * Email, Phone calls, twitters, links sent, etc.
+  * Remind projects regarding best practice in FOI.
