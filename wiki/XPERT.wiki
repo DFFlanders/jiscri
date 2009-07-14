@@ -1,5 +1,5 @@
 #summary auto create rss feeds out of learning resources for consumption by central rss aggregation service
-#labels project,DFF
+#labels project,DFF,rss,ukoer,learning,teaching
 
 =Project Description=
   * Short: Develop distributed repository of learning materials created via Xerte Online Toolkit.
@@ -8,7 +8,7 @@
 
 = Project Details =
   * A3-10 University of Nottingham 
-  * 19 months 4/1/2009 10/1/2010
+  * 6 months 4/1/2009 10/1/2009
   * £59777 
 
 ==Project Team/Partners==
@@ -141,3 +141,6 @@ user install toolkit, after install asks to submit to repository -> RSS push -> 
 
 presenting at Alt-C in Manchester 2009
 attendance at Friday events
+
+= Correspondance =
+  * 2009-07-14 change of project date from 18 month project to 6 month project as agree by Neil J and DFF
