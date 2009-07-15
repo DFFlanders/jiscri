@@ -1,4 +1,5 @@
 #summary A portable voice over wireless local area network for learning/research taking place in remote areas.
+#labels wifi,voip,project
 
 = Project Description =
   * 10 second elevator pitch (how do you sell this to an early adopter?): develop a robust, flexible and highly portable wireless communications network for use in educational collaborative group work. This network infrastructure could be used to support a broad range of learning, teaching and research activities. We are developing this system for use on geology fieldwork courses where we have established a clear need for reliable voice communication, a sense-of-presence video stream and the sharing of high-resolution digital images. The outstanding challenge to be addressed is to develop a wireless network that will prioritise the transfer of audio and video data in order to support a continuous dialogue between the students and lecturers. The project will use open source software and standard Wi-Fi technology to produce a reliable and flexible communication toolkit for mobile learning.
@@ -9,13 +10,15 @@
 
 = Project Details =
 
-  * Name of Host Institution: 
+  * Name of Host Institution: Open University
+    * directions: http://www3.open.ac.uk/contact/locations.aspx
   * JISC Programme/Strand: 
   * Length of Project:
-    * Project Start Date:
-    * Project End Date:
-  * Grant Awarded to Project:
+    * Project Start Date: 2009-06-07
+    * Project End Date: 2009-06-07 
+  * Grant Awarded to Project: £22,367.00 
   * Project Website: http://projects.kmi.open.ac.uk/era/wiki
+    * https://pims.jisc.ac.uk/projects/view/1344
 
 = Project Team =
   * Project Owner: Trevor D. Collins, t.d.collins at open.ac.uk
@@ -69,3 +72,5 @@ First Meeting, Date of Meeting, Location of Meeting
 (descending chronological order)
   * Email, Phone calls, twitters, links sent, etc.
   * Remind projects regarding best practice in FOI.
+
+  * 2009-0715 DFF in process of scheduling meetNgreet start Aug 11
