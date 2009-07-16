@@ -1,9 +1,10 @@
 #summary creating iPhone app for art students.
 #labels project
 
+http://spreadsheets.google.com/pub?key=po8dqZ_GuNf5Q2fd00xr9Vw&single=true&gid=0&range=c31%3Az31&output=html
 
 = Project Description =
-  * 10 second elevator pitch (how do you sell this to an early adopter?):
+  * 10 second elevator pitch (how do you sell this to an early adopter?): Artnotes is an iPhone application aimed at students in fine art, photography and other visually orientated disciplines. The application allows users to collect images and textual notes on the device in a format analogous to a traditional “Visual notebook” as used in many branches of arts education. The application will be able to take visual input from the device’s camera as well as being able to search online image collections.
   * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them):
   * Questions this project answers:
     * User Question (what itch does it scratch):
