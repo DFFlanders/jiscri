@@ -9,7 +9,7 @@
     * Community Question (how does this change the way things were done):
 
 = Project Details =
-
+  * Core Project Details: 
   * Name of Host Institution: 
   * JISC Programme/Strand: 
   * Length of Project:
