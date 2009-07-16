@@ -144,3 +144,5 @@ attendance at Friday events
 
 = Correspondance =
   * 2009-07-14 change of project date from 18 month project to 6 month project as agree by Neil J and DFF
+  * AB: I am also project managing an OER institutional bid called BERLiN which will develop our existing OER called u-Now: http://unow.nottingham.ac.uk/
+    * Version of the site (currently in development) which has the latest styling applied:  http://www.nottingham.ac.uk/xpert/RSS2/ 
