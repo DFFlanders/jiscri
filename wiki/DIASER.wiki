@@ -54,3 +54,5 @@ Diagrammatic overview, http://www.diaser.org.uk/diagram.html
 
 = Correspondance =
   * 2009-07-16 twitter from dbrasher @dfflanders link to all the release notes since April, added to after each new release http://diaser.svn.sourcefor...about 12 hours ago from web
+    * @dfflanders here is a link to the SourceForge RSS aggregate - http://bit.ly/DRuSd
+  * 2009-
