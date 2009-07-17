@@ -12,8 +12,9 @@
   * £59777 
 
 ==Project Team/Partners==
-  * Project manager (lead of learning team at Nottingham): Andy Beggan andy.beggan[deleteThis]@nottingham.ac.uk
-  * Alison Johnson's role will be to facilitate, organise and disseminate the activities of the project
+  * Project manager: Andy Beggan (lead of learning team at Nottingham)andy.beggan[deleteThis]@nottingham.ac.uk
+  * Project Admin: Alison Johnson's (facilitate, organise and disseminate the activities of the project)
+  * Developers: Julian Tenney and Patrick Lockley
   * University of Bolton: Roy Attwood and Brett Haslam
     * Installation and user testing feedback
   * JISC TechDis: 
