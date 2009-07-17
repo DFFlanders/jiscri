@@ -1,7 +1,7 @@
 #summary This page is to help remind programme managers what core information they need from projects so they can help them in the overall context of the programme.
 #labels projects,mobile
 
-  *SLA for progManager
+  * SLA for progManager
 
 = Project Description =
   * 10 second elevator pitch (how do you sell this to an early adopter?):
@@ -71,3 +71,5 @@ First Meeting, Date of Meeting, Location of Meeting
 (descending chronological order)
   * Email, Phone calls, twitters, links sent, etc.
   * Remind projects regarding best practice in FOI.
+
+  * 2009-07-17 DFF agreed meeting for Monday August 24th.
