@@ -1,5 +1,5 @@
 #summary This page is to help remind programme managers what core information they need from projects so they can help them in the overall context of the programme.
-#labels projects,mobile
+#labels project,mobile
 
   * SLA for progManager
 
