@@ -1,7 +1,7 @@
 #summary creating iPhone app for art students.
-#labels project
+#labels project,iPhone,mobile,User-Students
 
-http://spreadsheets.google.com/pub?key=po8dqZ_GuNf5Q2fd00xr9Vw&single=true&gid=0&range=c31%3Az31&output=html
+http://spreadsheets.google.com/pub?key=po8dqZ_GuNf5Q2fd00xr9Vw&single=true&gid=0&range=c30:z30&output=html
 
 = Project Description =
   * 10 second elevator pitch (how do you sell this to an early adopter?): Artnotes is an iPhone application aimed at students in fine art, photography and other visually orientated disciplines. The application allows users to collect images and textual notes on the device in a format analogous to a traditional “Visual notebook” as used in many branches of arts education. The application will be able to take visual input from the device’s camera as well as being able to search online image collections.
@@ -20,8 +20,12 @@ http://spreadsheets.google.com/pub?key=po8dqZ_GuNf5Q2fd00xr9Vw&single=true&gid=0
   * Grant Awarded to Project:
 
 = Project Team =
-  * Project Manager/Investigator
-  * Developer
+
+  * Project Owner: Roy Atwood
+  * Developers:
+    * lead: Dave Hagan
+    * frontend: Owen Watson, Kirk Barron
+    * web: Brett Haslam
   * Admin
   * Partners
   * Consultants
@@ -54,3 +58,4 @@ First Meeting, Date of Meeting, Location of Meeting
 
   * Change of project lead Sam Easterby-Smith to Roy Attword in School of Games Computing and Creative Technology.  
   * DFF contacted to request meeting.
+  * 2009-07-17: have asked for mtg after 11 aug waiting for dates.
