@@ -1,4 +1,4 @@
-#summary A crowd-sourced information system for advanced language learning.
+#summary "Cloudbank" is a crowd-sourced information system for advanced language learning.
 #labels project,DFF,mobile,android
 
 = Project Description =
@@ -18,7 +18,7 @@
   * Grant Awarded to Project:
 
 = Project Team =
-  * Project Manager/Investigator: 
+  * Project Manager/Investigator: Lyn Pemberton 
   * Developers: Marcus Winter, Sanaz Fallahkhair
   * Admin
   * Partners
@@ -51,4 +51,4 @@ First Meeting, Date of Meeting, Location of Meeting
   * Remind projects regarding best practice in FOI.
 
   * 2009-07-02 DFF sent email requesting return of grant letter and F2F meeting.
-  * Suggested meet Fri 17th of July
+  * 2009-07-17 meetNgreet scheduled for Wed 22nd July 2009 at 2pm
