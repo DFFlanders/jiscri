@@ -19,7 +19,8 @@
   * Grant Awarded to Project: £40000
 
 = Project Team =
-  * Project Manager: Philippa Reed p.a.reed@soton.ac.uk
+  * Project Manager: Philippa Reed p.a.reed at soton.ac.uk
+    * filling in project forms? Kenji Takeda ktakeda at soton.ac.uk
   * Developer
   * Admin
   * Partners
