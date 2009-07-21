@@ -52,3 +52,7 @@ First Meeting, Date of Meeting, Location of Meeting
   * Remind projects regarding best practice in FOI.
 
   * 2009-07-02 DFF sent email to Caroline to ask about returning of grant letter.
+  * Jackie will go back to developers (Andy, Taliesin and Malcolm) to see if they are still keen on developing something that addresses a real user problem (open brief).
+  * If developers agree, they will name a set of real "named" end users in which with to work.
+  * A draft outline on new proposed project will be written up prior to August 11th for David to read over <- utilise project plan form so less rewriting. 
+  * A F2F meeting will be scheduled with developer team and David to go over project outputs and agree on way forward for project (post Aug 11).
