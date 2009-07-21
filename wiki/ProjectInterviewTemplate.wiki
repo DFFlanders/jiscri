@@ -20,11 +20,11 @@
   * Grant Awarded to Project:
 
 = Project Team =
-  * Project Manager/Investigator
-  * Developer
-  * Admin
-  * Partners
-  * Consultants
+  * Product Owner:
+  * Developer:
+  * Admin:
+  * Partners:
+  * Consultants:
 
 = Documentation =
   * Core Project Resources
