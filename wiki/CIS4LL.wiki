@@ -1,32 +1,40 @@
 #summary "Cloudbank" is a crowd-sourced information system for advanced language learning.
-#labels project,DFF,mobile,android,user-students
+#labels project,DFF,mobile,android,user-students,php
+
+* Project Manager SLA
 
 = Project Description =
   * 10 second elevator pitch (how do you sell this to an early adopter?): The Cloud Bank project aims to build a mobile- and web-based crowd-sourced information system to help international students share their knowledge and understanding of the local language and culture. The system allows students to collect, annotate and tag language- and culture-related content found in everyday life, including text, images and other media, and to share these content items with other language learners.
   * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them):
   * Questions this project answers:
     * User Question (what itch does it scratch):
-    * Community Question (how does this change the way things were done):
+    * Community Question (how does this change the way things were done): 
 
 = Project Details =
 
-  * Name of Host Institution: 
-  * JISC Programme/Strand: 
-  * Length of Project:
-    * Project Start Date:
-    * Project End Date:
-  * Grant Awarded to Project:
+  * Name of Host Institution: University of Brighton / School of Computing, Mathematical and Information Sciences
+  * JISC Programme/Strand/Theme: INF11 / JISCRI / Mobile
+  * [http://spreadsheets.google.com/pub?key=po8dqZ_GuNf5Q2fd00xr9Vw&single=true&gid=0&range=B21%3Az21&output=html Core Details Link]
+  * [? PIMS Link]
+  * Length of Project: 6 months
+    * Project Start Date: 15/06/2009	
+    * Project End Date: 30/11/2009
+  * Grant Awarded to Project: £40,000.00
 
 = Project Team =
-  * Product Owner: Lyn Pemberton 
-  * Developers: Marcus Winter, Sanaz Fallahkhair
-  * Admin
-  * Partners
-  * Consultants
+  * Product Manager: Lyn Pemberton 
+  * Developers: 
+    * Marcus Winter (LAMPHP), IDE
+    * Sanaz Fallahkhair (Interaction Designer): MPEG4, UXer, Requirements gathering, 
+  * Richard Griffiths: Overlay of research outputs
+  *  Stan Stanier: Head of Learning and Teaching.
+  * Admin: Seamlessresearchadmin@bton.ac.uk <- two ppl who job share
+  * Partners: mLearning community <- association of mobile learning: Mike Showforce
+  * Consultants: Graphic Designer <- Future platforms 
 
 = Documentation =
-  * Core Project Resources
-  * Project Plan
+  * Core Project Resources: 
+  * Project Plan:
   * Progress Posts RSS Feed
   * Final Budget
   * Sign-off Form
@@ -34,16 +42,34 @@
 = Meetings =
 (reverse chronological order of scheduled face to face meetings)
 
-First Meeting, Date of Meeting, Location of Meeting
+Project Meet&Greet, 2009-07-22, Moulsecomb, Watts Building, rm 602
   * Agenda:
-    * Programme Manager SLA:
-    * SWOT:
+    * Programme Manager SLA
+    
+    * SWOT analysis
     * Documentation: Core Project Resources, Project Plan, Progress Posts 
+
     * List Top Three Sprints/Workpackages and Level of Difficulty for each
+
     * Use Cases and Type/Name of Real/Named Users:
+      * UberUsers: Postgraduate students on campus who are across the hall: four users.
+      * Pre-Session English Programme (Falmer): set up mtg with them
+      * 
+ 
     * Technologies/Tools Using (Standards, Methods, 
+      * WAP interface
+      * Android App
+      * ReST
+      * 
+
     * Methodology (Agile, SCRUM, TDD, etc) --> Code Repo/Wiki/Site?
+      * 
     * Sustainability / Success Plan / Business Case
+       * Sponsorship 
+       * Declen software
+       * Publishers
+       * Erasmus
+       * App 
 
 = Correspondance =
 (descending chronological order)
