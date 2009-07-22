@@ -14,7 +14,6 @@
 
   * Name of Host Institution: University of Brighton / School of Computing, Mathematical and Information Sciences
   * JISC Programme/Strand/Theme: INF11 / JISCRI / Mobile
-  * [http://spreadsheets.google.com/pub?key=po8dqZ_GuNf5Q2fd00xr9Vw&single=true&gid=0&range=B21%3Az21&output=html Core Details Link]
   * [? PIMS Link]
   * Length of Project: 6 months
     * Project Start Date: 15/06/2009	
@@ -33,7 +32,7 @@
   * Consultants: Graphic Designer <- Future platforms 
 
 = Documentation =
-  * Core Project Resources: 
+  * Core Project Resources: http://spreadsheets.google.com/pub?key=po8dqZ_GuNf5Q2fd00xr9Vw&single=true&gid=0&range=B21%3Az21&output=html
   * Project Plan:
   * Progress Posts RSS Feed
   * Final Budget
