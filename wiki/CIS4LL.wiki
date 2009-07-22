@@ -1,8 +1,8 @@
 #summary "Cloudbank" is a crowd-sourced information system for advanced language learning.
-#labels project,DFF,mobile,android
+#labels project,DFF,mobile,android,user-students
 
 = Project Description =
-  * 10 second elevator pitch (how do you sell this to an early adopter?): The CloudBank project aims to build a mobile- and web-based crowd-sourced information system to help international students share their knowledge and understanding of the local language and culture. The system allows students to collect, annotate and tag language- and culture-related content found in everyday life, including text, images and other media, and to share these content items with other language learners.
+  * 10 second elevator pitch (how do you sell this to an early adopter?): The Cloud Bank project aims to build a mobile- and web-based crowd-sourced information system to help international students share their knowledge and understanding of the local language and culture. The system allows students to collect, annotate and tag language- and culture-related content found in everyday life, including text, images and other media, and to share these content items with other language learners.
   * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them):
   * Questions this project answers:
     * User Question (what itch does it scratch):
@@ -18,7 +18,7 @@
   * Grant Awarded to Project:
 
 = Project Team =
-  * Project Manager/Investigator: Lyn Pemberton 
+  * Product Owner: Lyn Pemberton 
   * Developers: Marcus Winter, Sanaz Fallahkhair
   * Admin
   * Partners
