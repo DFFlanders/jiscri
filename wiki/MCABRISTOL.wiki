@@ -1,3 +1,4 @@
+#summary The creation of a smart phone website and application to provide students with location and time sensitive information.
 #labels project,mobile,android,iphone
 
   * sign off on ServiceLevelAgreement for progManager
