@@ -1,0 +1,74 @@
+#labels project,mobile,android,iphone
+
+  * sign off on ServiceLevelAgreement for progManager
+
+= Project Description =
+  * 10 second elevator pitch (how do you sell this to an early adopter?): Mobile Campus Assistant is a project to develop a prototype open source mobile smart phone application and a mobile-specific website to provide students on the move with location and time sensitive information. For example, 'where is my nearest...' service such as wireless hotspots, public PC availability, directions to campus buildings, access to timetables.	
+  * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them): The creation of a smart phone website and application to provide students with location and time sensitive information.
+  * Questions this project answers:
+    * User Question (what itch does it scratch):
+    * Community Question (how does this change the way things were done):
+
+= Project Details =
+  * [http://spreadsheets.google.com/pub?key=po8dqZ_GuNf5Q2fd00xr9Vw&single=true&gid=0&range=b37:z37&output=html Core Project Details]
+  * Name of Host Institution: University of Bristol
+  * JISC Programme/Strand: Mobile 
+  * Length of Project: 6 months
+    * Project Start Date: ?2009June
+    * Project End Date: ?2009Nov
+  * Grant Awarded to Project: £40,000.00
+
+= Project Team =
+  * Project Owner: Nikki Rogers Nikki.Rogers at bristol.ac.uk
+  * Developers: Mike Jones mike.a.jones at bristol.ac.uk  Simon Price simon.price at bristol.ac.uk
+  * Admin:
+  * Partners:
+  * Consultants:
+
+= Documentation =
+  * Core Project Resources
+    * Received date:
+    * Comments:
+    * Approved:
+    * Locations:
+  * Project Plan
+    * Received date:
+    * Comments:
+    * Approved:
+    * Locations:
+  * Progress Posts RSS Feed
+    * Received date:
+    * Comments:
+    * Approved:
+    * Locations:
+  * Final Budget
+    * Received date:
+    * Comments:
+    * Approved:
+    * Locations:
+  * Sign-off Form
+    * Received date:
+    * Comments:
+    * Approved:
+    * Locations:
+
+= Meetings =
+(reverse chronological order of scheduled face to face meetings)
+
+First Meeting, Date of Meeting, Location of Meeting
+  * Agenda:
+    * Programme Manager SLA:
+    * SWOT:
+    * Documentation: Core Project Resources, Project Plan, Progress Posts 
+    * List Top Three Sprints/Workpackages and Level of Difficulty for each
+    * Use Cases and Type/Name of Real/Named Users:
+    * Technologies/Tools Using (Standards, Methods, 
+    * Methodology (Agile, SCRUM, TDD, etc) --> Code Repo/Wiki/Site?
+    * Sustainability / Success Plan / Business Case
+
+= Correspondance =
+(descending chronological order)
+  * Email, Phone calls, twitters, links sent, etc.
+  * Remind projects regarding best practice in FOI.
+
+  * 2009-07-17 DFF agreed meeting for Monday August 24th.
