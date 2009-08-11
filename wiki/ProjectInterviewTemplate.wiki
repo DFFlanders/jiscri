@@ -1,7 +1,7 @@
 #summary This page is to help remind programme managers what core information they need from projects so they can help them in the overall context of the programme.
 #labels template
 
-* SLA for Programme Manager
+ * SLA for Programme Manager
 
 = Project Description =
   * 10 second elevator pitch (how do you sell this to an early adopter?):
