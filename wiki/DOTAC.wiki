@@ -1,0 +1,77 @@
+#summary A Semantic Web tool for exploring the state of the research landscape in UKHE
+#labels project,linkeddata,foaf
+
+ * SLA for Programme Manager
+
+= Project Description =
+  * 10 second elevator pitch (how do you sell this to an early adopter?): The dotAC projects aims to develop a prototype Semantic Web demonstrator that synthesises research information from heterogeneous sources (institutional repositories and research council information systems), resolves name co-reference issues between the sources, and presents it to research-focussed end users through an interface that will allow them to explore the state of the research landscape in UKHE.
+  * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them): 
+  * Questions this project answers:
+    * User Question (what itch does it scratch):
+    * Community Question (how does this change the way things were done):
+
+= Project Details =
+  * [http://spreadsheets.google.com/pub?key=po8dqZ_GuNf5Q2fd00xr9Vw&single=true&gid=0&range=b34:z34&output=html Core Project Details]
+  * Name of Host Institution: University of Southampton
+  * JISC Programme/Strand: Semantic Web / Linked Data
+  * Length of Project: 6 months
+    * Project Start Date: 
+    * Project End Date:
+  * Grant Awarded to Project:
+
+= Project Team =
+Nicholas Gibbins, Ian Millard, Marcus Cobden, Hugh Glaser, Les Carr
+
+nmg@ecs.soton.ac.uk, icm@ecs.soton.ac.uk, mc08r@ecs.soton.ac.uk, hg@ecs.soton.ac.uk, lac@ecs.soton.ac.uk	
+
+  * Product Owner:
+  * Developer:
+  * Admin:
+  * Partners:
+  * Consultants:
+
+= Documentation =
+  * Core Project Resources
+    * Received date:
+    * Comments:
+    * Approved:
+    * Locations:
+  * Project Plan
+    * Received date:
+    * Comments:
+    * Approved:
+    * Locations:
+  * Progress Posts RSS Feed
+    * Received date:
+    * Comments:
+    * Approved:
+    * Locations:
+  * Final Budget
+    * Received date:
+    * Comments:
+    * Approved:
+    * Locations:
+  * Sign-off Form
+    * Received date:
+    * Comments:
+    * Approved:
+    * Locations:
+
+= Meetings =
+(reverse chronological order of scheduled face to face meetings)
+
+First Meeting, Date of Meeting, Location of Meeting
+  * Agenda:
+    * Programme Manager SLA:
+    * SWOT:
+    * Documentation: Core Project Resources, Project Plan, Progress Posts 
+    * List Top Three Sprints/Workpackages and Level of Difficulty for each
+    * Use Cases and Type/Name of Real/Named Users:
+    * Technologies/Tools Using (Standards, Methods, 
+    * Methodology (Agile, SCRUM, TDD, etc) --> Code Repo/Wiki/Site?
+    * Sustainability / Success Plan / Business Case
+
+= Correspondance =
+(descending chronological order)
+  * Email, Phone calls, twitters, links sent, etc.
+  * Remind projects regarding best practice in FOI.
