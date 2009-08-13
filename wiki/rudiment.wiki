@@ -1,5 +1,5 @@
-#summary rules based engine for collaborative documents.
-#labels alfresco,drupal,middleware
+#summary a secure collaborative document creation and management social network
+#labels alfresco,drupal,middleware,project
 
   * SLA for Programme Manager
 
@@ -12,12 +12,12 @@
 
 = Project Details =
   * Core Project Details Link: 
-  * Name of Host Institution: 
+  * Name of Host Institution: Thames Valley University
   * JISC Programme/Strand: 
   * Length of Project:
     * Project Start Date:
     * Project End Date:
-  * Grant Awarded to Project:
+  * Grant Awarded to Project: £39995
 
 = Project Team =
   * Product Owner:
