@@ -20,6 +20,9 @@
   * Grant Awarded to Project: £39995
 
 = Project Team =
+
+Samia Oussena; Tony Clark; Tim Cappelli
+
   * Product Owner:
   * Developer:
   * Admin:
@@ -71,3 +74,5 @@ First Meeting, Date of Meeting, Location of Meeting
 (descending chronological order)
   * Email, Phone calls, twitters, links sent, etc.
   * Remind projects regarding best practice in FOI.
+  
+  * 2009-08-13 DFF email request for CRF to be filled out along request to meet team.
