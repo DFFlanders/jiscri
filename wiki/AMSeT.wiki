@@ -1,5 +1,5 @@
 #summary creating template teaching/learning workflows atop Alfresco CMS using BPML
-#labels project
+#labels project,alfresco,bpmn,User-Student,BPML,workflow,pedagogy
 
 What questions does this project answer?
   * Through its extensive range of features and AMSeT-added Guanxi Shibboleth and SWORD interfaces, can Alfresco provide a useful content management system for VLE and PLE projects?
@@ -106,4 +106,6 @@ Sustainability (Business Cases):
   * difficult to get research council funding due to lack of RC understanding technical aspects of projects.
 
 = CORRESPONDANCE =
+Please see below in comments section for any and all correspondance by Programme Manager with the Projects. Also all edits that need to be made to this page please place in comments section and the author will correct.
+
   * 2009-08-14 AB and BC are not sure if they are able to attend JSICRI start-up mtg because of other Academic staff meetings re recession.
