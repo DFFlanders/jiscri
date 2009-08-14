@@ -1,5 +1,5 @@
 #summary user profile plugin for ePrints
-#labels project
+#labels project,ePrints,repository,plugin,widget
 
 =Descriptions=
   * What questions are this project trying to answer:
@@ -14,9 +14,9 @@
   * 29751
 
 =Project Team=
-  * David Millard
-  * Yvonne
-  * 
+  * Project Manager: David Millard
+  * Project Manager: Yvonne Howard
+  * Developer: Patrick McSweeney
 
 =Meetings=
 
@@ -80,9 +80,6 @@ LanguageBox has 300 deposits
 
 
 
-=== Notes ===
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+= CORRESPONDANCE =
+  * 2009-08-14 contacted to request attendance by two team members at JISCRI startup.
+  * 2009-
