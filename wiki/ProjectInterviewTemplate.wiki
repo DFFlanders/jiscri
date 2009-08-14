@@ -1,6 +1,8 @@
 #summary This page is to help remind programme managers what core information they need from projects so they can help them in the overall context of the programme.
 #labels template
 
+NOTE TO PROJECTS RE THIS PAGE: If you see a correction/addition that needs to be made in this page please place edits in the comments section at the bottom of this page and I will change, please do not email me. /dff
+
  * SLA for Programme Manager
 
 = Project Description =
@@ -68,6 +70,6 @@ First Meeting, Date of Meeting, Location of Meeting
     * Sustainability / Success Plan / Business Case
 
 = Correspondance =
-(descending chronological order)
+Please see below in comments section for any and all correspondance by Programme Manager with the Projects.  Also all edits that need to be made to this page please place in comments section and the author will correct.
   * Email, Phone calls, twitters, links sent, etc.
   * Remind projects regarding best practice in FOI.
