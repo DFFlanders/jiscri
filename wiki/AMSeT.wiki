@@ -1,11 +1,16 @@
 #summary creating template teaching/learning workflows atop Alfresco CMS using BPML
 #labels project,alfresco,bpmn,User-Student,BPML,workflow,pedagogy
 
+NOTE TO PROJECTS RE THIS PAGE: If you see a correction/addition that needs to be made in this page please place edits in the comments section at the bottom of this page and I will change, please do not email me. /dff
+
+
+= Project Description =
+
 What questions does this project answer?
   * Through its extensive range of features and AMSeT-added Guanxi Shibboleth and SWORD interfaces, can Alfresco provide a useful content management system for VLE and PLE projects?
   * Can Web service workflow backed by an Alfresco resource repository provide a useful platform for implementing teaching and learning designs?
 
-= Introduction =
+= Project Details =
 
   * A4-2 
   * University of Leeds 
@@ -18,7 +23,8 @@ What questions does this project answer?
 
 Team: 
 
-  
+  * PM = Andrew Booth
+  * Dev = Brian Clark
 
 = NOTES =
 Programme Manager Thoughts:
