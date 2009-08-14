@@ -1,6 +1,7 @@
 #summary One-sentence summary of this page.
 #labels project,DFF
 
+[NOTE TO PROJECT RE THIS PAGE: If you see a correction/addition that needs to be made in this page please place edits in the comments section at the bottom of this page and I will change, please do not email me.] 
 
 = Project Description =
   * 10 second elevator pitch (how do you sell this to an early adopter?):
@@ -47,7 +48,7 @@ First Meeting, Date of Meeting, Location of Meeting
     * Sustainability / Success Plan / Business Case
 
 = Correspondance =
-Please see below in comments section for any and all correspondance by Programme Manager with the Projects.
+Please see below in comments section for any and all correspondance by Programme Manager with the Projects.  Also all edits that need to be made to this page please place in comments section and the author will correct.
   * Email, Phone calls, twitters, links sent, etc.
   * Remind projects regarding best practice in FOI.
 
