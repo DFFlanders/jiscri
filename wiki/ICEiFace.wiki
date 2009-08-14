@@ -1,7 +1,7 @@
 #summary is building an interface to explore and interrogate complex, ontology based datasets using the medical curriculum.
 #labels project
 
-[NOTE TO PROJECT RE THIS PAGE: If you see a correction/addition that needs to be made in this page please place edits in the comments section at the bottom of this page and I will change, please do not email me.]
+NOTE TO PROJECT RE THIS PAGE: If you see a correction/addition that needs to be made in this page please place edits in the comments section at the bottom of this page and I will change, please do not email me. /dff
 
 = Project Description =
 
