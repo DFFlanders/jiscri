@@ -1,6 +1,8 @@
 #summary user profile plugin for ePrints
 #labels project,ePrints,repository,plugin,widget
 
+NOTE TO PROJECTS RE THIS PAGE: If you see a correction/addition that needs to be made in this page please place edits in the comments section at the bottom of this page and I will change, please do not email me. /dff
+
 =Descriptions=
   * What questions are this project trying to answer:
     * How can we enrich the repository users experience by giving them more interesting and informative home within the repository environment?
@@ -81,5 +83,4 @@ LanguageBox has 300 deposits
 
 
 = CORRESPONDANCE =
-  * 2009-08-14 contacted to request attendance by two team members at JISCRI startup.
-  * 2009-
+Please see below in comments section for any and all correspondance by Programme Manager with the Projects. Also all edits that need to be made to this page please place in comments section and the author will correct.
