@@ -1,4 +1,4 @@
-#summary creating iPhone app for art students.
+#summary iPhone application aimed at students in fine art, photography and other visually orientated disciplines
 #labels project,iPhone,mobile,User-Students
 
 http://spreadsheets.google.com/pub?key=po8dqZ_GuNf5Q2fd00xr9Vw&single=true&gid=0&range=c30:z30&output=html
@@ -12,7 +12,7 @@ http://spreadsheets.google.com/pub?key=po8dqZ_GuNf5Q2fd00xr9Vw&single=true&gid=0
 
 = Project Details =
 
-  * Name of Host Institution: 
+  * Name of Host Institution: Bolton
   * JISC Programme/Strand: 
   * Length of Project:
     * Project Start Date:
@@ -31,7 +31,7 @@ http://spreadsheets.google.com/pub?key=po8dqZ_GuNf5Q2fd00xr9Vw&single=true&gid=0
   * Consultants
 
 = Documentation =
-  * Core Project Resources
+  * [http://spreadsheets.google.com/pub?key=po8dqZ_GuNf5Q2fd00xr9Vw&single=true&gid=0&range=b30:z30&output=html Core Project Resources]
   * Project Plan
   * Progress Posts RSS Feed
   * Final Budget
@@ -59,3 +59,4 @@ First Meeting, Date of Meeting, Location of Meeting
   * Change of project lead Sam Easterby-Smith to Roy Attword in School of Games Computing and Creative Technology.  
   * DFF contacted to request meeting.
   * 2009-07-17: have asked for mtg after 11 aug waiting for dates.
+  * 2009-08-14 
