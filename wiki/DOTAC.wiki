@@ -1,5 +1,5 @@
 #summary A Semantic Web tool for exploring the state of the research landscape in UKHE
-#labels project,linkeddata,foaf
+#labels project,linkeddata,foaf,semanticWeb
 
  * SLA for Programme Manager
 
@@ -75,3 +75,5 @@ First Meeting, Date of Meeting, Location of Meeting
 (descending chronological order)
   * Email, Phone calls, twitters, links sent, etc.
   * Remind projects regarding best practice in FOI.
+
+  * 2009-08-14 contacted requesting attendance by two team members at prog mtg.
