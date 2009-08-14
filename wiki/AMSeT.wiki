@@ -16,6 +16,11 @@ What questions does this project answer?
   * £28151
   * Mtg on Friday April 24 in Leeds - confirmed
 
+Team: 
+
+  
+
+= NOTES =
 Programme Manager Thoughts:
    * Andrew and Brian have been around the block with these kinds of projects.  Primarily they are building tools that will better enable them to integrate the University systems (Blackboard, Shiboleth, WebApps, etc) into a core enterprise system.  They know what they want and I have confidence they will build what is in the their workplan.
   * Their insight into pedagogical workflow is trying to move the community beyond the .ac.uk/.edu domain and rather embrace the principle of let the Web do the heavy lifting (BPMN, instead of LTI-LD or LAMS) and we just take care of the remaining 10% (hence their use of Alfresco and simple .ac.uk fixes: SWORD, Shibboleth, Blackboard). 
@@ -99,3 +104,6 @@ Sustainability (Business Cases):
   * No effective plan, pet project to support students and potentially move central IT onto new arhictecture
   * Will continue to look for .ac.uk grant funding
   * difficult to get research council funding due to lack of RC understanding technical aspects of projects.
+
+= CORRESPONDANCE =
+  * 2009-08-14 AB and BC are not sure if they are able to attend JSICRI start-up mtg because of other Academic staff meetings re recession.
