@@ -20,6 +20,37 @@ NOTE TO PROJECTS RE THIS PAGE: If you see a correction/addition that needs to be
   * Project Manager: Yvonne Howard
   * Developer: Patrick McSweeney
 
+= Documentation =
+RSS Feed From Project Blog:
+
+<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="http://blog.lsl.ecs.soton.ac.uk/meprints" width="700" height="700" border="1" up_showaddbutton="20"/>
+
+  * Core Project Resources
+    * Received date:
+    * Comments:
+    * Approved:
+    * Locations:
+  * Project Plan
+    * Received date:
+    * Comments:
+    * Approved:
+    * Locations:
+  * Progress Posts RSS Feed
+    * Received date:
+    * Comments:
+    * Approved:
+    * Locations:
+  * Final Budget
+    * Received date:
+    * Comments:
+    * Approved:
+    * Locations:
+  * Sign-off Form
+    * Received date:
+    * Comments:
+    * Approved:
+    * Locations:
+
 =Meetings=
 
 ==Mtg on Thursday May 14th at Southampton==
