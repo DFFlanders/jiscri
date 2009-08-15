@@ -1,7 +1,10 @@
 #summary a secure collaborative document creation and management social network
 #labels alfresco,drupal,middleware,project
 
-  * SLA for Programme Manager
+
+NOTE TO PROJECTS RE THIS PAGE: If you see a correction/addition that needs to be made in this page please place edits in the comments section at the bottom of this page and I will change, please do not email me. /dff
+
+  * Sign off on ServiceLevelAgreement for Programme Manager
 
 = Project Description =
   * 10 second elevator pitch (how do you sell this to an early adopter?):
@@ -71,7 +74,7 @@ First Meeting, Date of Meeting, Location of Meeting
     * Sustainability / Success Plan / Business Case
 
 = Correspondance =
-(descending chronological order)
+Please see below in comments section for any and all correspondance by Programme Manager with the Projects. Also all edits that need to be made to this page please place in comments section and the author will correct.
   * Email, Phone calls, twitters, links sent, etc.
   * Remind projects regarding best practice in FOI.
   
