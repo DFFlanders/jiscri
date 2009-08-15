@@ -28,6 +28,11 @@
   * Consultants
 
 = Documentation =
+Project Progress Posts Feed: http://projects.kmi.open.ac.uk/era/wiki/index.php?title=Special:RecentChanges&feed=rss 
+
+<wiki:gadget url="http://projects.kmi.open.ac.uk/era/wiki/index.php?title=Special:RecentChanges&feed=rss " up_feeds="HTTP RSS FEED HERE" width="700" height="700" border="1" up_showaddbutton="20"/>
+
+
   * Core Project Resources
     * Received date:
     * Comments:
