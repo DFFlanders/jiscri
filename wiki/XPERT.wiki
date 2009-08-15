@@ -22,15 +22,36 @@
      * Providing teaching material and support documentation on how to use XERTE
      * Installing 
 
-= Documentation Progress =
-  * podcast on Xerte Online Toolkits internally which we plan to put on YouTube.  You will see it on page 14 of the following RLO created in Xerte Online Toolkits about our Second Life project.
-  * http://www.nottingham.ac.uk/toolkits/play_922
-  
-  * [http://spreadsheets.google.com/pub?key=po8dqZ_GuNf5Q2fd00xr9Vw&single=true&gid=0&range=c2%3Az2&output=html Core Project Resources] - need department project is based within.
+= Documentation =
+RSS Feed From Project Blog: http://webapps.nottingham.ac.uk/elgg/xpert/weblog/rss
+
+<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="http://webapps.nottingham.ac.uk/elgg/xpert/weblog/rss" width="780" height="300" border="0" up_showaddbutton="0"/>
+
+  * Core Project Resources
+    * Received date:
+    * Comments:
+    * Approved:
+    * Locations:
   * Project Plan
+    * Received date:
+    * Comments:
+    * Approved:
+    * Locations:
   * Progress Posts RSS Feed
+    * Received date:
+    * Comments:
+    * Approved:
+    * Locations:
   * Final Budget
+    * Received date:
+    * Comments:
+    * Approved:
+    * Locations:
   * Sign-off Form
+    * Received date:
+    * Comments:
+    * Approved:
+    * Locations:
 
 = Meetings =
 
