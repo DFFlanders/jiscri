@@ -25,7 +25,7 @@
 = Documentation =
 RSS Feed From Project Blog: http://webapps.nottingham.ac.uk/elgg/xpert/weblog/rss
 
-<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="http://webapps.nottingham.ac.uk/elgg/xpert/weblog/rss" width="500" height="500" border="0" up_showaddbutton="0"/>
+<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="http://webapps.nottingham.ac.uk/elgg/xpert/weblog/rss" width="700" height="700" border="1" up_showaddbutton="1"/>
 
   * Core Project Resources
     * Received date:
