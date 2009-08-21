@@ -1,14 +1,12 @@
 #summary Clipper is a tool to: identify, create, tag, mix, manage clips from inside online audio-visual resources, add notes.
 #labels projects,multimedia
 
-* SLA for Programme Manager
-
 = Project Description =
   * 10 second elevator pitch (how do you sell this to an early adopter?): Clipper aims to fill a gap in the toolset of those who use online audio-visual media for education and research. Clipper will allow users to identify, create, tag, mix, and manage clips from within online audio-visual resources as well as the ability to add their own textual notes.
-  * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them):
+  * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them): 
   * Questions this project answers:
-    * User Question (what itch does it scratch):
-    * Community Question (how does this change the way things were done):
+    * User Question (what itch does it scratch): students wants soemthing that gets rid of teh overload of videos.  
+    * Community Question (how does this change the way things were done): 
 
 = Project Details =
   * Core Project Details Link: 
@@ -65,7 +63,8 @@ First Meeting, Date of Meeting, Location of Meeting
     * Use Cases and Type/Name of Real/Named Users:
     * Technologies/Tools Using (Standards, Methods, 
     * Methodology (Agile, SCRUM, TDD, etc) --> Code Repo/Wiki/Site?
-    * Sustainability / Success Plan / Business Case
+
+    * Sustainability / Success Plan / Business Case: 
 
 = Correspondance =
 (descending chronological order)
