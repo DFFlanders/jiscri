@@ -4,7 +4,8 @@
   * SLA for Programme Manager to Project
 
 = Project Description =
-  * 10 second elevator pitch (how do you sell this to an early adopter?):
+  * 10 second elevator pitch (how do you sell this to an early adopter?): Walking Through Time is a mobile application that will allow smart phone users with built-in GPS to not only find themselves in the present, but find themselves in the past. By making available historical UK maps, users will be able to scroll through time and navigate places using maps that are hundreds of years old.
+
   * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them): Walking Through Time is a mobile application that will allow smart phone users with built-in GPS to not only find themselves in the present, but find themselves in the past. By making available historical UK maps, users will be able to scroll through time and navigate places using maps that are hundreds of years old.
   * Questions this project answers:
     * User Question (what itch does it scratch):
@@ -16,19 +17,19 @@
   * JISC Programme/Strand: Mobile
   * Length of Project: 6 months
     * Project Start Date: 2009-06-15
-    * Project End Date: 2009-10-02
+    * Project End Date: 2009-10-15
   * Grant Awarded to Project: 
 
 = Project Team =
-  * Product Owner:
-  * Developer:
-  * Admin:
+  * Product Owner: Chris 
+  * Developer: Dave (Designer / ) & Petra, Tim (
+  * Admin: chris manages budgets, dave manages the edina end.  
   * Partners:
-  * Consultants:
+  * Consultants: 
 
 = Documentation =
   * Core Project Resources
-    * Received date:
+    * Received date: 
     * Comments:
     * Approved:
     * Locations:
@@ -65,7 +66,28 @@ First Meeting, Date of Meeting, Location of Meeting
     * Use Cases and Type/Name of Real/Named Users:
     * Technologies/Tools Using (Standards, Methods, 
     * Methodology (Agile, SCRUM, TDD, etc) --> Code Repo/Wiki/Site?
+
+
     * Sustainability / Success Plan / Business Case
+      * tourism historical walks, tomTom model (red dots corporate route), 
+
+cartogen vector html5 
+
+Users:
+
+Miles has Master in Conservation students.  They all have specific interests in conservation of architecture, as part of their course work.  Idea will be to work through scenarios ("walk thrus").  They'll have a day to go out in the city, to work in pairs with iPhone/Android between them.  They will explore the city and interact with space based on what they are inteesteted in (disease, stone decay, sewers, etc).  As they move through teh space they'll tag what they are experiencing based on the historical maps they are in.  Once they return, they will (based upon their tags) create a pathway of narrative through their tags.  They will then swap with another pair and walk their map on another day.  red tag is authoritative, green is a social tag, and purple is your own tag.   
+
+Technical Process: 
+  * using balsamique for app design
+  * Petra is JAVA developer using spring and hibernate on the server interfacee and Petra are web developers coipra, C++, WMF, AJAX, jQuery, javascript as frontend on GoogleMaps, 
+  * Dave and Petra scope WPs based on how much time they think it will take to achieve.  
+  * Process: where the user start? > 2009 > then google overlay to go back in time > pick which time map they want to go to  (would like markers to help encourage them which maps to choose based on which map > googleCalEuro
+
+Methodology: Iterative Agile Development, Sprints (2 week timeboxe), Petra and Dave are in same office, 
+
+after 2/3 workpackages have made it to beta
+
+Dissemination: get famous ppl to mark out their path and broadcast that, story to sell. 
 
 = Correspondance =
 (descending chronological order)
