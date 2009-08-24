@@ -23,7 +23,7 @@ NOTE TO PROJECTS RE THIS PAGE: If you see a correction/addition that needs to be
 
 = Project Team =
   * Project Owner: Nikki Rogers Nikki.Rogers at bristol.ac.uk
-  * Developers: Mike Jones mike.a.jones at bristol.ac.uk  Simon Price simon.price at bristol.ac.uk
+  * Developers: Mike Jones mike.a.jones at bristol.ac.uk 
   * Admin:
   * Partners:
   * Consultants:
@@ -61,13 +61,14 @@ NOTE TO PROJECTS RE THIS PAGE: If you see a correction/addition that needs to be
 First Meeting, Date of Meeting, Location of Meeting
   * Agenda:
     * Programme Manager SLA:
-    * SWOT:
+    * SWOT: Strengths: 
     * Documentation: Core Project Resources, Project Plan, Progress Posts 
     * List Top Three Sprints/Workpackages and Level of Difficulty for each
     * Use Cases and Type/Name of Real/Named Users:
     * Technologies/Tools Using (Standards, Methods, 
     * Methodology (Agile, SCRUM, TDD, etc) --> Code Repo/Wiki/Site?
-    * Sustainability / Success Plan / Business Case
+    * Sustainability / Success Plan / Business Case: open development model (continuous integration server), 
+
 
 = Correspondance =
 Please see below in comments section for any and all correspondance by Programme Manager with the Projects. Also all edits that need to be made to this page please place in comments section and the author will correct.
