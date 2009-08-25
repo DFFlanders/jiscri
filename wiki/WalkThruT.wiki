@@ -43,7 +43,8 @@
 
 21 August 2009
 
-Potential business models: tourism historical walks, tomTom model (red dots corporate route), celebrity historian walk through of map (Stephen Fry)... 
+Project Team Relationships:
+http://farm4.static.flickr.com/3565/3855149599_2cdc01c1c8.jpg
 
 End Users:  Miles has Master in Conservation students.  Initial student user group all have various interests in conservation of architecture, as part of their course work.  Idea will be to work through scenarios ("walk thrus").  They'll have a day to go out in the city, to work in pairs with iPhone/Android between them.  They will explore the city and interact with space based on what they are inteesteted in (disease, stone decay, sewers, etc).  As they move through teh space they'll tag what they are experiencing based on the historical maps they are in.  Once they return, they will (based upon their tags) create a pathway of narrative on their map via the tags they created while out in the field.  They will then swap with another pair of students and walk through their map on another day.  Red tag is authoritative, green is a social tag, and purple is your own tag.   
 
@@ -57,6 +58,9 @@ Technical Process:
 Methodology: Iterative Agile Development, Sprints (2 week timeboxde), Petra and Dave are in same office to bounce ideas off on one another throughout the day.  After 2/3 workpackages they have made it to beta app.
 
 Dissemination: get famous ppl to mark out their path and broadcast that, story to sell. 
+
+Potential business models: tourism historical walks, tomTom model (red dots corporate route), celebrity historian walk through of map (Stephen Fry)... 
+
 
 = Correspondance =
 (descending chronological order)
