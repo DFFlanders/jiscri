@@ -1,5 +1,5 @@
-#summary SatNav for historical maps: A phone app that combines GPS technology with old maps to allow users to "walk through time".
-#labels mobile,maps,gps,iphone
+#summary SatNav for historical maps: a phone app that combines GPS technology with old maps to allow users to "walk through time".
+#labels mobile,maps,gps,iphone,android,app,web,User-Lecturer,User-Students,User-Tourist
 
   * SLA for Programme Manager to Project
 
@@ -18,14 +18,15 @@
   * Length of Project: 6 months
     * Project Start Date: 2009-06-15
     * Project End Date: 2009-10-15
-  * Grant Awarded to Project: 
+  * Grant Awarded to Project: £30567.00
 
 = Project Team =
-  * Product Owner: Chris 
-  * Developer: Dave (Designer / ) & Petra, Tim (
-  * Admin: chris manages budgets, dave manages the edina end.  
-  * Partners:
-  * Consultants: 
+  * Product Owner: Dr. Chris Speed (Lecturer in Architectural History) c.speed at eca.ac.uk
+  * Developers: 
+    * Dave Berry (Dev Team Lead) Dave.Berry at ed.ac.uk 
+    * Petra Leimlehner(Java Dev) Petra.Leimlehner at ed.ac.uk  
+  * Partners: Tim Urwin (Edina DigiMap Lead) t.urwin at ed.ac.uk
+  * Consultants: n/a
 
 = Documentation =
   * Core Project Resources
