@@ -1,72 +1,63 @@
-#summary Clipper is a tool to: identify, create, tag, mix, manage clips from inside online audio-visual resources, add notes.
-#labels projects,multimedia
+#summary Clipper is looking to be the Picasa of video.
+#labels projects,multimedia,flash,air,flex,User-Student,video
 
 = Project Description =
   * 10 second elevator pitch (how do you sell this to an early adopter?): Clipper aims to fill a gap in the toolset of those who use online audio-visual media for education and research. Clipper will allow users to identify, create, tag, mix, and manage clips from within online audio-visual resources as well as the ability to add their own textual notes.
-  * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them): 
+  * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them): Clipper is a tool to: identify, create, tag, mix, manage clips from inside online audio-visual resources, add notes.
   * Questions this project answers:
-    * User Question (what itch does it scratch): students wants soemthing that gets rid of teh overload of videos.  
+    * User Question (what itch does it scratch): students want something that gets rid of the overload of videos.  
     * Community Question (how does this change the way things were done): 
 
 = Project Details =
-  * Core Project Details Link: 
-  * Name of Host Institution: 
-  * JISC Programme/Strand: 
+  * Name of Host Institution: Carnegie College
+  * JISC Programme/Strand: User Engagement
   * Length of Project:
-    * Project Start Date:
-    * Project End Date:
-  * Grant Awarded to Project:
+    * Project Start Date: 8/6/2009
+    * Project End Date: 20/11/2009
+  * Grant Awarded to Project: £33650
+
 
 = Project Team =
-  * Product Owner:
-  * Developer:
-  * Admin:
-  * Partners:
-  * Consultants:
+  * Product Owner: John Casey
+  * Developers: 
+    * Will Gregory (ActionScript, Air, Flex dev)
+    * Chris Norrie (Web Dev and Accessibility)
+  * Project Director: Tom MacMaster (Head of CILT)
+  * Partners: n/a
+  * Consultants: John Casey
 
 = Documentation =
   * Core Project Resources
-    * Received date:
-    * Comments:
-    * Approved:
-    * Locations:
+    * Received: 7/6/2009 21:04:02 / Comments: Tag and OS License TBC / Approved: yes DFF 
+    * Located: http://spreadsheets.google.com/pub?key=po8dqZ_GuNf5Q2fd00xr9Vw&single=true&gid=0&range=b25:z25&output=html 
   * Project Plan
-    * Received date:
-    * Comments:
-    * Approved:
-    * Locations:
+    * Received / Comments / Approved 
+    * Located:
   * Progress Posts RSS Feed
-    * Received date:
-    * Comments:
-    * Approved:
-    * Locations:
+    * Received / Comments / Approved 
+    * Located:
   * Final Budget
-    * Received date:
-    * Comments:
-    * Approved:
-    * Locations:
+    * Received / Comments / Approved 
+    * Located:
   * Sign-off Form
-    * Received date:
-    * Comments:
-    * Approved:
-    * Locations:
+    * Received / Comments / Approved 
+    * Located:
 
 = Meetings =
-(reverse chronological order of scheduled face to face meetings)
 
-First Meeting, Date of Meeting, Location of Meeting
-  * Agenda:
-    * Programme Manager SLA:
-    * SWOT:
-    * Documentation: Core Project Resources, Project Plan, Progress Posts 
-    * List Top Three Sprints/Workpackages and Level of Difficulty for each
-    * Use Cases and Type/Name of Real/Named Users:
-    * Technologies/Tools Using (Standards, Methods, 
-    * Methodology (Agile, SCRUM, TDD, etc) --> Code Repo/Wiki/Site?
+21 August 2009 at Carnegie College, Dumferline, Scotland
 
-    * Sustainability / Success Plan / Business Case: 
+Project based in CILT <- learner focus support, strategy around innovation and exciting ways to do real world tech.  Entrepreneurship ethos.  
+
+Project Team Relationships:
+
+http://farm4.static.flickr.com/3565/3855149599_2cdc01c1c8.jpg 
+  
+End Users will be engaged with tool via two courses at CILT: 1.) Digital Studies (Digital Media Group), which start in Sept (mostly male, age ~20), and 2.) Beauty Therapies (mostly female, age ~19).
+
+Potential Business Cases: Buy-out from larger .com (VC model), Academic Tool Subscription?
+
+Technologies Considered: Adobe Air, Flex, MySqlLite, F4V, Progressive Video, Streaming, etc.
 
 = Correspondance =
-(descending chronological order)
-  * Email, Phone calls, twitters, links sent, etc.
-  * Remind projects regarding best practice in FOI.
+Please see below in comments section for any and all correspondance by Programme Manager with the Projects. Also all edits that need to be made to this page please place in comments section and the author will correct.
