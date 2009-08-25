@@ -47,6 +47,11 @@
 
 21 August 2009
 
+ACTIONS:
+  * DFF explore options for celebrity walk thru for dissemination 
+  * Check what other map collections are available via JISC collections
+  * Make sure Petra has spot at dev event in Manchester.
+
 Project Team Relationships:
 http://farm4.static.flickr.com/3565/3855149599_2cdc01c1c8.jpg
 
