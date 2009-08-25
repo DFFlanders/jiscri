@@ -22,7 +22,7 @@ _NOTE TO PROJECT ON THIS PAGE: If you see a correction/addition that needs to be
   * Grant Awarded to Project:
 
 = Project Team =
-  * Product Owner:
+  * Product Owner: 
   * Developer:
   * Admin:
   * Partners:
@@ -53,7 +53,7 @@ RSS Feed From Project Blog:
 
 Date of Meeting, Location of Meeting
   * Agenda:
-    * Programme Manager SLA:
+    * Programme Manager ServiceLevelAgreement, ie what I can do for you
     * Project Team Relations
     * Use Cases and Type/Name of Real/Named Users:
     * Documentation: Core Project Resources, Project Plan, Progress Posts 
