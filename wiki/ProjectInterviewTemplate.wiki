@@ -34,26 +34,30 @@ RSS Feed From Project Blog:
 <wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="HTTP RSS FEED HERE" width="700" height="700" border="1" up_showaddbutton="20"/>
 
   * Core Project Resources
-    * Received date / Comments / Approved / Location
+    * Received: / Comments: / Approved:
+    * Located:
   * Project Plan
-    * Received date / Comments / Approved / Location
+    * Received: / Comments: / Approved:
+    * Located:
   * Progress Posts RSS Feed
-    * Received date / Comments / Approved / Location
+    * Received: / Comments: / Approved:
+    * Located:
   * Final Budget
-    * Received date / Comments / Approved / Location
+    * Received: / Comments: / Approved:
+    * Located:
   * Sign-off Form
-    * Received date / Comments / Approved / Location
+    * Received: / Comments: / Approved:
+    * Located:
 
-= Meetings =
-(reverse chronological order of scheduled face to face meetings)
+= Meeting =
 
-First Meeting, Date of Meeting, Location of Meeting
+Date of Meeting, Location of Meeting
   * Agenda:
     * Programme Manager SLA:
-    * SWOT:
-    * Documentation: Core Project Resources, Project Plan, Progress Posts 
-    * List Top Three Sprints/Workpackages and Level of Difficulty for each
+    * Project Team Relations
     * Use Cases and Type/Name of Real/Named Users:
+    * Documentation: Core Project Resources, Project Plan, Progress Posts 
+      * SWOT or List Top Three Sprints/Workpackages and Level of Difficulty for each
     * Technologies/Tools Using (Standards, Methods, 
     * Methodology (Agile, SCRUM, TDD, etc) --> Code Repo/Wiki/Site?
     * Sustainability / Success Plan / Business Case
