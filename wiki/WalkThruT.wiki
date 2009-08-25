@@ -29,7 +29,11 @@
   * Consultants: Edina
 
 = Documentation =
-  * Core Project Resources: Completed 6/23/2009 20:09:16 / 
+
+<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="http://walkingthroughtime.eca.ac.uk/feed" width="700" height="700" border="1" up_showaddbutton="20"/>
+
+  * Core Project Resources: Completed 6/23/2009 20:09:16 / DFF: All filled in. / Approved 
+    * http://spreadsheets.google.com/pub?key=po8dqZ_GuNf5Q2fd00xr9Vw&single=true&gid=0&range=b13:z13&output=html
   * Project Plan
     * Received date / Comments / Approved / Locations
   * Progress Posts RSS Feed
