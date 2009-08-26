@@ -21,7 +21,7 @@
   * Grant Awarded to Project: £30567.00
 
 = Project Team =
-  * Product Owner: Dr. Chris Speed (Lecturer in Architectural History) c.speed at eca.ac.uk
+  * Product Owner: Dr. Chris Speed (Digital Architect) c.speed at eca.ac.uk
   * Developers: 
     * Dave Berry (Dev Team Lead) Dave.Berry at ed.ac.uk 
     * Petra Leimlehner(Java Dev) Petra.Leimlehner at ed.ac.uk  
@@ -55,7 +55,7 @@ ACTIONS:
 Project Team Relationships:
 http://farm4.static.flickr.com/3565/3855149599_2cdc01c1c8.jpg
 
-End Users:  Miles has Master in Conservation students.  Initial student user group all have various interests in conservation of architecture, as part of their course work.  Idea will be to work through scenarios ("walk thrus").  They'll have a day to go out in the city, to work in pairs with iPhone/Android between them.  They will explore the city and interact with space based on what they are inteesteted in (disease, stone decay, sewers, etc).  As they move through teh space they'll tag what they are experiencing based on the historical maps they are in.  Once they return, they will (based upon their tags) create a pathway of narrative on their map via the tags they created while out in the field.  They will then swap with another pair of students and walk through their map on another day.  Red tag is authoritative, green is a social tag, and purple is your own tag.   
+End Users:  Two user groups of students: 1.) Miles has Master student in Conservation and 2.) Ian has course in Architectural History.  Initial student user group all have various interests in conservation of architecture, as part of their course work.  Idea will be to work through scenarios ("walk thrus").  They'll have a day to go out in the city, to work in pairs with iPhone/Android between them.  They will explore the city and interact with space based on what they are inteesteted in (disease, stone decay, sewers, etc).  As they move through teh space they'll tag what they are experiencing based on the historical maps they are in.  Once they return, they will (based upon their tags) create a pathway of narrative on their map via the tags they created while out in the field.  They will then swap with another pair of students and walk through their map on another day.  Red tag is authoritative, green is a social tag, and purple is your own tag.   
 
 Technical Process: 
   * using balsamique for app design
