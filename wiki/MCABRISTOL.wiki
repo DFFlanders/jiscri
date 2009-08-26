@@ -3,11 +3,9 @@
 
 NOTE TO PROJECTS RE THIS PAGE: If you see a correction/addition that needs to be made in this page please place edits in the comments section at the bottom of this page and I will change, please do not email me. /dff
 
-  * sign off on ServiceLevelAgreement for progManager
-
 = Project Description =
   * 10 second elevator pitch (how do you sell this to an early adopter?): Mobile Campus Assistant is a project to develop a prototype open source mobile smart phone application and a mobile-specific website to provide students on the move with location and time sensitive information. For example, 'where is my nearest...' service such as wireless hotspots, public PC availability, directions to campus buildings, access to timetables.	
-  * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them): The creation of a smart phone website and application to provide students with location and time sensitive information.
+  * Short Description (twitter-esque)): The creation of a smart phone website and application to provide students with location and time sensitive information.
   * Questions this project answers:
     * User Question (what itch does it scratch):
     * Community Question (how does this change the way things were done):
@@ -30,30 +28,20 @@ NOTE TO PROJECTS RE THIS PAGE: If you see a correction/addition that needs to be
 
 = Documentation =
   * Core Project Resources
-    * Received date:
-    * Comments:
-    * Approved:
-    * Locations:
+    * Received date / Comments / Approved / 
+    * Located:
   * Project Plan
-    * Received date:
-    * Comments:
-    * Approved:
-    * Locations:
+    * Received date / Comments / Approved / 
+    * Located:
   * Progress Posts RSS Feed
-    * Received date:
-    * Comments:
-    * Approved:
-    * Locations:
+    * Received date / Comments / Approved / 
+    * Located:
   * Final Budget
-    * Received date:
-    * Comments:
-    * Approved:
-    * Locations:
+    * Received date / Comments / Approved / 
+    * Located:
   * Sign-off Form
-    * Received date:
-    * Comments:
-    * Approved:
-    * Locations:
+    * Received date / Comments / Approved / 
+    * Located:
 
 = Meetings =
 (reverse chronological order of scheduled face to face meetings)
