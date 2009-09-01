@@ -1,0 +1,67 @@
+#summary a secure collaborative document creation and management social network
+#labels project,alfresco,drupal,middleware
+
+_NOTE TO PROJECT ON THIS PAGE: If you see a correction/addition that needs to be made in this page please place edits in the comments section at the bottom of this page and I will change, please do not email me. /dff_
+
+= Project Description =
+  * 10 second elevator pitch (how do you sell this to an early adopter?):
+  * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them):
+  * Questions this project answers:
+    * User Question (what itch does it scratch):
+    * Community Question (how does this change the way things were done):
+
+= Project Details =
+  * Core Project Details Link: 
+  * Name of Host Institution: Thames Valley University
+  * JISC Programme/Strand: 
+  * Length of Project:
+    * Project Start Date:
+    * Project End Date:
+  * Grant Awarded to Project: £39995
+
+= Project Team =
+  * Product Owner: 
+  * Developer:
+  * Admin:
+  * Partners:
+  * Consultants:
+
+= Documentation =
+RSS Feed From Project Blog:
+
+<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="HTTP RSS FEED HERE" width="700" height="700" border="1" up_showaddbutton="20"/>
+
+  * Core Project Resources
+    * Received: / Comments: / Approved:
+    * Located:
+  * Project Plan
+    * Received: / Comments: / Approved:
+    * Located:
+  * Progress Posts RSS Feed
+    * Received: / Comments: / Approved:
+    * Located:
+  * Final Budget
+    * Received: / Comments: / Approved:
+    * Located:
+  * Sign-off Form
+    * Received: / Comments: / Approved:
+    * Located:
+
+= Meeting =
+
+Date of Meeting, Location of Meeting
+  * Agenda:
+    * Programme Manager ServiceLevelAgreement, ie what I can do for you
+    * Project Team Relations, how the ppl work together
+    * Use Cases and Type/Name of Real/Named End-Users:
+    * Documentation: Core Project Resources, Project Plan, Progress Posts 
+      * SWOT or List Top Three Sprints/Workpackages and Level of Difficulty for each
+    * FOI/Transparency: OSS, Creative Commons, Budget, etc.
+    * Technologies/Tools Using: progLang, codeRepo, standards, etc
+    * Methodology (Agile, SCRUM, TDD, etc) --> Code Repo/Wiki/Site?
+    * Sustainability, Business Case, Dissemination: VC, Subscription, Advertisement, etc.
+
+= Correspondance =
+Please see below in comments section for any and all correspondance by Programme Manager with the Projects.  Also all edits that need to be made to this page please place in comments section and the author will correct.
+  * Email, Phone calls, twitters, links sent, etc.
+  * Remind projects regarding best practice in FOI.
