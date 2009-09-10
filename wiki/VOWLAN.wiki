@@ -2,8 +2,6 @@
 #labels wifi,voip,project
 
 = Project Description =
-20 second short and sweet project description:
-<wiki:video url="http://www.vimeo.com/6497230" expandall="true" border="1 />
 
   * 10 second elevator pitch (how do you sell this to an early adopter?): develop a robust, flexible and highly portable wireless communications network for use in educational collaborative group work. This network infrastructure could be used to support a broad range of learning, teaching and research activities. We are developing this system for use on geology fieldwork courses where we have established a clear need for reliable voice communication, a sense-of-presence video stream and the sharing of high-resolution digital images. The outstanding challenge to be addressed is to develop a wireless network that will prioritise the transfer of audio and video data in order to support a continuous dialogue between the students and lecturers. The project will use open source software and standard Wi-Fi technology to produce a reliable and flexible communication toolkit for mobile learning.
 
