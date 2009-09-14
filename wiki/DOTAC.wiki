@@ -31,7 +31,7 @@ Nicholas Gibbins, Ian Millard, Marcus Cobden, Hugh Glaser, Les Carr = nmg-at-ecs
 RSS Feed From Project Blog: http://blogs.ecs.soton.ac.uk/dotac/feed/
 
 <wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="http://blogs.ecs.soton.ac.uk/dotac/feed/
-", "http://twitter.com/dotac" width="700" height="700" border="1" up_showaddbutton="20"/>
+" | "http://twitter.com/dotac" width="700" height="700" border="1" up_showaddbutton="20"/>
 
   * Core Project Resources
     * Received: Y / Comments: / Approved:
