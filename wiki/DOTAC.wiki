@@ -9,14 +9,12 @@
     * Community Question (how does this change the way things were done):
 
 = Project Details =
-  * [http://spreadsheets.google.com/pub?key=po8dqZ_GuNf5Q2fd00xr9Vw&single=true&gid=0&range=b34:z34&output=html Core Project Details]
   * Name of Host Institution: University of Southampton
   * JISC Programme/Strand: Semantic Web / Linked Data
   * Length of Project: 6 months
     * Project Start Date: 1/6/2009
     * Project End Date: 30/11/2009
   * Grant Awarded to Project: £39697
-
 
 = Project Team =
 Nicholas Gibbins, Ian Millard, Marcus Cobden, Hugh Glaser, Les Carr = nmg-at-ecs.soton.ac.uk, icm-at-ecs.soton.ac.uk, mc08r-at-ecs.soton.ac.uk, hg-at-ecs.soton.ac.uk, lac-at-ecs.soton.ac.uk	
@@ -32,22 +30,12 @@ RSS Feed From Project Blog: http://blogs.ecs.soton.ac.uk/dotac/feed/
 
 <wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="http://blogs.ecs.soton.ac.uk/dotac/feed/"|"http://twitter.com/dotac" width="780" height="340" border="0" up_showaddbutton="0"/>
 
-
-
-
-
-
-
-
-
-
-
   * Core Project Resources
-    * Received: Y / Comments: / Approved:
-    * Located:
+    * Received = Y / Comments = only one post in project blog / Approved = Y
+    * Located: http://spreadsheets.google.com/pub?key=po8dqZ_GuNf5Q2fd00xr9Vw&single=true&gid=0&range=b34:z34&output=html
   * Project Plan
-    * Received: / Comments: / Approved:
-    * Located:
+    * Received: Y / Comments: Not Yet / Approved:
+    * Located: 
   * Progress Posts RSS Feed
     * Received: / Comments: / Approved:
     * Located:
@@ -60,7 +48,8 @@ RSS Feed From Project Blog: http://blogs.ecs.soton.ac.uk/dotac/feed/
 
 = Meeting =
 
-Date of Meeting, Location of Meeting
+Date of Meeting: 
+Location of Meeting
   * Agenda:
     * Programme Manager ServiceLevelAgreement, ie what I can do for you
     * Project Team Relations
