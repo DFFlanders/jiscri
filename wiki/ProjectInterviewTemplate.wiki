@@ -3,8 +3,6 @@
 
 _NOTE TO PROJECT ON THIS PAGE: If you see a correction/addition that needs to be made in this page please place edits in the comments section at the bottom of this page and I will change, please do not email me. /dff_
 
- * SLA for Programme Manager
-
 = Project Description =
   * 10 second elevator pitch (how do you sell this to an early adopter?):
   * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them):
@@ -13,7 +11,6 @@ _NOTE TO PROJECT ON THIS PAGE: If you see a correction/addition that needs to be
     * Community Question (how does this change the way things were done):
 
 = Project Details =
-  * Core Project Details
   * Name of Host Institution: 
   * JISC Programme/Strand: 
   * Length of Project:
@@ -33,6 +30,9 @@ RSS Feed From Project Blog:
 
 <wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="HTTP RSS FEED HERE" width="700" height="700" border="1" up_showaddbutton="20"/>
 
+  * PIMS listing
+    * Received: / Comments: / Approved:
+    * Located:
   * Core Project Resources
     * Received: / Comments: / Approved:
     * Located:
@@ -45,7 +45,7 @@ RSS Feed From Project Blog:
   * Final Budget
     * Received: / Comments: / Approved:
     * Located:
-  * Sign-off Form
+  * Survey and Sign-off Form
     * Received: / Comments: / Approved:
     * Located:
 
@@ -66,4 +66,3 @@ Date of Meeting, Location of Meeting
 = Correspondance =
 Please see below in comments section for any and all correspondance by Programme Manager with the Projects.  Also all edits that need to be made to this page please place in comments section and the author will correct.
   * Email, Phone calls, twitters, links sent, etc.
-  * Remind projects regarding best practice in FOI.
