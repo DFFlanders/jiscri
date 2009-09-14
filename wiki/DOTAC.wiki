@@ -1,7 +1,5 @@
 #summary A Semantic Web tool for exploring the state of the research landscape in UKHE
-#labels project,linkeddata,foaf,semanticWeb
-
- * SLA for Programme Manager
+#labels project,linkeddata,foaf,semanticWeb,cerif
 
 = Project Description =
   * 10 second elevator pitch (how do you sell this to an early adopter?): The dotAC projects aims to develop a prototype Semantic Web demonstrator that synthesises research information from heterogeneous sources (institutional repositories and research council information systems), resolves name co-reference issues between the sources, and presents it to research-focussed end users through an interface that will allow them to explore the state of the research landscape in UKHE.
@@ -15,14 +13,13 @@
   * Name of Host Institution: University of Southampton
   * JISC Programme/Strand: Semantic Web / Linked Data
   * Length of Project: 6 months
-    * Project Start Date: 
-    * Project End Date:
-  * Grant Awarded to Project:
+    * Project Start Date: 1/6/2009
+    * Project End Date: 30/11/2009
+  * Grant Awarded to Project: £39697
+
 
 = Project Team =
-Nicholas Gibbins, Ian Millard, Marcus Cobden, Hugh Glaser, Les Carr
-
-nmg@ecs.soton.ac.uk, icm@ecs.soton.ac.uk, mc08r@ecs.soton.ac.uk, hg@ecs.soton.ac.uk, lac@ecs.soton.ac.uk	
+Nicholas Gibbins, Ian Millard, Marcus Cobden, Hugh Glaser, Les Carr = nmg-at-ecs.soton.ac.uk, icm-at-ecs.soton.ac.uk, mc08r-at-ecs.soton.ac.uk, hg-at-ecs.soton.ac.uk, lac-at-ecs.soton.ac.uk	
 
   * Product Owner:
   * Developer:
@@ -31,48 +28,43 @@ nmg@ecs.soton.ac.uk, icm@ecs.soton.ac.uk, mc08r@ecs.soton.ac.uk, hg@ecs.soton.ac
   * Consultants:
 
 = Documentation =
+RSS Feed From Project Blog: http://blogs.ecs.soton.ac.uk/dotac/feed/
+
+<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="http://blogs.ecs.soton.ac.uk/dotac/feed/
+" "http://twitter.com/dotac" width="700" height="700" border="1" up_showaddbutton="20"/>
+
   * Core Project Resources
-    * Received date:
-    * Comments:
-    * Approved:
-    * Locations:
+    * Received: Y / Comments: / Approved:
+    * Located:
   * Project Plan
-    * Received date:
-    * Comments:
-    * Approved:
-    * Locations:
+    * Received: / Comments: / Approved:
+    * Located:
   * Progress Posts RSS Feed
-    * Received date:
-    * Comments:
-    * Approved:
-    * Locations:
+    * Received: / Comments: / Approved:
+    * Located:
   * Final Budget
-    * Received date:
-    * Comments:
-    * Approved:
-    * Locations:
+    * Received: / Comments: / Approved:
+    * Located:
   * Sign-off Form
-    * Received date:
-    * Comments:
-    * Approved:
-    * Locations:
+    * Received: / Comments: / Approved:
+    * Located:
 
-= Meetings =
-(reverse chronological order of scheduled face to face meetings)
+= Meeting =
 
-First Meeting, Date of Meeting, Location of Meeting
+Date of Meeting, Location of Meeting
   * Agenda:
-    * Programme Manager SLA:
-    * SWOT:
-    * Documentation: Core Project Resources, Project Plan, Progress Posts 
-    * List Top Three Sprints/Workpackages and Level of Difficulty for each
+    * Programme Manager ServiceLevelAgreement, ie what I can do for you
+    * Project Team Relations
     * Use Cases and Type/Name of Real/Named Users:
-    * Technologies/Tools Using (Standards, Methods, 
+    * Documentation: Core Project Resources, Project Plan, Progress Posts 
+      * SWOT or List Top Three Sprints/Workpackages and Level of Difficulty for each
+    * FOI/Transparency: OSS, Creative Commons, Budget, etc.
+    * Technologies/Tools Using: progLang, codeRepo, standards, etc
     * Methodology (Agile, SCRUM, TDD, etc) --> Code Repo/Wiki/Site?
-    * Sustainability / Success Plan / Business Case
+    * Sustainability, Business Case, Dissemination: VC, Subscription, Advertisement, etc.
 
 = Correspondance =
-(descending chronological order)
+Please see below in comments section for any and all correspondance by Programme Manager with the Projects.  Also all edits that need to be made to this page please place in comments section and the author will correct.
   * Email, Phone calls, twitters, links sent, etc.
   * Remind projects regarding best practice in FOI.
 
