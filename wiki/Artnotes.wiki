@@ -32,24 +32,43 @@
   * Consultants
 
 = Documentation =
-  * [http://spreadsheets.google.com/pub?key=po8dqZ_GuNf5Q2fd00xr9Vw&single=true&gid=0&range=b30:z30&output=html Core Project Resources]
+RSS Feed From Project Blog:
+
+<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="HTTP RSS FEED HERE" width="700" height="700" border="1" up_showaddbutton="20"/>
+
+  * PIMS listing
+    * Received: / Comments: / Approved:
+    * Located:
+  * Core Project Resources
+    * Received: / Comments: / Approved:
+    * Located: http://spreadsheets.google.com/pub?key=po8dqZ_GuNf5Q2fd00xr9Vw&single=true&gid=0&range=b30:z30&output=html
   * Project Plan
+    * Received: / Comments: / Approved:
+    * Located:
   * Progress Posts RSS Feed
+    * Received: / Comments: / Approved:
+    * Located:
   * Final Budget
-  * Sign-off Form
+    * Received: / Comments: / Approved:
+    * Located:
+  * Survey and Sign-off Form
+    * Received: / Comments: / Approved:
+    * Located:
 
-= Meetings =
-(reverse chronological order of scheduled face to face meetings)
+= Meeting =
 
-First Meeting, Date of Meeting, Location of Meeting
+Date of Meeting, Location of Meeting
   * Agenda:
-    * Programme Manager SLA:
-    * SWOT:
-    * Documentation: Core Project Resources, Project Plan, Progress Posts 
-    * List Top Three Sprints/Workpackages and Level of Difficulty for each
+    * Programme Manager ServiceLevelAgreement, ie what I can do for you
+    * Project Team Relations
     * Use Cases and Type/Name of Real/Named Users:
-    * Technologies/Tools Using (Standards, Methods, 
+    * Documentation: Core Project Resources, Project Plan, Progress Posts 
+      * SWOT or List Top Three Sprints/Workpackages and Level of Difficulty for each
+    * FOI/Transparency: OSS, Creative Commons, Budget, etc.
+    * Technologies/Tools Using: progLang, codeRepo, standards, etc
     * Methodology (Agile, SCRUM, TDD, etc) --> Code Repo/Wiki/Site?
-    * Sustainability / Success Plan / Business Case
+    * Sustainability, Business Case, Dissemination: VC, Subscription, Advertisement, etc.
 
 = Correspondance =
+Please see below in comments section for any and all correspondance by Programme Manager with the Projects.  Also all edits that need to be made to this page please place in comments section and the author will correct.
+  * Email, Phone calls, twitters, links sent, etc.
