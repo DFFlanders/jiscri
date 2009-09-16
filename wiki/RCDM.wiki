@@ -4,8 +4,12 @@
 _NOTE TO PROJECT ON THIS PAGE: If you see a correction/addition that needs to be made in this page please place edits in the comments section at the bottom of this page and I will change, please do not email me. /dff_
 
 = Project Description =
-  * 10 second elevator pitch (how do you sell this to an early adopter?):
-  * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them):
+  * 10 second elevator pitch (how do you sell this to an early adopter?):                         
+Rudiment is a lightweight project to design and develop a tools mash-up to allow rules-controlled document management in a collaborative authoring environment. The proposed combination of technologies will provide a secure environment for distributed teams to collaborate on any set of documents.
+
+  * 20 second laymen pitch: Designing and developing rules-controlled document management in a collaborative authoring environment taking JISC research funding bids as the case study is the main objective of our project called Rudiment. Sharing the project with the University of Manchester enhances productivity and capacity of Rudiment. As a result of the close cooperation, combination of technologies such as Alfresco and Drupal is used to create a secure, managed social networking environment and increase understanding of how to integrate two proven technologies. One of the benefits of Rudiment is that documents are subsequently structured so a document template can be specified to ensure all submissions adhere to the same format. To sum up, Rudiment will provide the resolution of a recognised need for academics to access, retrieve and edit a working document using a prescribed set of rules.
+  
+  * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them): 
   * Questions this project answers:
     * User Question (what itch does it scratch):
     * Community Question (how does this change the way things were done):
@@ -20,6 +24,8 @@ _NOTE TO PROJECT ON THIS PAGE: If you see a correction/addition that needs to be
   * Grant Awarded to Project: £39995
 
 = Project Team =
+Samia Oussena	samia.oussena@tvu.ac.uk	Anna Kocurova,Chris Banks, Divya Yadav Muvvala	anna.kocurova@tvu.ac.uk, chris.banks@manchester.ac.uk	Hilary Dexter hilary.Dexter@manchatser.ac.uk, Tim cappelliTimothy.Cappelli-2@manchester.ac.uk, Tony Clark tony.clark@tvu.ac.uk
+
   * Product Owner: 
   * Developer:
   * Admin:
@@ -27,9 +33,10 @@ _NOTE TO PROJECT ON THIS PAGE: If you see a correction/addition that needs to be
   * Consultants:
 
 = Documentation =
-RSS Feed From Project Blog:
+RSS Feed From Project Blog: feed:http://samsa.tvu.ac.uk/rudiment/blog/?feed=rss2
 
-<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="HTTP RSS FEED HERE" width="700" height="700" border="1" up_showaddbutton="20"/>
+<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="feed:http://samsa.tvu.ac.uk/rudiment/blog/?feed=rss2
+" width="700" height="700" border="1" up_showaddbutton="20"/>
 
   * Core Project Resources
     * Received: / Comments: / Approved:
