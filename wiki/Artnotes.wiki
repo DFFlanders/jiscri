@@ -1,9 +1,6 @@
 #summary iPhone application aimed at students in fine art, photography and other visually orientated disciplines
 #labels project,iPhone,mobile,User-Students
 
-  * SLA for ProgManager
-
-
 = Project Description =
   * 10 second elevator pitch (how do you sell this to an early adopter?): Artnotes is an iPhone application aimed at students in fine art, photography and other visually orientated disciplines. The application allows users to collect images and textual notes on the device in a format analogous to a traditional “Visual notebook” as used in many branches of arts education. The application will be able to take visual input from the device’s camera as well as being able to search online image collections.
   * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them):
@@ -13,14 +10,15 @@
 
 = Project Details =
 
-  * Name of Host Institution: Bolton
-  * JISC Programme/Strand: 
+  * Name of Host Institution: Bolton University
+  * JISC Programme/Strand: Mobile
   * Length of Project:
-    * Project Start Date:
-    * Project End Date:
-  * Grant Awarded to Project:
+    * Project Start Date: 2009-06-30
+    * Project End Date: 2009-11-30
+  * Grant Awarded to Project: £40000
 
 = Project Team =
+Owen Watson	o.watson@bolton.ac.uk	Owen Watson, Dave Hagan, Kirk Barron	o.watson@bolton.ac.uk, d.hagan@bolton.ac.uk, klb1lis@bolton.ac.uk	Roy Attwood <r.attwood@bolton.ac.uk>
 
   * Project Owner: Roy Atwood
   * Developers:
