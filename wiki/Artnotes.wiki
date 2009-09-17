@@ -9,16 +9,16 @@
     * Community Question (how does this change the way things were done):
 
 = Project Details =
-
   * Name of Host Institution: Bolton University
-  * JISC Programme/Strand: Mobile
-  * Length of Project:
+  * JISC Programme/Strand: Mobile Apps
+  * Length of Project: 6 months
     * Project Start Date: 2009-06-30
     * Project End Date: 2009-11-30
   * Grant Awarded to Project: £40000
 
 = Project Team =
-Owen Watson	o.watson@bolton.ac.uk	Owen Watson, Dave Hagan, Kirk Barron	o.watson@bolton.ac.uk, d.hagan@bolton.ac.uk, klb1lis@bolton.ac.uk	Roy Attwood <r.attwood@bolton.ac.uk>
+Owen Watson	o.watson@bolton.ac.uk	Owen Watson, Dave Hagan, Kirk Barron	o.watson@bolton.ac.uk, d.hagan@bolton.ac.uk, klb1lis@bolton.ac.uk	
+Roy Attwood <r.attwood@bolton.ac.uk>
 
   * Project Owner: Roy Atwood
   * Developers:
@@ -36,9 +36,9 @@ RSS Feed From Project Blog:
 
   * PIMS listing
     * Received: / Comments: / Approved:
-    * Located:
+    * Located: https://pims.jisc.ac.uk/projects/view/1361
   * Core Project Resources
-    * Received: / Comments: / Approved:
+    * Received: / Comments: rss feed? / Approved:
     * Located: http://spreadsheets.google.com/pub?key=po8dqZ_GuNf5Q2fd00xr9Vw&single=true&gid=0&range=b30:z30&output=html
   * Project Plan
     * Received: / Comments: / Approved:
@@ -57,14 +57,28 @@ RSS Feed From Project Blog:
 
 Date of Meeting, Location of Meeting
   * Agenda:
-    * Programme Manager ServiceLevelAgreement, ie what I can do for you
+    * Programme Manager ServiceLevelAgreement
+
+
     * Project Team Relations
+
     * Use Cases and Type/Name of Real/Named Users:
+
     * Documentation: Core Project Resources, Project Plan, Progress Posts 
       * SWOT or List Top Three Sprints/Workpackages and Level of Difficulty for each
-    * FOI/Transparency: OSS, Creative Commons, Budget, etc.
-    * Technologies/Tools Using: progLang, codeRepo, standards, etc
-    * Methodology (Agile, SCRUM, TDD, etc) --> Code Repo/Wiki/Site?
+
+    * FOI/Transparency: OSS, Creative Commons, Budget, etc. 
+
+    * Technologies/Tools Using: Dave works on backend, hibernate and spring,  
+
+    * 
+
+
+Mono touch made by novela monoDevelopment IDE foundation. Native application for Phone iPhone app.  
+
+    * Methodology: PairProgramming between Dave and Owen (lack of h/w), good for learning new technologies, seeing each other mistakes, got off the ground quite quickly, Danve acting as lead developer.  Once established working on own.  Monday morning meeting and write goals up on wall.  Friday reflection meeting.  
+
+
     * Sustainability, Business Case, Dissemination: VC, Subscription, Advertisement, etc.
 
 = Correspondance =
