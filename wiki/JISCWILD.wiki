@@ -29,8 +29,8 @@ Dr. Darren Mundy	d.mundy@hull.ac.uk	Darren Stephens	darren.stephens@hull.ac.uk	K
 
 = Documentation =
 RSS Feed From Project Blog: http://wildtool.blogspot.com/rss.xml
-<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="http://wildtool.blogspot.com/rss.xml
-" width="700" height="700" border="1" up_showaddbutton="20"/>
+
+<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="http://wildtool.blogspot.com/rss.xml" width="700" height="700" border="1" up_showaddbutton="20"/>
 
   * PIMS listing
     * Received: / Comments: / Approved:
