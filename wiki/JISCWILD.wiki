@@ -1,25 +1,26 @@
 #summary plugin to enable real time interaction & manipulation of presented slide content in a lecture theatre.
-#labels project,User-Lecturer
-
-* SLA for Programme Manager
+#labels project,User-Lecturer,powerpoint,ppt,presentation,lecturer
 
 = Project Description =
-  * 10 second elevator pitch (how do you sell this to an early adopter?): Software project focused on producing a tool to enable the embedding of interactive Web 2.0 based content into regular presentational content.  The project enables learners in classroom environments to add information in real time to slides being presented to them.
-  * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them):
+  * 20 second video pitch: http://blog.iedemonstrator.org/2009/09/13/jiscwild-video-darren-mundy-pitch-13-day-2/ 
+  * 10 second elevator pitch: Software project focused on producing a tool to enable the embedding of interactive Web 2.0 based content into regular presentational content.  The project enables learners in classroom environments to add information in real time to slides being presented to them.
+  * Twitter description (120 characters laymen description): Software tool to enable real time interaction & manipulation of presented slide content in a lecture theatre.
   * Questions this project answers:
     * User Question (what itch does it scratch):
     * Community Question (how does this change the way things were done):
 
 = Project Details =
-  * [http://spreadsheets.google.com/pub?key=po8dqZ_GuNf5Q2fd00xr9Vw&single=true&gid=0&range=b11:z11&output=html Core Project Details Link]
-  * Name of Host Institution: 
+  * Name of Host Institution: University of Hull at Scarborough
   * JISC Programme/Strand: 
   * Length of Project:
-    * Project Start Date:
-    * Project End Date:
-  * Grant Awarded to Project:
+    * Project Start Date: 2009-06-01
+    * Project End Date: 2009-11-30
+  * Grant Awarded to Project: £29024
 
 = Project Team =
+
+Dr. Darren Mundy	d.mundy@hull.ac.uk	Darren Stephens	darren.stephens@hull.ac.uk	Keith Dykes <K.Dykes@hull.ac.uk>
+
   * Product Owner: Dr. Darren Mundy	d.mundy@hull.ac.uk
   * Developer: Darren Stephens	darren.stephens@hull.ac.uk
   * Admin:
@@ -27,47 +28,43 @@
   * Consultants:
 
 = Documentation =
+RSS Feed From Project Blog: http://wildtool.blogspot.com/rss.xml
+<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="http://wildtool.blogspot.com/rss.xml
+" width="700" height="700" border="1" up_showaddbutton="20"/>
+
+  * PIMS listing
+    * Received: / Comments: / Approved:
+    * Located: https://pims.jisc.ac.uk/projects/view/1358 
   * Core Project Resources
-    * Received date:
-    * Comments:
-    * Approved:
-    * Locations:
+    * Received: / Comments: / Approved:
+    * Located: http://spreadsheets.google.com/pub?key=po8dqZ_GuNf5Q2fd00xr9Vw&single=true&gid=0&range=b11:z11&output=html 
   * Project Plan
-    * Received date:
-    * Comments:
-    * Approved:
-    * Locations:
+    * Received: / Comments: / Approved:
+    * Located:
   * Progress Posts RSS Feed
-    * Received date:
-    * Comments:
-    * Approved:
-    * Locations:
+    * Received: / Comments: / Approved:
+    * Located:
   * Final Budget
-    * Received date:
-    * Comments:
-    * Approved:
-    * Locations:
-  * Sign-off Form
-    * Received date:
-    * Comments:
-    * Approved:
-    * Locations:
+    * Received: / Comments: / Approved:
+    * Located:
+  * Survey and Sign-off Form
+    * Received: / Comments: / Approved:
+    * Located:
 
-= Meetings =
-(reverse chronological order of scheduled face to face meetings)
+= Meeting =
 
-First Meeting, Date of Meeting, Location of Meeting
+Date of Meeting, Location of Meeting
   * Agenda:
-    * Programme Manager SLA:
-    * SWOT:
-    * Documentation: Core Project Resources, Project Plan, Progress Posts 
-    * List Top Three Sprints/Workpackages and Level of Difficulty for each
+    * Programme Manager ServiceLevelAgreement, ie what I can do for you
+    * Project Team Relations
     * Use Cases and Type/Name of Real/Named Users:
-    * Technologies/Tools Using (Standards, Methods, 
+    * Documentation: Core Project Resources, Project Plan, Progress Posts 
+      * SWOT or List Top Three Sprints/Workpackages and Level of Difficulty for each
+    * FOI/Transparency: OSS, Creative Commons, Budget, etc.
+    * Technologies/Tools Using: progLang, codeRepo, standards, etc
     * Methodology (Agile, SCRUM, TDD, etc) --> Code Repo/Wiki/Site?
-    * Sustainability / Success Plan / Business Case
+    * Sustainability, Business Case, Dissemination: VC, Subscription, Advertisement, etc.
 
 = Correspondance =
-(descending chronological order)
+Please see below in comments section for any and all correspondance by Programme Manager with the Projects.  Also all edits that need to be made to this page please place in comments section and the author will correct.
   * Email, Phone calls, twitters, links sent, etc.
-  * Remind projects regarding best practice in FOI.
