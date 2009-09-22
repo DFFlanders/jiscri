@@ -14,8 +14,8 @@ Below is a list of documentation you will need to complete so as to fulfil your 
 There are three sets of documents you will need to complete during the course of your JISCRI project:
 
   # [http://code.google.com/p/jiscri/w/edit/ProjectDocumentation#1._Project_Planning Project Planning] (Core Project Resources Form, Project Plan and Budget)
-  # Progress Posts (of which a list of themes and tags are provided for each the seven required posts below)
-  # Final Project Sign-Off (Final Spend Budget, Programme Survey and official sign off of completed project)
+  # [http://code.google.com/p/jiscri/w/edit/ProjectDocumentation#2._Progress_Posts Progress Posts] (of which a list of themes and tags are provided for each the seven required posts below)
+  # [[http://code.google.com/p/jiscri/w/edit/ProjectDocumentation#Final_Project_Sign-Off Final Project Sign-Off] (Final Spend Budget, Programme Survey and official sign off of completed project)
 
 == 1. Project Planning==
   # *[http://spreadsheets.google.com/viewform?hl=en&formkey=cG84ZHFaX0d1TmY1UTJmZDAweHI5Vnc6MA.. Core Project Resources Form]* <- please fill out within first fortnight of the project.
