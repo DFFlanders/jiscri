@@ -10,15 +10,14 @@ In short, the 'Rapid Innovation' projects are of a different project species, an
 
 Below is a list of documentation you will need to complete so as to fulfil your remit to the JISCRI programme.
 
-= JISCRI Project Documentation Templates and Forms =
-There are four sets of documents you will need to complete during the course of your JISCRI project:
+= Overview of JISCRI Project Documentation =
+There are three sets of documents you will need to complete during the course of your JISCRI project:
 
-  # Project Planning (Core Project Resources Form, Project Plan and Project Budget)
-  # Progress Posts (of which a list of themes and tags are provided for each the seven required posts)
-  # Final Budget Report (official summary of how the money was spent)
-  # Final Project Sign-Off (including programme survey and legal completion of project)
+  # [http://code.google.com/p/jiscri/w/edit/ProjectDocumentation#1._Project_Planning Project Planning] (Core Project Resources Form, Project Plan and Budget)
+  # Progress Posts (of which a list of themes and tags are provided for each the seven required posts below)
+  # Final Project Sign-Off (Final Spend Budget, Programme Survey and official sign off of completed project)
 
-==Project Planning==
+== 1. Project Planning==
   # *[http://spreadsheets.google.com/viewform?hl=en&formkey=cG84ZHFaX0d1TmY1UTJmZDAweHI5Vnc6MA.. Core Project Resources Form]* <- please fill out within first fortnight of the project.
     * This form is gathering the key URIs in your project so that JISC can support you as effectively as possible in monitoring your project.  
     * For example by having all the project blog feeds we can aggregate them into a central feed so we can more effectively pass on news and developments as they occur to other JISC projects.  
@@ -31,7 +30,7 @@ There are four sets of documents you will need to complete during the course of 
 
 *_Please remember all documents you create as part of your project are subject to FOI so best to maintain best practice with regards to transparency and openness throughout your project_*
 
-==Progress Posts==
+== 2. Progress Posts==
   * So as to make your life easier we are suggesting a series of blog posts be written for the project as it progresses (this is in place of the project final report so should save you time!)
   * The posts are intended to disseminate the knowledge of the project in the now, rather than waiting until the end of the project to share your experiences. 
   * In short, we would like you to write a blog post on the following themes during the course of your project, though you are welcome to find variance in the theme as you see fit.  We are not prescriptive here and really want you to write something that people in the community will want to read, i.e. don't write them for JISC alone.
@@ -69,7 +68,7 @@ The following topics make up the required Progress Posts (you can do these posts
       * Other JISCRI project that caught your interest
       * [lessons learned...
 
-==Final Project Budget and Sign-Off==
+== 3. Final Project Sign-Off==
   # *Final Budget Template* (everyone must fill this out)
     * [http://code.google.com/p/jiscri/downloads/list?q=label:budget Budget spreadsheet templates listed here].
     * Please note that the final budget will be made open under FOI regulations so do not put any personal data in the budget, e.g. instead of listing names of people please list their generic 'central spine' role in the project: "project manager", "project developer", "consultant developer", etc.
