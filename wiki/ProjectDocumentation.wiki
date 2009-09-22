@@ -10,12 +10,14 @@ In short, the 'Rapid Innovation' projects are of a different project species, an
 
 Below is a list of documentation you will need to complete so as to fulfil your remit to the JISCRI programme.
 
-= Overview of JISCRI Project Documentation =
-*There are three sets of documents you will need to complete during the course of your JISCRI project:
+= JISCRI Project Documentation =
+_There are three sets of documents you are required to complete during the course of your JISCRI project:_
 
   # Project Planning: Core Project Resources Form, Project Plan and Budget.
   # Progress Posts: A minimum of seven required Progress Posts throughout the duration of your project including Final Progress Post.
-  # Final Project Sign-Off: Final Spend Budget, Overall JISCRI Programme Survey and official Sign-off of Completed Project.*
+  # Final Project Sign-Off: Final Spend Budget, Overall JISCRI Programme Survey and official Sign-off of Completed Project.
+
+Instructions and templates for these three sets of documentation are detailed below.
 
 == 1. Project Planning==
   # *[http://spreadsheets.google.com/viewform?hl=en&formkey=cG84ZHFaX0d1TmY1UTJmZDAweHI5Vnc6MA.. Core Project Resources Form]* <- please fill out within first fortnight of the project.
