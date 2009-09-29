@@ -57,10 +57,25 @@ Date of Meeting, Location of Meeting
     * Programme Manager ServiceLevelAgreement, ie what I can do for you
     * Project Team Relations
     * Use Cases and Type/Name of Real/Named Users:
+
+standards for tensile testing, aluminium strength testing: iso standard schema
+
+
     * Documentation: Core Project Resources, Project Plan, Progress Posts 
       * SWOT or List Top Three Sprints/Workpackages and Level of Difficulty for each
     * FOI/Transparency: OSS, Creative Commons, Budget, etc.
     * Technologies/Tools Using: progLang, codeRepo, standards, etc
+
+
+use of DOI
+object model 
+to transform researchPaper+Data
+WCF use = ReST calls: createContainer => 
+large data in the cloud is reason for why we want mdc to be own system. 
+authN/Z of allowing researchers to share their data.
+attaching data to elsevier submissions
+
+
     * Methodology (Agile, SCRUM, TDD, etc) --> Code Repo/Wiki/Site?
     * Sustainability, Business Case, Dissemination: VC, Subscription, Advertisement, etc.
 
