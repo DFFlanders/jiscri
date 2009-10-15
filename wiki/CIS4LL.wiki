@@ -32,6 +32,10 @@
   * Consultants: Graphic Designer <- Future platforms 
 
 = Documentation =
+RSS Feed From Project Blog: http://cloudbankblog.blogspot.com/feeds/posts/default
+
+<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="http://cloudbankblog.blogspot.com/feeds/posts/default" width="700" height="700" border="1" up_showaddbutton="20"/>
+
   * Core Project Resources: http://spreadsheets.google.com/pub?key=po8dqZ_GuNf5Q2fd00xr9Vw&single=true&gid=0&range=B21%3Az21&output=html
   * Project Plan:
   * Progress Posts RSS Feed
