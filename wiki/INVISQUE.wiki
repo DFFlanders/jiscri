@@ -1,0 +1,3 @@
+#summary a search interface which uses visual clues and associations between items to help people find things.
+#labels BW,visualisation,search
+
