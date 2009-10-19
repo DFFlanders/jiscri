@@ -26,7 +26,12 @@ _NOTE TO PROJECT ON THIS PAGE: If you see a correction/addition that needs to be
   * Consultants:
 
 = Documentation =
-RSS Feed From Project Blog:
+  * Code Repository: 
+  * Technical Documentation: 
+  * End User Documentation: 
+  * Analytics Engine: 
+  * Project Website: 
+  * RSS Feed From Project Blog: 
 
 <wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="HTTP RSS FEED HERE" width="700" height="700" border="1" up_showaddbutton="20"/>
 
