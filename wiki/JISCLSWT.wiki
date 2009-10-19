@@ -1,0 +1,66 @@
+#summary Renew your books and access core library services from Moodle, Facebook, and iGoogle
+#labels benWynne,widgets,library,opac
+
+_NOTE TO PROJECT ON THIS PAGE: If you see a correction/addition that needs to be made in this page please place edits in the comments section at the bottom of this page and I will change, please do not email me. /dff_
+
+= Project Description =
+  * Project name: Library Social Widgets Toolkit
+  * 10 second elevator pitch: The aim of the project is to produce middleware and widgets that will allow users to check their library account, renew their books, pay fines, and review their reading lists from within a variety of social networking sites. Initially the widgets will plug into Moodle, Facebook, and iGoogle, so that users can access the services they want from the social sites they use.
+  * Twitter description: Renew your books and access core library services from Moodle, Facebook, and iGoogle
+  * Questions this project answers:
+    * User Question (what itch does it scratch):
+    * Community Question (how does this change the way things were done):
+
+= Project Details =
+  * Name of Host Institution: London School of Economics
+  * JISC Programme/Strand: 
+  * Length of Project:
+    * Project Start Date:
+    * Project End Date:
+  * Grant Awarded to Project: £40,000.00
+
+= Project Team =
+  * Product Owner: 
+  * Developer:
+  * Admin:
+  * Partners:
+  * Consultants:
+
+Michael Fake	m.fake@lse.ac.uk	
+Shiraz Azizali, s.azizali@lse.ac.uk
+Ofer Engel	o.engel@lse.ac.uk	
+Michael Hallas <m.hallas@lse.ac.uk>, 
+Tim Green <t.green@lse.ac.uk>	
+michael.j.fake@googlemail.com
+
+= Documentation =
+  * Code Repository: http://code.google.com/p/librarywidgets/
+  * Technical Documentation: http://code.google.com/p/librarywidgets/w/list	
+  * End User Documentation: TBC
+  * Analytics Engine: Google Analytics, uri to be confirmed
+  * Project Website: http://library-2.lse.ac.uk/library-widgets/
+  * RSS Feed From Project Blog: http://lib-1.lse.ac.uk/library-widgets/?feed=rss2	
+
+<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="http://lib-1.lse.ac.uk/library-widgets/?feed=rss2" width="700" height="700" border="1" up_showaddbutton="20"/>
+
+  * PIMS listing
+    * Received: / Comments: / Approved:
+    * Located:
+  * Core Project Resources
+    * Received: / Comments: / Approved:
+    * Located:
+  * Project Plan
+    * Received: / Comments: / Approved:
+    * Located:
+  * Progress Posts RSS Feed
+    * Received: / Comments: / Approved:
+    * Located:
+  * Final Budget
+    * Received: / Comments: / Approved:
+    * Located:
+  * Survey and Sign-off Form
+    * Received: / Comments: / Approved:
+    * Located:
+
+= Correspondance =
+Please see below in comments section for any and all correspondance by Programme Manager with the Projects.  Also all edits that need to be made to this page please place in comments section and the author will correct.
