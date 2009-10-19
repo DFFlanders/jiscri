@@ -60,20 +60,6 @@ B.L. William Wong	w.wong@mdx.ac.uk	Nazlin Bhimani, Nawaz Khan, Emma Bryne, Dong-
     * Received: / Comments: / Approved:
     * Located:
 
-= Meeting =
-
-Date of Meeting, Location of Meeting
-  * Agenda:
-    * Programme Manager ServiceLevelAgreement, ie what I can do for you
-    * Project Team Relations
-    * Use Cases and Type/Name of Real/Named Users:
-    * Documentation: Core Project Resources, Project Plan, Progress Posts 
-      * SWOT or List Top Three Sprints/Workpackages and Level of Difficulty for each
-    * FOI/Transparency: OSS, Creative Commons, Budget, etc.
-    * Technologies/Tools Using: progLang, codeRepo, standards, etc
-    * Methodology (Agile, SCRUM, TDD, etc) --> Code Repo/Wiki/Site?
-    * Sustainability, Business Case, Dissemination: VC, Subscription, Advertisement, etc.
-
 = Correspondance =
 Please see below in comments section for any and all correspondance by Programme Manager with the Projects.  Also all edits that need to be made to this page please place in comments section and the author will correct.
   * Email, Phone calls, twitters, links sent, etc.
