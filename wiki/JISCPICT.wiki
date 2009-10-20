@@ -31,7 +31,7 @@ Rory McNicholl	r.mcnicholl@ulcc.ac.uk	Rory McNicholl, Ben Wheeler	r.mcnicholl@ul
 
 = Documentation =
   * Code Repository: http://code.google.com/p/pict/
-  * Technical Documentation: TBC
+  * Technical Documentation: http://code.google.com/p/pict/w/list
   * End User Documentation: TBC
   * Analytics Engine: TBC
   * Project Website: pict.ulcc.ac.uk
