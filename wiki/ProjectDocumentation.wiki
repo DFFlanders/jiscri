@@ -68,10 +68,10 @@ The following topics make up the required Progress Posts (you can do these posts
 
 *An aggregated feed of all JISCRI project comments is available at http://feeds.feedburner.com/DailyNewsFeedJISCRI.*
 == 3. Final Project Sign-Off==
-  # *Final Budget Template* (everyone must fill this out)
+  # *Final Budget Template* (everyone must fill this out and have it approved by their programme manager)
     * [http://code.google.com/p/jiscri/downloads/list?q=label:budget Budget spreadsheet templates listed here].
     * Please note that the final budget will be made open under FOI regulations so do not put any personal data in the budget, e.g. instead of listing names of people please list their generic 'central spine' role in the project: "project manager", "project developer", "consultant developer", etc.
-  # *Final Project Sign-off Form/Survey* <!--link to final sign-off form coming soon-->
+  # *Final Sign-off Form/Survey* (Your project is not officially closed until this form is completed in full.  The link to this form will be passed to you by your Programme Manager once you have had your final budget approved by them).
     * To complete the project you will need to fill out the above form.  This is both the legal ending of your project and the feedback JISC requires to improve on rapid innovation the next time around.
     
 == Documentation Feedback ==
