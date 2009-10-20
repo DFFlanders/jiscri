@@ -64,6 +64,7 @@ The following topics make up the required Progress Posts (you can do these posts
       * Project Website: <!-- HTTP link to any additional wiki, blog or site that has applicable documentation -->
       * PIMS entry: <!-- Please provide a link to your projects entry in PIMS, for example: http://www.pims.jisc.ac.uk/id?=[project number id here] -->
       * Table of Content for Project Posts <!-- A final thematic table of contents should be provided here of all the project posts written along with links to each post.  Please make this table of contents generic to any readership that might find your project on the Web. -->
+        * Required Tags for this Final Progress Post = jiscri, jisc, finalProgressPost, output, prototype, product, demonstrator {your own personal project tag and any other tags you feel are applicable}
 
 *An aggregated feed of all JISCRI project comments is available at http://feeds.feedburner.com/DailyNewsFeedJISCRI.*
 == 3. Final Project Sign-Off==
