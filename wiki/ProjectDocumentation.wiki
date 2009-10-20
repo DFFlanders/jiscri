@@ -13,8 +13,8 @@ Below is a list of documentation you will need to complete so as to fulfil your 
 = JISCRI Project Documentation =
 _There are three sets of documents you are required to complete during the course of your JISCRI project:_
 
-  # Project Planning: Core Project Resources Form, Project Plan and Budget.
-  # Progress Posts: A minimum of seven required Progress Posts throughout the duration of your project including Final Progress Post.
+  # Project Planning: Core Project Resources Form, Project Plan and Projected Budget.
+  # Progress Posts: A minimum of seven required Progress Posts throughout the duration of your project including a Final Progress Post.
   # Final Project Sign-Off: Final Spend Budget, Overall JISCRI Programme Survey and official Sign-off of Completed Project.
 
 Instructions and templates for these three sets of documentation are detailed below.
