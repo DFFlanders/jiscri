@@ -21,13 +21,12 @@ _NOTE TO PROJECT ON THIS PAGE: If you see a correction/addition that needs to be
   * Grant Awarded to Project: £40000
 
 = Project Team =
-  * Product Owner: 
-  * Developer:
+  * Project Manager: Phil Barker	philb@icbl.hw.ac.uk
+  * Developer: Santiago Chumbe 	santiago@icbl.hw.ac.uk  
+  * Developer??? Lisa Rogers <mthljr@macs.hw.ac.uk>
   * Admin:
   * Partners:
-  * Consultants:
-
-Phil Barker	philb@icbl.hw.ac.uk	Santiago Chumbe 	santiago@icbl.hw.ac.uk  	Lisa Rogers <mthljr@macs.hw.ac.uk>
+  * Consultants:	
 
 = Documentation =
   * Code Repository: https://sux0r.svn.sourceforge.net/svnroot/sux0r/branches/icbl/
