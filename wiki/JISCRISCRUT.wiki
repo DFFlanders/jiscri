@@ -22,13 +22,13 @@ _NOTE TO PROJECT ON THIS PAGE: If you see a correction/addition that needs to be
   * Grant Awarded to Project: £39472
 
 = Project Team =
-  * Product Owner: 
-  * Developer:
+  * Product Owner: Tim Hitchcock <t.hitchcock@herts.ac.uk>, Michael Pidd	m.pidd@sheffield.ac.uk
+  * Developer: Marta Ibarra marta@playgen.com
   * Admin:
   * Partners:
   * Consultants:
 
-Michael Pidd	m.pidd@sheffield.ac.uk	Marta Ibarra, Jamie McLaughlin, Mike Meredith, Katherine Rogers	marta@playgen.com, j.mclaughlin@sheffield.ac.uk, m.meredith@sheffield.ac.uk, k.m.rogers@sheffield.ac.uk	Tim Hitchcock <t.hitchcock@herts.ac.uk>, Robert Shoemaker <r.shoemaker@sheffield.ac.uk>
+Michael Pidd	m.pidd@sheffield.ac.uk	, Jamie McLaughlin, Mike Meredith, Katherine Rogers	, j.mclaughlin@sheffield.ac.uk, m.meredith@sheffield.ac.uk, k.m.rogers@sheffield.ac.uk	Tim Hitchcock <t.hitchcock@herts.ac.uk>, Robert Shoemaker <r.shoemaker@sheffield.ac.uk>
 
 = Documentation =
   * Code Repository: http://sourceforge.net/projects/scrutiny
