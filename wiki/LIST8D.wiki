@@ -1,5 +1,5 @@
 #summary a Web 2.0 mashup approach to creating and consuming university reading lists.
-#labels BenWynne,library,mashup,readingList
+#labels BenWynne,library,mashup,readingList,project
 
 
 _NOTE TO PROJECT ON THIS PAGE: If you see a correction/addition that needs to be made in this page please place edits in the comments section at the bottom of this page and I will change, please do not email me. /dff_
