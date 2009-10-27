@@ -1,5 +1,5 @@
 #summary A portable voice over wireless local area network for learning/research taking place in remote areas.
-#labels wifi,voip,project,wlan,hardware
+#labels wifi,voip,project,wlan,hardware,PM-DavidFFlanders
 
 = Project Description =
 
@@ -31,9 +31,9 @@ http://projects.kmi.open.ac.uk/era/wiki/index.php/Team
 http://farm3.static.flickr.com/2473/3919225266_bfbfb02b95.jpg
 
 = Documentation =
-Project Progress Posts Feed: http://projects.kmi.open.ac.uk/era/wiki/index.php?title=Special:RecentChanges&feed=rss 
+Project Progress Posts Feed: http://projects.kmi.open.ac.uk/era/vowlan/?feed=rss2
 
-<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="http://projects.kmi.open.ac.uk/era/wiki/index.php?title=Special:RecentChanges&feed=rss" width="700" height="700" border="1" up_showaddbutton="20"/>
+<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="http://projects.kmi.open.ac.uk/era/vowlan/?feed=rss2" width="700" height="700" border="1" up_showaddbutton="20"/>
 
   * Core Project Resources
     * Received: / Comments: / Approved:
