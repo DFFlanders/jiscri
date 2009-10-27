@@ -1,5 +1,5 @@
 #summary SatNav for historical maps: a phone app that combines GPS technology with old maps to allow users to "walk through time".
-#labels mobile,maps,gps,iphone,android,app,web,User-Lecturer,User-Students,User-Tourist,java
+#labels mobile,maps,gps,iphone,android,app,web,User-Lecturer,User-Students,U-Student,java,project,PM-DavidFFlanders
 
   * SLA for Programme Manager to Project
 
