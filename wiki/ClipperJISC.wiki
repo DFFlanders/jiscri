@@ -1,5 +1,5 @@
 #summary Clipper is looking to be the Picasa of video.
-#labels projects,multimedia,flash,air,flex,User-Student,video
+#labels project,multimedia,flash,air,flex,User-Student,video,PM-DavidFFlanders
 
 = Project Description =
   * 10 second elevator pitch (how do you sell this to an early adopter?): Clipper aims to fill a gap in the toolset of those who use online audio-visual media for education and research. Clipper will allow users to identify, create, tag, mix, and manage clips from within online audio-visual resources as well as the ability to add their own textual notes.
