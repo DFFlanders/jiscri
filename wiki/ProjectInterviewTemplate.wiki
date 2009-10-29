@@ -38,24 +38,11 @@ _NOTE TO PROJECT ON THIS PAGE: If you see a correction/addition that needs to be
 
 <wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="HTTP RSS FEED HERE" width="700" height="700" border="1" up_showaddbutton="20"/>
 
-  * PIMS listing
-    * Received: / Comments: / Approved:
-    * Located:
-  * Core Project Resources
-    * Received: / Comments: / Approved:
-    * Located:
-  * Project Plan
-    * Received: / Comments: / Approved:
-    * Located:
-  * Progress Posts RSS Feed
-    * Received: / Comments: / Approved:
-    * Located:
-  * Final Budget
-    * Received: / Comments: / Approved:
-    * Located:
-  * Survey and Sign-off Form
-    * Received: / Comments: / Approved:
-    * Located:
+  * PIMS listing:
+  * Core Project Resources:
+  * Project Plan:
+  * Final Budget:
+  * Sign-off Form:
 
 = Meeting =
 
