@@ -21,8 +21,8 @@ _NOTE TO PROJECT ON THIS PAGE: If you see a correction/addition that needs to be
 
 = Project Team =
   * Project Owner: Nikki Rogers Nikki.Rogers at bristol.ac.uk
-  * Lead Developer: Mike Jones mike.a.jones at bristol.ac.uk 
-    * Jasper Tregold jasper.tredgold@bristol.ac.u
+  * Developers: (lead) Mike Jones mike.a.jones at bristol.ac.uk 
+    * Jasper Tregold jasper.tredgold@bristol.ac.uk
     * Chris Bailey: c.bailey@bristol.ac.uk
 
 = Documentation =
