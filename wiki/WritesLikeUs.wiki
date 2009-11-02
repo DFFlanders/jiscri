@@ -1,5 +1,5 @@
 #summary explores generation of metadata about individuals and their likely community memberships.
-#labels project
+#labels project,PM-DavidFFlanders,Theme-Data
 
 =Project Descriptions / Outputs=
   * What question does the project answer?
@@ -14,14 +14,14 @@
 
 ==Project Details==
   * A4-8 
-  * University of Bath, UKLON 
+  * University of Bath, UKOLN
   * writeslike.us 
   * 6 months 4/1/2009 10/1/2009
   * 29427
 
 ==Project Team==
   * Project Director = Michael Day m.day(at)ukoln.ac.uk
-  * Project Manager / Developer = Emma Tomkin
+  * Project Manager / Developer = Emma Tonkin
   * Developer = Alex Strelnikov
 
 
