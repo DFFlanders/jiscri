@@ -1,5 +1,5 @@
 #summary a module for eprints that supports the submission of xml formatted data with the associated manuscript.
-#labels project,data
+#labels project,Theme-Data,PM-DavidFFlanders,cloud
 
 = Project Description =
   * 10 second elevator pitch (how do you sell this to an early adopter?): The objective is to develop a prototype module to enable the EPrints repository to support the 5ubmission of XML-formatted experimental data together with the manuscript to which they correspond. The basic motivations for the work are to promote the conservation of experimental data and to link data to publications. As Semantic technologies become established, the ever-increasing body of experimental data will provide new opportunities for knowledge discovery within and across disciplines.							
@@ -12,79 +12,44 @@
 = Project Details =
 
   * Name of Host Institution: University of Southampton
-  * JISC Programme/Strand: 
-  * Length of Project:
+  * Department: School of Engineering Sciences
+  * JISC Programme/Strand: Data
+  * Length of Project: 6 months
     * Project Start Date:5/6/2009
     * Project End Date:5/6/2009
   * Grant Awarded to Project: £40000
-#summary This page is to help remind programme managers what core information they need from projects so they can help them in the overall context of the programme.
 
 = Project Team =
-  * Product Owner: 
-  * Developer:
-  * Admin:
-  * Partners:
-  * Consultants:
+  * Product Owner: Philippa Reed	p.a.reed@soton.ac.uk
+  * Project Advisors: Kenji Takeda <ktakeda@soton.ac.uk>, Leslie Carr <lac@ecs.soton.ac.uk>
+  * Developers: Mark Scott and Tim Austin T.Austin@soton.ac.uk	
+  * Other: Dr Steven Johnston sjj698@zepler.org
+
+http://farm3.static.flickr.com/2718/4028699809_0fb1ec165a_b.jpg
 
 = Documentation =
-RSS Feed From Project Blog: http://www.materialsdatacentre.com/2/feed
+
+  * Code Repository: TBC
+  * Technical Documentation: TBC
+  * End User Documentation: TBC
+  * Analytics Engine: TBC
+  * Project Website: http://www.materialsdatacentre.co
+  * XMPP Feed (twitter): n/a
+  * RSS Feed From Project Blog: http://www.materialsdatacentre.com/2/feed
 
 <wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="http://www.materialsdatacentre.com/2/feed" width="700" height="700" border="1" up_showaddbutton="20"/>
 
-  * PIMS listing
-    * Received: / Comments: / Approved:
-    * Located:
-  * Core Project Resources
-    * Received: / Comments: / Approved:
-    * Located:
-  * Project Plan
-    * Received: / Comments: / Approved:
-    * Located:
-  * Progress Posts RSS Feed
-    * Received: / Comments: / Approved:
-    * Located:
-  * Final Budget
-    * Received: / Comments: / Approved:
-    * Located:
-  * Survey and Sign-off Form
-    * Received: / Comments: / Approved:
-    * Located:
+  * PIMS listing: completed
+  * Core Project Resources: completed
+  * Project Plan: completed
+  * Final Budget: tbc
+  * Sign-off Form: tbc
 
-= Meeting =
+= Meeting Notes =
 
-Date of Meeting, Location of Meeting
-  * Agenda:
-    * Programme Manager ServiceLevelAgreement, ie what I can do for you
-    * Project Team Relations
-    * Use Cases and Type/Name of Real/Named Users:
+  * Use Cases and Type/Name of Real/Named Users: standards for tensile testing, aluminium strength testing: iso standard schema
 
-standards for tensile testing, aluminium strength testing: iso standard schema
-
-
-    * Documentation: Core Project Resources, Project Plan, Progress Posts 
-      * SWOT or List Top Three Sprints/Workpackages and Level of Difficulty for each
-    * FOI/Transparency: OSS, Creative Commons, Budget, etc.
-    * Technologies/Tools Using: progLang, codeRepo, standards, etc
-
-
-use of DOI
-object model 
-to transform researchPaper+Data
-WCF use = ReST calls: createContainer => 
-large data in the cloud is reason for why we want mdc to be own system. 
-authN/Z of allowing researchers to share their data.
-attaching data to elsevier submissions
-
-
-    * Methodology (Agile, SCRUM, TDD, etc) --> Code Repo/Wiki/Site?
-    * Sustainability, Business Case, Dissemination: VC, Subscription, Advertisement, etc.
+    * Technologies/Tools Using: use of DOI to register data sets?, object modelling to transform researchPaper+Data, WCF use = ReST calls: createContainer => deposit, large data in the cloud is reason for why we want mdc to be own system, authN/Z of allowing researchers to share their data, attaching data to elsevier submissions.
 
 = Correspondance =
 Please see below in comments section for any and all correspondance by Programme Manager with the Projects.  Also all edits that need to be made to this page please place in comments section and the author will correct.
-  * Email, Phone calls, twitters, links sent, etc.
-
-  * 2009-07-09 Phillipa contacted to request delay of project for one month. 
-    * DFF: approved delay so long as fortnightly updates are provided
-  * 2009-07-16 DFF request to phillipa for core resources form to be completed
-    * reply Kenji Takeda will be filling in the core project resources form.
-  
