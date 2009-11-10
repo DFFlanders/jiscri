@@ -1,9 +1,9 @@
-#summary A Semantic Web tool for exploring the state of the research landscape in UKHE
+#summary A Semantic Web tool for exploring the state of the research landscape in the UK's Higher Education domain.
 #labels project,linkeddata,foaf,semanticWeb,cerif,PM-DavidFFlanders,Theme-LinkedData
 
 = Project Description =
-  * 10 second elevator pitch (how do you sell this to an early adopter?): The dotAC projects aims to develop a prototype Semantic Web demonstrator that synthesises research information from heterogeneous sources (institutional repositories and research council information systems), resolves name co-reference issues between the sources, and presents it to research-focussed end users through an interface that will allow them to explore the state of the research landscape in UKHE.
-  * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them): 
+  * 10 second elevator pitch: The dotAC projects aims to develop a prototype Semantic Web demonstrator that synthesises research information from heterogeneous sources (institutional repositories and research council information systems), resolves name co-reference issues between the sources, and presents it to research-focussed end users through an interface that will allow them to explore the state of the research landscape in UKHE.
+  * Twitter description (120 character layman description): A Semantic Web tool for exploring the state of the research landscape in UK HE
   * Questions this project answers:
     * User Question (what itch does it scratch):
     * Community Question (how does this change the way things were done):
@@ -29,11 +29,11 @@
 http://farm3.static.flickr.com/2436/4029452088_28e97b8f18_b.jpg
 
 = Documentation =
-  * Code Repository: 
-  * Technical Documentation: 
-  * End User Documentation: 
+  * Code Repository: https://forge.ecs.soton.ac.uk/docman/?group_id=884
+  * Technical Documentation: TBC
+  * End User Documentation: TBC
   * Analytics Engine: 
-  * Project Website: 
+  * Project Website: http://dotac.info/
   * XMPP Feed (twitter): 
   * PIMS listing:
   * Core Project Resources:
