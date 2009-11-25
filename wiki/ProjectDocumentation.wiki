@@ -52,10 +52,11 @@ The following topics make up the required Progress Posts (you can do these posts
 
 === (VII) === 
 *Final Progress Post* aka final prototype product advertisement (DEADLINE: PROJECT END DATE AND NO LATER THAN DECEMBER 1ST)
-    * In this post you are required to address each one of the below elements, this post along with your final prototype will be evaluated for its readiness to launch to the end user.  If selected, we'll be using this post as the final "advertisement" that will go in an 'Argos-like catalogue' of JISC Software Prototypes.  We hope to put this publication on the desk of as many senior managers in UK HE/FE as possible as well as other potential investors (e.g. NGOs and VCs) in the New Year so please write this Final post with that audience in mind.
+    * In this post you are required to address each one of the below elements, this post along with your final prototype will be evaluated for its readiness to launch to the end user.  If selected, we'll be using this post as the final "advertisement" that will go in an 'Argos-like catalogue' of JISC Software Prototypes (a vision of the future to come!).  We hope to put this publication on the desk of as many senior managers in UK HE/FE as possible as well as other potential investors (e.g. NGOs and VCs) in the New Year so please write this Final post with that audience in mind.
     * *Template for Final Progress Post* (please copy and paste the below into the html of your final post and fill out accordingly.  Delete comments inside of html ignore tags, e.g. "<!-- lorum ipsum doler -->"):
       * Title of Primary Project Output: <--! Please use the following title format for this post: "ProjectTag: One line description of prototyped output"-->
       * Screenshots or diagram of prototype: <!-- Please provide a series of screenshots or diagram that will quickly explain the point and process of your prototype to the end user.  Annotation on screenshots welcome. -->
+      * Description of Prototype: <--! Please write this description for the end user so they can easily understand what the prototype is about and how to use it, please be brief and to the point (think Argos Catalogue like description). -->
       * Link to working prototype: <!-- This http link should point directly to a working prototype in which the end user can interact, if a working prototype is not available then please provide a screencast or series of screenshots demonstrating end user functionality, this screencast should not exceed 5 minutes.  Please note: working prototypes are preferred even if just 'rough and ready', please do not send powerpoints or other non web-based documents, they will not be accepted. This prototype must be maintained for one year after the date of the official project sign-off. -->
       * Link to end user documentation: <!-- Please provide an http link for a page that explains the use of the prototype to the end user, e.g. an "about" page that explains the project and why it is producing the prototype.  For example, what end user problem does it solve, what question does the prototype answer, what itch for the community does it scratch? -->
       * Link to code repository or API: <!-- This http link should be to the primary page listing all code libraries for the prototype.  This page must be maintained for one year after the official date of the project sign-off. -->
@@ -67,7 +68,8 @@ The following topics make up the required Progress Posts (you can do these posts
       * Table of Content for Project Posts <!-- A final thematic table of contents should be provided here of all the project posts written along with links to each post.  Please make this table of contents generic to any readership that might find your project on the Web. -->
         * Required Tags for this Final Progress Post = progressPosts, rapidInnovation, JISCRI, JISC, finalProgressPost, output, prototype, product, demonstrator, <your own unique project tag>, etc.
 
-*An aggregated feed of all JISCRI project comments is available at http://feeds.feedburner.com/DailyNewsFeedJISCRI.*
+*An aggregated feed of all JISCRI Progress Posts is available at http://feeds.feedburner.com/DailyNewsFeedJISCRI.*
+
 == 3. Final Project Sign-Off ==
 DEADLINE: DECEMBER 11TH 2009 (BUDGETS MUST BE APPROVED BY PROGRAMME MANAGERS SO PLEASE SUBMIT WITH TIME TO SPARE)
   # *Final Budget Template* (everyone must fill this out and have it approved by their programme manager)
