@@ -1,5 +1,5 @@
 #summary This page lists the documentation JISCRI projects are required to submit.
-#labels documentation
+#labels documentation,ProgressPosts,template
 
 *_Please do acknowledge the reading of this document by leaving a comment at the end of it (in the comments section), your feedback on this process is greatly appreciated._*
 
@@ -68,7 +68,8 @@ The following topics make up the required Progress Posts (you can do these posts
         * Required Tags for this Final Progress Post = progressPosts, rapidInnovation, JISCRI, JISC, finalProgressPost, output, prototype, product, demonstrator, <your own unique project tag>, etc.
 
 *An aggregated feed of all JISCRI project comments is available at http://feeds.feedburner.com/DailyNewsFeedJISCRI.*
-== 3. Final Project Sign-Off==
+== 3. Final Project Sign-Off ==
+DEADLINE: DECEMBER 11TH 2009 (BUDGETS MUST BE APPROVED BY PROGRAMME MANAGERS SO PLEASE SUBMIT WITH TIME TO SPARE)
   # *Final Budget Template* (everyone must fill this out and have it approved by their programme manager)
     * [http://code.google.com/p/jiscri/downloads/list?q=label:budget Budget spreadsheet templates listed here].
     * Please note that the final budget will be made open under FOI regulations so do not put any personal data in the budget, e.g. instead of listing names of people please list their generic 'central spine' role in the project: "project manager", "project developer", "consultant developer", etc.
@@ -77,4 +78,4 @@ The following topics make up the required Progress Posts (you can do these posts
     * This form should be filled out as a team so as to reflect upon the experiences of the projects.  JISC would ask for your honest and forthright opinion in what lessons were learned and how we could improve things for future projects based on your experience.
     
 == Documentation Feedback ==
-Please provide any feedback for this documentation procedure in the below comments section.
+Please provide any feedback for this documentation procedure in the below comments section.  Requires a gmail or hotmail account to login.
