@@ -64,7 +64,7 @@ The following topics make up the required Progress Posts (you can do these posts
       * Date prototype was launched: <!-- Please provide a date for when the last version of the prototype was made available to end users -->
       * Project Team Names, Emails and Organisations: <!-- For example: "David F. Flanders, d.flanders@jisc.ac.uk - Joint Information Systems Committee; etc."  -->
       * Project Website: <!-- HTTP link to any additional wiki, blog or site that has applicable documentation -->
-      * PIMS entry: <!-- Please provide a link to your projects entry in PIMS, for example: http://www.pims.jisc.ac.uk/ id?=[project number id here] -->
+      * PIMS entry: <!-- Please provide a link to your projects entry in PIMS, for example: https://pims.jisc.ac.uk/projects/view/1333 -->
       * Table of Content for Project Posts <!-- A final thematic table of contents should be provided here of all the project posts written along with links to each post.  Please make this table of contents generic to any readership that might find your project on the Web. -->
         * Required Tags for this Final Progress Post = progressPosts, rapidInnovation, JISCRI, JISC, finalProgressPost, output, prototype, product, demonstrator, <your own unique project tag>, etc.
 
