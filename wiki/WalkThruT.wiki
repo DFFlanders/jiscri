@@ -1,18 +1,16 @@
 #summary SatNav for historical maps: a phone app that combines GPS technology with old maps to allow users to "walk through time".
 #labels mobile,maps,gps,iphone,android,app,web,User-Lecturer,User-Students,U-Student,java,project,PM-DavidFFlanders
 
-  * SLA for Programme Manager to Project
-
 = Project Description =
   * 10 second elevator pitch (how do you sell this to an early adopter?): Walking Through Time is a mobile application that will allow smart phone users with built-in GPS to not only find themselves in the present, but find themselves in the past. By making available historical UK maps, users will be able to scroll through time and navigate places using maps that are hundreds of years old.
 
   * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them): Walking Through Time is a mobile application that will allow smart phone users with built-in GPS to not only find themselves in the present, but find themselves in the past. By making available historical UK maps, users will be able to scroll through time and navigate places using maps that are hundreds of years old.
+
   * Questions this project answers:
     * User Question (what itch does it scratch):
     * Community Question (how does this change the way things were done):
 
 = Project Details =
-  * [http://spreadsheets.google.com/pub?key=po8dqZ_GuNf5Q2fd00xr9Vw&single=true&gid=0&range=b13:z13&output=html Core Project Details]
   * Name of Host Institution: University of Edinburgh
   * JISC Programme/Strand: Mobile
   * Length of Project: 6 months
@@ -24,7 +22,7 @@
   * Product Owner: Dr. Chris Speed (Digital Architect) c.speed at eca.ac.uk
   * Developers: 
     * Dave Berry (Dev Team Lead) Dave.Berry at ed.ac.uk 
-    * Petra Leimlehner(Java Dev) Petra.Leimlehner at ed.ac.uk  
+    * Petra Leimlehner (Java Dev) Petra.Leimlehner at ed.ac.uk  
   * Partners: Tim Urwin (Edina DigiMap Lead) t.urwin at ed.ac.uk
   * Consultants: Edina
 
@@ -34,23 +32,10 @@
 
   * Core Project Resources: Completed 6/23/2009 20:09:16 / DFF: All filled in. / Approved 
     * http://spreadsheets.google.com/pub?key=po8dqZ_GuNf5Q2fd00xr9Vw&single=true&gid=0&range=b13:z13&output=html
-  * Project Plan
-    * Received date / Comments / Approved / Locations
-  * Progress Posts RSS Feed
-    * Received date / Comments / Approved / Locations
-  * Final Budget
-    * Received date / Comments / Approved / Locations
-  * Sign-off Form
-    * Received date / Comments / Approved / Locations
 
 = Meetings =
 
 21 August 2009
-
-ACTIONS:
-  * DFF explore options for celebrity walk thru for dissemination 
-  * Check what other map collections are available via JISC collections
-  * Make sure Petra has spot at dev event in Manchester.
 
 Project Team Relationships:
 http://farm4.static.flickr.com/3565/3855149599_2cdc01c1c8.jpg
@@ -66,7 +51,7 @@ Technical Process:
 
 Methodology: Iterative Agile Development, Sprints (2 week timeboxde), Petra and Dave are in same office to bounce ideas off on one another throughout the day.  After 2/3 workpackages they have made it to beta app.
 
-Dissemination: get famous ppl to mark out their path and broadcast that, story to sell. 
+Dissemination: get famous ppl to mark out their path and broadcast that, story to sell? 
 
 Potential business models: tourism historical walks, tomTom model (red dots corporate route), celebrity historian walk through of map (Stephen Fry)... 
 
