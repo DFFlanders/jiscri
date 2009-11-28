@@ -68,7 +68,7 @@ The following topics make up the required Progress Posts (you can do these posts
       * Table of Content for Project Posts <!-- A final thematic table of contents should be provided here of all the project posts written along with links to each post.  Please make this table of contents generic to any readership that might find your project on the Web. -->
         * Required Tags for this Final Progress Post = progressPosts, rapidInnovation, JISCRI, JISC, finalProgressPost, output, prototype, product, demonstrator, <your own unique project tag>, etc.
 
-*An aggregated feed of all JISCRI Progress Posts is available at http://feeds.feedburner.com/DailyNewsFeedJISCRI.*
+*An aggregated feed of all JISCRI Progress Posts is available at http://pipes.yahoo.com/jisc/rapidinnovationprojectnews *
 
 == 3. Final Project Sign-Off ==
 DEADLINE: DECEMBER 11TH 2009 (BUDGETS MUST BE APPROVED BY PROGRAMME MANAGERS SO PLEASE SUBMIT WITH TIME TO SPARE)
