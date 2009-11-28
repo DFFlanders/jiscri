@@ -7,7 +7,6 @@
 
     * Plugins for Advanced Export & Search	
     * PAXSRI	
-    * The PAXS Project (Plugins for Advanced Export & Search) exists to create enhancements for two of the weaker areas of a stock EPrints installation. These two area's are metadata export and advanced search.
     * The PAXS Project (Plugins for Advanced Export & Search) exists to create enhancements for two of the weaker areas of a stock EPrints installation. These two area's are metadata export and advanced search.				
 
 
