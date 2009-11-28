@@ -1,5 +1,5 @@
 #summary "Cloudbank" is a crowd-sourced information system for advanced language learning.
-#labels project,DFF,mobile,android,user-students,php
+#labels project,PM-DavidFFlanders,Theme-Mobile,android,U-Student,php
 
 * Project Manager SLA
 
