@@ -1,5 +1,5 @@
 #summary creating 'advances search' and 'metadata extraction' plugings for ePrints
-#labels project
+#labels project,PM-DavidFFlanders,Call-12.08
 
 = Basic Project Information =
 
