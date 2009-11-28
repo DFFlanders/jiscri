@@ -1,5 +1,5 @@
 #summary SatNav for historical maps: a phone app that combines GPS technology with old maps to allow users to "walk through time".
-#labels mobile,maps,gps,iphone,android,app,web,User-Lecturer,User-Students,U-Student,java,project,PM-DavidFFlanders
+#labels mobile,maps,gps,iphone,android,app,web,User-Lecturer,User-Students,U-Student,java,project,PM-DavidFFlanders,Call-03.09
 
 = Project Description =
   * 10 second elevator pitch (how do you sell this to an early adopter?): Walking Through Time is a mobile application that will allow smart phone users with built-in GPS to not only find themselves in the present, but find themselves in the past. By making available historical UK maps, users will be able to scroll through time and navigate places using maps that are hundreds of years old.
