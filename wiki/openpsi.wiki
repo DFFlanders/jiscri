@@ -1,5 +1,5 @@
 #summary A semantic Information Service stimulating interaction between Researchers, Public Sector publishers, and information mashup creators
-#labels project,SemanticWeb
+#labels project,SemanticWeb,PM-DavidFFlanders,Call-03.09,linkeddata
 
 _NOTE TO PROJECT ON THIS PAGE: If you see a correction/addition that needs to be made in this page please place edits in the comments section at the bottom of this page and I will change, please do not email me. /dff_
 
