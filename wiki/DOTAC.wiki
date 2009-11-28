@@ -1,5 +1,5 @@
 #summary A Semantic Web tool for exploring the state of the research landscape in the UK's Higher Education domain.
-#labels project,linkeddata,foaf,semanticWeb,cerif,PM-DavidFFlanders,Theme-LinkedData
+#labels project,linkeddata,foaf,semanticWeb,cerif,PM-DavidFFlanders,Theme-LinkedData,Call-03.09
 
 = Project Description =
   * 10 second elevator pitch: The dotAC projects aims to develop a prototype Semantic Web demonstrator that synthesises research information from heterogeneous sources (institutional repositories and research council information systems), resolves name co-reference issues between the sources, and presents it to research-focussed end users through an interface that will allow them to explore the state of the research landscape in UKHE.
