@@ -1,5 +1,5 @@
 #summary post-it notes turned into linked data...
-#labels project
+#labels project,PM-DavidFFlanders,Call-03.09,Theme-LinkedData,U-Teacher
 
 = Project Description =
   * 10 second elevator pitch:
