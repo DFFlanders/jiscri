@@ -1,24 +1,20 @@
 #summary creating 'advances search' and 'metadata extraction' plugings for ePrints
-#labels project,PM-DavidFFlanders,Call-12.08
+#labels project,PM-DavidFFlanders,Call-12.08,U-Researcher
 
-= Basic Project Information =
+= Basic Project Information =	
 
 ==Project Description==
 
-Short Description (120 characters twitter like description than anyone can understand)
-  * [one hundred and twenty characters is about this long with a little bit more to really get to the point]
+    * Plugins for Advanced Export & Search	
+    * PAXSRI	
+    * The PAXS Project (Plugins for Advanced Export & Search) exists to create enhancements for two of the weaker areas of a stock EPrints installation. These two area's are metadata export and advanced search.
+    * The PAXS Project (Plugins for Advanced Export & Search) exists to create enhancements for two of the weaker areas of a stock EPrints installation. These two area's are metadata export and advanced search.				
 
-Long Description (More formal like description, think abstract 
-  * [abstract like description: should be under 250 words]
-
-Question this project answers (again another powerful way to explain what you do):
-  * Q1
-  * Q2
 
 ==Project Details==
   * A4-9 
   * University of Southampton
-  * Plugins for Advanced Export & Search (PAXS)
+     * Electronics & Computer Science
   * 6 months 4/1/2009 9/1/2009
   * £29829
 
@@ -29,14 +25,7 @@ Question this project answers (again another powerful way to explain what you do
 
 =Meeting Notes=
 Mtg on Wed 13th in Southampton - confirmed
-Sign off on ProgManger SLA
-
-SWOT analysis (one thought for each: strengths, weaknesses, opportunities and threats) for the project?
-
-list out the top three most immediate code sprints to be done along with an effort required rating 1-5 (i.e. little effort = 1 : good deal of effort = 5)?
-
-names and a quick biog for a handful of end user currently involved in the project?
-
-preference for managing the project, e.g. prince, waterfall, agile, scrum, etc.
-
-potential business cases for making the stuff creating viable in the long term, e.g. how do you see the project resources being funded beyond the life of this project?
+  * Primarily lead by the two developers. 
+  * Very little interest to do any documentation to explain the purpose of their code to other developers. 
+  * Little or no end user testing.
+  * Very little feedback from project team on progress.
