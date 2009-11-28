@@ -1,5 +1,5 @@
 #summary auto create rss feeds out of learning resources for consumption by central rss aggregation service
-#labels project,DFF,rss,ukoer,learning,teaching
+#labels project,PM-DavidFFlanders,rss,ukoer,learning,teaching,Theme-AggregateTaqs,U-Teacher,U-Student,Call-12.08
 
 =Project Description=
   * Short: Develop distributed repository of learning materials created via Xerte Online Toolkit.
