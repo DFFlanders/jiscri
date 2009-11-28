@@ -1,5 +1,5 @@
 #summary moodle plugin for depositing/displaying CLA content in repositories
-#labels project,moodle,cla,User-Student
+#labels project,moodle,cla,User-Student,PM-DavidFFlanders,Call-12.08
 
 _NOTE TO PROJECT ON THIS PAGE: If you see a correction/addition that needs to be made in this page please place edits in the comments section at the bottom of this page and I will change, please do not email me. /dff_
 
