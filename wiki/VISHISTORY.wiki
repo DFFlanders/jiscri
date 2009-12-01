@@ -40,24 +40,12 @@ _NOTE TO PROJECT ON THIS PAGE: If you see a correction/addition that needs to be
 
 <wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="http://vishistory.wordpress.com/feed/" width="700" height="700" border="1" up_showaddbutton="20"/>
 
-  * PIMS listing
-    * Received: / Comments: / Approved:
-    * Located:
-  * Core Project Resources
-    * Received: / Comments: / Approved:
-    * Located:
-  * Project Plan
-    * Received: / Comments: / Approved:
-    * Located:
-  * Progress Posts RSS Feed
-    * Received: / Comments: / Approved:
-    * Located:
-  * Final Budget
-    * Received: / Comments: / Approved:
-    * Located:
-  * Survey and Sign-off Form
-    * Received: / Comments: / Approved:
-    * Located:
+  * PIMS listing: https://pims.jisc.ac.uk/projects/view/1356
+  * Core Project Resources: 
+  * Project Plan: 
+  * Progress Posts RSS Feed: 
+  * Final Budget:
+  * Survey and Sign-off Form: 
 
 = Meeting =
 
