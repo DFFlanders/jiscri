@@ -1,26 +1,33 @@
 #summary creating 'advances search' and 'metadata extraction' plugings for ePrints
 #labels project,PM-DavidFFlanders,Call-12.08,U-Researcher
 
-= Basic Project Information =	
 
-==Project Description==
+=Project Description=
 
     * Plugins for Advanced Export & Search	
     * PAXSRI	
     * The PAXS Project (Plugins for Advanced Export & Search) exists to create enhancements for two of the weaker areas of a stock EPrints installation. These two area's are metadata export and advanced search.				
 
-
-==Project Details==
+=Project Details=
   * A4-9 
   * University of Southampton
      * Electronics & Computer Science
   * 6 months 4/1/2009 9/1/2009
   * £29829
 
-==Project Team==
+=Project Team=
   * PM: mc schraefel mc at ecs.soton.ac.uk
   * DEV: Dan Smith ds at ecs.soton.ac.uk  
   * DEV: Jo Lambert jl2 at ecs.soton.ac.uk 
+
+=Project Resources=
+
+    * www.filtermyrss.com/?URL=http://blog.mspace.fm/?feed=rss2&KEYWORDS=PAXS&c1=&c2=&c3=checked		
+    * http://paxs.mspace.fm/repos/paxs-advsearch/trunk, http://paxs.mspace.fm/repos/paxs-export/trunk	       
+    * http://paxs.mspace.fm
+    * www.google.com/analytics/		
+    * http://twitter.com/mspacedev
+
 
 =Meeting Notes=
 Mtg on Wed 13th in Southampton - confirmed
