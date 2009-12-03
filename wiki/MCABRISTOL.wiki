@@ -1,5 +1,5 @@
 #summary The creation of a smart phone website and application to provide students with location and time sensitive information.
-#labels project,mobile,android,iphone,PM-DavidFFlanders,Theme-Mobile,Call-03.09
+#labels project,mobile,android,iphone,PM-DavidFFlanders,Theme-Mobile,Call-03.09,Status-Recommended
 
 _NOTE TO PROJECT ON THIS PAGE: If you see a correction/addition that needs to be made in this page please place edits in the comments section at the bottom of this page and I will change, please do not email me. /dff_
 
