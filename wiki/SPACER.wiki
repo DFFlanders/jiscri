@@ -1,5 +1,5 @@
 #summary Android app for GPS-supported mobile phones to query repositories offering metadata through geospatial standards.
-#labels project,watch,android,geo,mobile,PM-DavidFFlanders,Call-03.09,U-Student,U-Teacher,U-Researcher,Theme-Mobile
+#labels project,watch,android,geo,mobile,PM-DavidFFlanders,Call-03.09,U-Student,U-Teacher,U-Researcher,Theme-Mobile,Status-Recommended
 
 = Project Description =
   * 10 second elevator pitch (how do you sell this to an early adopter?): Historically, a student or researcher conducting fieldwork was only able to search for datasets relevant to their study sites after downloading data from their mobile devices into a computer back at their laboratories. SPACER aims to develop mobile software that improves the process by enabling repositories to be searched whilst the student or researcher is still out in the field. The project will develop a demonstrator prototype that enables mobile phones with built-in Global Positioning System (GPS) devices to query repositories supporting standards of the Open Geospatial Consortium (OGC) - a global group of over 380 private, public and academic organisations (http://www.opengeospatial.org).
