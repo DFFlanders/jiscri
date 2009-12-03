@@ -1,5 +1,5 @@
 #summary A demonstrator prototype publishing platform for the JISC funding call and dissemination process.
-#labels PM-AndrewMcGregor,Call-03.09,blog,rss,wordpress,wordpressMU
+#labels PM-AndrewMcGregor,Call-03.09,blog,rss,wordpress,wordpressMU,Status-Recommended
 
 = Project Details =
   * University of Lincoln and Open University
