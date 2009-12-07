@@ -35,21 +35,19 @@ Project Progress Posts Feed: http://projects.kmi.open.ac.uk/era/vowlan/?feed=rss
 
 <wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="http://projects.kmi.open.ac.uk/era/vowlan/?feed=rss2" width="700" height="700" border="1" up_showaddbutton="20"/>
 
-  * Core Project Resources
-    * Received: / Comments: / Approved:
-    * Located:
-  * Project Plan
-    * Received: / Comments: / Approved:
-    * Located:
-  * Progress Posts RSS Feed
-    * Received: / Comments: / Approved:
-    * Located:
-  * Final Budget
-    * Received: / Comments: / Approved:
-    * Located:
-  * Sign-off Form
-    * Received: / Comments: / Approved:
-    * Located:
+  * Code Repository: N/A
+  * Technical Documentation: 
+  * End User Documentation: 
+  * Analytics Engine: 
+  * Project Website: http://projects.kmi.open.ac.uk/era/wiki/index.php/Main_Page
+  * XMPP Feed (twitter): 
+  * Project Blog: http://projects.kmi.open.ac.uk/era/vowlan/
+
+  * PIMS listing:
+  * Core Project Resources:
+  * Project Plan:
+  * Final Budget:
+  * Sign-off Form:
 
 = Meeting =
     * Use Cases and Type/Name of Real/Named Users: Student focused, biannual courses, 40 students per class (1/2 mobility impaired).  Voice is the needed technology. Duplex call of Voip vs. walkie-talkies.  Nick Bay, Aberdeen Cliff Face (being able to communicate through a million tons of granite.  Being able to speak over the images/video to give a context for what this media is saying.  Pedagogy is focused on student finding the answer (exploratory).  Tutor directs them where to find the answer. Idea of a "Sherpa carrying equipment".  
