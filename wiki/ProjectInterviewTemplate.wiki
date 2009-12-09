@@ -41,16 +41,16 @@ Date of Meeting, Location of Meeting
     * Sustainability, Business Case, Dissemination: VC, Subscription, Advertisement, etc
 
 = Documentation =
+
+<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="HTTP RSS FEED HERE" width="700" height="700" border="1" up_showaddbutton="20"/>
+  
+  * Project Blog:
   * Code Repository: 
   * Technical Documentation: 
   * End User Documentation: 
   * Analytics Engine: 
   * Project Website: 
   * XMPP Feed (twitter): 
-  * RSS Feed From Project Blog: 
-
-<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="HTTP RSS FEED HERE" width="700" height="700" border="1" up_showaddbutton="20"/>
-
   * PIMS listing:
   * Core Project Resources:
   * Project Plan:
