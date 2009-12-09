@@ -11,6 +11,7 @@
 = Project Details =
 
   * Name of Host Institution: University of Nottingham
+      * Department: Centre for Geospatial Science
   * JISC Programme/Strand: 03/09
   * Length of Project: 6 months
     * Project Start Date: Mon, Jun 1st 2009
@@ -27,13 +28,21 @@
   * Ben Butchart (Stakeholder Representative(Edina), b.butchart at ed.ac.uk 0131 65 11227
 
 = Documentation =
-  * Core Project Resources: Received 2009-03-07
-    * only using "spacer" tag will need to make sure to use JISC tag with 'spacer' tag so it is uniquely identifiable for crawler. 
-    * core success factors: a.)  downloading of project files(or source code) on the Sourceforge project, b.) announcement of the project demonstrator on the community mailing lists and related events. 
-  * Project Plan
-  * Progress Posts RSS Feed
-  * Final Budget
-  * Sign-off Form
+
+<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="http://spacerproject.wordpress.com/feed/" width="700" height="700" border="1" up_showaddbutton="20"/>
+  
+  * Project Blog: http://spacerproject.wordpress.com/
+  * Code Repository: http://spacer.sourceforge.net
+  * Technical Documentation: https://sourceforge.net/docman/?group_id=266398
+  * End User Documentation: 
+  * Analytics Engine: TBC
+  * Project Website: http://cgs.nottingham.ac.uk/spacer
+  * XMPP Feed (twitter): 
+  * PIMS listing: https://pims.jisc.ac.uk/projects/view/1339
+  * Core Project Resources:
+  * Project Plan:
+  * Final Budget:
+  * Sign-off Form:
 
 = Meetings =
 (reverse chronological order of scheduled face to face meetings)
