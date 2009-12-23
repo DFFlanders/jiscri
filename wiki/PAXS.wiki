@@ -1,5 +1,5 @@
 #summary creating 'advances search' and 'metadata extraction' plugings for ePrints
-#labels project,PM-DavidFFlanders,Call-12.08,U-Researcher
+#labels project,PM-DavidFFlanders,Call-12.08,U-Researcher,Theme-Data
 
 
 =Project Description=
