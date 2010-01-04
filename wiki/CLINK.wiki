@@ -34,30 +34,23 @@ Peter Cowling	p.i.cowling@bradford.ac.uk	Stephen Remde	s.m.remde@bradford.ac.uk	
   * Technical Documentation: http://code.google.com/p/conceptlinkage/w/list
   * End User Documentation: TBC
   * Analytics Engine: TBC
-  * Project Website: http://code.google.com/p/conceptlinkage/
+  * Project Website: http://code.google.com/p/conceptlinkage
   * XMPP Feed (twitter): n/a
   * RSS Feed From Project Blog: http://conceptlinkage.blogspot.com/feeds/posts/default?alt=rss
 
 <wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="http://conceptlinkage.blogspot.com/feeds/posts/default?alt=rss" width="700" height="700" border="1" up_showaddbutton="20"/>
 
-  * PIMS listing
-    * Received: / Comments: / Approved:
-    * Located:
-  * Core Project Resources
-    * Received: / Comments: / Approved:
-    * Located:
-  * Project Plan
-    * Received: / Comments: / Approved:
-    * Located:
-  * Progress Posts RSS Feed
-    * Received: / Comments: / Approved:
-    * Located:
-  * Final Budget
-    * Received: / Comments: / Approved:
-    * Located:
-  * Survey and Sign-off Form
-    * Received: / Comments: / Approved:
-    * Located:
+  * PIMS listing: https://pims.jisc.ac.uk/projects/view/1351 
+  * Core Project Resources: 
+  * Project Plan: 
+  * Progress Blog: 
+  * Final Budget:
+  * Final Progress Post: http://blog.conceptlinkage.org/2009/11/final-project-post.html
+  * Survey and Sign-off Form: 
+
+= Prototype =
+
+http://conceptlinkage.org/clink/ 
 
 = Correspondance =
 Please see below in comments section for any and all correspondance by Programme Manager with the Projects.  Also all edits that need to be made to this page please place in comments section and the author will correct.
