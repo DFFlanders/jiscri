@@ -15,19 +15,17 @@ _NOTE TO PROJECT ON THIS PAGE: If you see a correction/addition that needs to be
   * Name of Host Institution: ULCC
     * Department: IT
   * JISC Programme/Strand: 
-  * Length of Project:
+  * Length of Project: 6 months
     * Project Start Date: 1/6/2009
     * Project End Date: 30/11/2009
   * Grant Awarded to Project: £40000
 
 = Project Team =
-  * Product Owner: 
-  * Developer:
-  * Admin:
-  * Partners:
-  * Consultants:
-
-Richard M. Davis	r.davis@ulcc.ac.uk	Richard M. Davis, Rory McNicholl	r.davis@ulcc.ac.uk, r.mcnicholl@ulcc.ac.uk	Maureen Pennock <maureen.pennock@bl.uk>, Ed Pinsent <e.pinsent@ulcc.ac.uk>
+  * Product Owner: Richard M. Davis	r.davis@ulcc.ac.uk
+  * Developer: Rory McNicholl	r.davis@ulcc.ac.uk
+  * Other: 
+    * Maureen Pennock <maureen.pennock@bl.uk> 
+    * Ed Pinsent <e.pinsent@ulcc.ac.uk>
 
 = Documentation =
   * Code Repository: http://code.google.com/p/archivepress/
