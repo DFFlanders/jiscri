@@ -28,9 +28,9 @@ _NOTE TO PROJECT ON THIS PAGE: If you see a correction/addition that needs to be
   * Consultants:
 
 = Documentation =
-  * Code Repository: 
+  * Code Repository: http://code.google.com/p/bibliosight/ 
   * Technical Documentation: 
-  * End User Documentation: 
+  * End User Documentation: http://bibliosightnews.wordpress.com/end-user-documentation/ 
   * Analytics Engine: 
   * Project Website: 
   * XMPP Feed (twitter): 
@@ -41,6 +41,7 @@ _NOTE TO PROJECT ON THIS PAGE: If you see a correction/addition that needs to be
   * PIMS listing:
   * Core Project Resources:
   * Project Plan:
+  * Final Project Post: http://bibliosightnews.wordpress.com/2009/12/23/final-progress-post/ 
   * Final Budget:
   * Sign-off Form:
 
