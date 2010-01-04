@@ -40,7 +40,8 @@ RSS Feed From Project Blog: http://cloudbankblog.blogspot.com/feeds/posts/defaul
   * Project Plan:
   * Progress Posts RSS Feed
   * Final Budget
-  * Sign-off Form
+  * Final Progress Post: http://cloudbankblog.blogspot.com/2009/12/final-progress-post.html
+  * Sign-off Form:
 
 = Meetings =
 (reverse chronological order of scheduled face to face meetings)
