@@ -37,18 +37,12 @@ _NOTE TO PROJECT ON THIS PAGE: If you see a correction/addition that needs to be
   * XMPP Feed (twitter): @philbarker
   * RSS Feed From Project Blog: http://bayesianfeedfilter.wordpress.com/feed/
 
-<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="http://bayesianfeedfilter.wordpress.com/feed/" width="700" height="700" border="1" up_showaddbutton="20"/>
 
-  * Project Blog:
-  * Code Repository: https://sux0r.svn.sourceforge.net/svnroot/sux0r/branches/icbl/ 
-  * Technical Documentation: 
-  * End User Documentation: 
-  * Analytics Engine: 
-  * Project Website: http://www.icbl.hw.ac.uk/bayesff/ 
-  * XMPP Feed (twitter): 
+<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="http://bayesianfeedfilter.wordpress.com/feed/" width="700" height="700" border="1" up_showaddbutton="20"/>
+ 
   * PIMS listing: https://pims.jisc.ac.uk/projects/view/1360 
-  * Core Project Resources:
-  * Project Plan:
+  * Core Project Resources: Yes
+  * Project Plan: Yes
   * Final Project Post: http://bayesianfeedfilter.wordpress.com/2009/12/11/bayesff-final-post/ 
   * Final Budget:
   * Sign-off Form:
