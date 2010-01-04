@@ -22,11 +22,19 @@
 
 =Project Resources=
 
-    * www.filtermyrss.com/?URL=http://blog.mspace.fm/?feed=rss2&KEYWORDS=PAXS&c1=&c2=&c3=checked		
-    * http://paxs.mspace.fm/repos/paxs-advsearch/trunk, http://paxs.mspace.fm/repos/paxs-export/trunk	       
-    * http://paxs.mspace.fm
-    * www.google.com/analytics/		
-    * http://twitter.com/mspacedev
+  * Project Blog: http://blog.mspace.fm/category/jisc/paxs/ 
+  * Code Repository: http://paxs.mspace.fm/repos/paxs-advsearch/trunk
+  * Technical Documentation: 
+  * End User Documentation: 
+  * Analytics Engine: 
+  * Project Website: http://paxs.mspace.fm
+  * XMPP Feed (twitter): http://twitter.com/mspacedev
+  * PIMS listing:
+  * Core Project Resources:
+  * Project Plan:
+  * Final Project Post: http://blog.mspace.fm/2009/10/19/final-jiscri-progresspost-for-paxs-plugins-for-advanced-search-and-export-for-eprints/ 
+  * Final Budget: 
+  * Sign-off Form:
 
 
 =Meeting Notes=
