@@ -1,5 +1,5 @@
 #summary Clipper is looking to be the Picasa of video.
-#labels project,multimedia,flash,air,flex,User-Student,video,PM-DavidFFlanders,Call-03.09
+#labels project,multimedia,flash,air,flex,User-Student,video,PM-DavidFFlanders,Call-03.09,Status-Alpha,U-Teacher,U-Researcher
 
 = Project Description =
   * 10 second elevator pitch (how do you sell this to an early adopter?): 
@@ -11,7 +11,7 @@
 = Project Details =
   * Name of Host Institution: Carnegie College
   * JISC Programme/Strand: User Engagement
-  * Length of Project:
+  * Length of Project: 6 months
     * Project Start Date: 8/6/2009
     * Project End Date: 20/11/2009
   * Grant Awarded to Project: £33650
@@ -23,41 +23,24 @@
     * Will Gregory (ActionScript, Air, Flex dev)
     * Chris Norrie (Web Dev and Accessibility)
   * Project Director: Tom MacMaster (Head of CILT)
-  * Partners: n/a
   * Consultants: John Casey
 
 = Documentation =
-  * Core Project Resources
-    * Received: 7/6/2009 21:04:02 / Comments: Tag and OS License TBC / Approved: yes DFF 
-    * Located: http://spreadsheets.google.com/pub?key=po8dqZ_GuNf5Q2fd00xr9Vw&single=true&gid=0&range=b25:z25&output=html 
-  * Project Plan
-    * Received / Comments / Approved 
-    * Located:
-  * Progress Posts RSS Feed
-    * Received / Comments / Approved 
-    * Located:
-  * Final Budget
-    * Received / Comments / Approved 
-    * Located:
-  * Sign-off Form
-    * Received / Comments / Approved 
-    * Located:
-
-= Meetings =
-
-21 August 2009 at Carnegie College, Dumferline, Scotland
-
-Project based in CILT <- learner focus support, strategy around innovation and exciting ways to do real world tech.  Entrepreneurship ethos.  
-
-Project Team Relationships:
-
-http://farm4.static.flickr.com/3565/3855149599_2cdc01c1c8.jpg 
+ 
+<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="HTTP RSS FEED HERE" width="700" height="700" border="1" up_showaddbutton="20"/>
   
-End Users will be engaged with tool via two courses at CILT: 1.) Digital Studies (Digital Media Group), which start in Sept (mostly male, age ~20), and 2.) Beauty Therapies (mostly female, age ~19).
-
-Potential Business Cases: Buy-out from larger .com (VC model), Academic Tool Subscription?
-
-Technologies Considered: Adobe Air, Flex, MySqlLite, F4V, Progressive Video, Streaming, etc.
+  * Project Blog: http://blogs.carnegiecollege.ac.uk/clipper/
+  * Code Repository: http://code.google.com/p/clipper-carnegie-digitalinsite/downloads/list
+  * Technical Documentation: http://code.google.com/p/clipper-carnegie-digitalinsite/downloads/list
+  * End User Documentation: http://www.clipper.uk.com/media/support_docs/index.html 
+  * Project Website: http://www.clipper.uk.com/ 
+  * Analytics Engine: TBC
+  * PIMS listing: https://pims.jisc.ac.uk/projects/view/1341
+  * Core Project Resources: http://spreadsheets.google.com/pub?key=po8dqZ_GuNf5Q2fd00xr9Vw&single=true&gid=0&range=b25:z25&output=html 
+  * Project Plan / Bid: http://jiscri.googlecode.com/files/4%20Carnegie%20College%20Clipper.pdf
+  * Final Project Post: http://blogs.carnegiecollege.ac.uk/clipper/?p=219 
+  * Final Budget: http://jiscri.googlecode.com/files/Clipper-FinalBudget_JISCRI.xls
+  * Sign-off Form: TBC
 
 = Correspondance =
 Please see below in comments section for any and all correspondance by Programme Manager with the Projects. Also all edits that need to be made to this page please place in comments section and the author will correct.
