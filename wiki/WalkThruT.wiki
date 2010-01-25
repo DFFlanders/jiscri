@@ -1,5 +1,5 @@
 #summary SatNav for historical maps: a phone app that combines GPS technology with old maps to allow users to "walk through time".
-#labels mobile,maps,gps,iphone,android,app,web,User-Lecturer,User-Students,U-Student,java,project,PM-DavidFFlanders,Call-03.09,Status-Recommended
+#labels Status-Beta,U-Teacher,Theme-Mobile,User-Lecturer,User-Students,U-Student,project,PM-DavidFFlanders,Call-03.09,Status-Recommended
 
 = Project Description =
   * 10 second elevator pitch (how do you sell this to an early adopter?): 
@@ -27,16 +27,16 @@
 = Documentation =
 <wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="http://walkingthroughtime.eca.ac.uk/feed" width="700" height="700" border="1" up_showaddbutton="20"/>
 
-  * Project Blog:
-  * Code Repository: 
-  * Technical Documentation: 
-  * End User Documentation: 
+  * Project Blog: http://walkingthroughtime.eca.ac.uk
+  * Code Repository: http://walkingthrough.sourceforge.net/
+  * Technical Documentation: http://walkingthrough.sourceforge.net/ 
+  * End User Documentation: http://www.youtube.com/watch?v=bJwYv-6wgf8 
   * Analytics Engine: 
-  * Project Website:  
-  * PIMS listing:
+  * Project Website: http://walkingthroughtime.eca.ac.uk/ 
+  * PIMS listing: https://pims.jisc.ac.uk/projects/view/1350
   * Core Project Resources: http://spreadsheets.google.com/pub?key=po8dqZ_GuNf5Q2fd00xr9Vw&single=true&gid=0&range=b13:z13&output=html
-  * Project Plan:
-  * Final Project Post: 
+  * Project Plan / Bid: http://code.google.com/p/jiscri/downloads/detail?name=44%20Edinburgh%20College%20of%20Art%20WalkingThroughTime.pdf&can=2&q=walkthrut
+  * Final Project Post: http://walkingthroughtime.eca.ac.uk/?p=268 
   * Final Budget:
   * Sign-off Form:
 
