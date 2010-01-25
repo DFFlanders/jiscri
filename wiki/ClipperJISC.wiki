@@ -26,9 +26,7 @@
   * Consultants: John Casey
 
 = Documentation =
- 
-<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="HTTP RSS FEED HERE" width="700" height="700" border="1" up_showaddbutton="20"/>
-  
+
   * Project Blog: http://blogs.carnegiecollege.ac.uk/clipper/
   * Code Repository: http://code.google.com/p/clipper-carnegie-digitalinsite/downloads/list
   * Technical Documentation: http://code.google.com/p/clipper-carnegie-digitalinsite/downloads/list
