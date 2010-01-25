@@ -47,16 +47,4 @@ Project Progress Posts Feed: http://projects.kmi.open.ac.uk/era/vowlan/?feed=rss
   * Final Budget:
   * Sign-off Form:
 
-= Meeting =
-    * Use Cases and Type/Name of Real/Named Users: Student focused, biannual courses, 40 students per class (1/2 mobility impaired).  Voice is the needed technology. Duplex call of Voip vs. walkie-talkies.  Nick Bay, Aberdeen Cliff Face (being able to communicate through a million tons of granite.  Being able to speak over the images/video to give a context for what this media is saying.  Pedagogy is focused on student finding the answer (exploratory).  Tutor directs them where to find the answer. Idea of a "Sherpa carrying equipment".  
-        * user needs is obvious in hardware.  using scale to give context (penny or metre stick). wider screen is better, natural environment wants rectangle not square. 
-    * Technologies/Tools Using: Began with cisco 2.4Ghz router, to send netowrk around (high resolution images), IP Cameras -> set up videos and image gallery to show media ad hoc.  over 1km antennae need directional antennaes (transient network = speed of setup) -> backback antennae (4 locations in one day, set up in 5 minutes), battery innovation (better routers, ubiquity bullet), Nano Station 2 (directional longshots: 12 volts - 20 volts), led-acid batteries, voltage regularities 5 and 12 voltz), move batteries to mutli voltage lithium ion (2-8 watts per router, minimum of 8 hours), screens will suck most energy (2-3 hours).  
-      * Achieve rich media network, which means straight media line (away from bandwidth drop per hop), point to point fixed length.  First option: get wire there -> 2: point to point link (nano station: 20meg symetrical) -> 3: Voice over WLAN = asterisk on Asus eePC.    Using voice cancelling headphones (behind head for safety helmet).  User wanted hands free (using bum bag).  
-     * Future: could have better video, two viewpoints.  1 camera = far camera 5 frames per second (motion jpeg unicast); 2 camera = close camera (essential camera, high resolution, mpeg4, h264 <- get to work with linux <- work with activeX, ip camera, audio i/o, record capability, 12 volt <- surveillance community), JFSS file system (in swededen).  balance betwen video and audio with asterisk (pedagogical question of what is needed for the technology), 20 meg network.  multi-stream h264 could provide local fat stream and 3gpp cell phone stream. 
-Sam Leftner: Venezuela (270 cllumter 
-    * Building site cameras in Japan: capilio ricoh cameras, 8.0 megapixel with built in wifi, 
-    * Other in field work: Mark O'Leary at Janet: Orkny Island (Archealogy), Lancaster (Amergency Services: moutain rescue),
-    * Methodology: hardware is essential on user experience. 
-    * Sustainability / Success Plan / Business Case: 1.) further embedding into OU courses (content created to be reused for class material) ? 2.)  This kit works best in the hands of people who have used it => selling a team to come in and help.  To have a kit that a group can take out into the field.  Or team that can come and help use network: 30 Asus EeePCs in the field tested with 14 yoa  3.) Use inside an urban environment (Canada, .  4.) Disability support for students. 5.) Pro Bono (NGO) Africa infrastructure for network - hub and spoke model.  
-
 = Correspondance =
