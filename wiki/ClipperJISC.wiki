@@ -2,12 +2,12 @@
 #labels project,multimedia,flash,air,flex,User-Student,video,PM-DavidFFlanders,Call-03.09
 
 = Project Description =
-  * 10 second elevator pitch (how do you sell this to an early adopter?): Clipper aims to fill a gap in the toolset of those who use online audio-visual media for education and research. Clipper will allow users to identify, create, tag, mix, and manage clips from within online audio-visual resources as well as the ability to add their own textual notes.
-  * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them): Clipper is a tool to: identify, create, tag, mix, manage clips from inside online audio-visual resources, add notes.
-  * Questions this project answers:
-    * User Question (what itch does it scratch): students want something that gets rid of the overload of videos.  
-    * Community Question (how does this change the way things were done): 
-
+  * 10 second elevator pitch (how do you sell this to an early adopter?): 
+    * Clipper aims to fill a gap in the toolset of those who use online audio-visual media for education and research. Clipper will allow users to identify, create, tag, mix, and manage clips from within online audio-visual resources as well as the ability to add their own textual notes.
+  
+  * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them): 
+    * Clipper is a tool to: identify, create, tag, mix, manage clips from inside online audio-visual resources, add notes.
+  
 = Project Details =
   * Name of Host Institution: Carnegie College
   * JISC Programme/Strand: User Engagement
