@@ -1,20 +1,18 @@
 #summary "Cloudbank" is a crowd-sourced information system for advanced language learning.
-#labels project,PM-DavidFFlanders,Theme-Mobile,android,U-Student,php
-
-* Project Manager SLA
+#labels project,PM-DavidFFlanders,Theme-Mobile,android,U-Student,php,Status-Recommended,Status-Alpha,U-Teacher
 
 = Project Description =
-  * 10 second elevator pitch (how do you sell this to an early adopter?): The Cloud Bank project aims to build a mobile- and web-based crowd-sourced information system to help international students share their knowledge and understanding of the local language and culture. The system allows students to collect, annotate and tag language- and culture-related content found in everyday life, including text, images and other media, and to share these content items with other language learners.
+  * 10 second elevator pitch (how do you sell this to an early adopter?): 
+    * The Cloud Bank project aims to build a mobile- and web-based crowd-sourced information system to help international students share their knowledge and understanding of the local language and culture. The system allows students to collect, annotate and tag language- and culture-related content found in everyday life, including text, images and other media, and to share these content items with other language learners.
+  
   * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them):
-  * Questions this project answers:
-    * User Question (what itch does it scratch):
-    * Community Question (how does this change the way things were done): 
+    * Is facebook for students studying in a foreign country.
 
 = Project Details =
 
-  * Name of Host Institution: University of Brighton / School of Computing, Mathematical and Information Sciences
+  * Name of Host Institution: University of Brighton
+    * Department: School of Computing, Mathematical and Information Sciences
   * JISC Programme/Strand/Theme: INF11 / JISCRI / Mobile
-  * [? PIMS Link]
   * Length of Project: 6 months
     * Project Start Date: 15/06/2009	
     * Project End Date: 30/11/2009
@@ -32,48 +30,24 @@
   * Consultants: Graphic Designer <- Future platforms 
 
 = Documentation =
-RSS Feed From Project Blog: http://cloudbankblog.blogspot.com/feeds/posts/default
-
 <wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="http://cloudbankblog.blogspot.com/feeds/posts/default" width="700" height="700" border="1" up_showaddbutton="20"/>
 
+  * Project Blog: http://cloudbankblog.blogspot.com/ 
+  * Code Repository: http://code.google.com/p/cloudbank/
+  * Technical Documentation: http://code.google.com/p/cloudbank/wiki/Technical_Overview
+  * End User Documentation: http://www.youtube.com/user/CloudBankChannel / http://itrg.brighton.ac.uk/cloudbank/files/CloudBank_Mobile_User_Guide.pdf
+  * Analytics Engine: 
+  * Project Website: http://itrg.brighton.ac.uk/cloudbank/ 
+  * PIMS listing: https://pims.jisc.ac.uk/projects/view/1352
   * Core Project Resources: http://spreadsheets.google.com/pub?key=po8dqZ_GuNf5Q2fd00xr9Vw&single=true&gid=0&range=B21%3Az21&output=html
-  * Project Plan:
-  * Progress Posts RSS Feed
-  * Final Budget
-  * Final Progress Post: http://cloudbankblog.blogspot.com/2009/12/final-progress-post.html
+  * Project Plan / Bid: http://code.google.com/p/jiscri/downloads/detail?name=52%20University%20of%20Brighton%20CloudBank.pdf&can=2&q=cloudbank 
+  * Final Project Post: http://cloudbankblog.blogspot.com/2009/12/final-progress-post.html
+  * Final Budget: 
   * Sign-off Form:
 
-= Meetings =
-(reverse chronological order of scheduled face to face meetings)
+=Prototype=
 
-Project Meet&Greet, 2009-07-22, Moulsecomb, Watts Building, rm 602
-  * Agenda:
-    * Programme Manager SLA
-    
-    * SWOT analysis
-    * Documentation: Core Project Resources, Project Plan, Progress Posts 
-
-    * List Top Three Sprints/Workpackages and Level of Difficulty for each
-
-    * Use Cases and Type/Name of Real/Named Users:
-      * UberUsers: Postgraduate students on campus who are across the hall: four users.
-      * Pre-Session English Programme (Falmer): set up mtg with them
-      * 
- 
-    * Technologies/Tools Using (Standards, Methods, 
-      * WAP interface
-      * Android App
-      * ReST
-      * 
-
-    * Methodology (Agile, SCRUM, TDD, etc) --> Code Repo/Wiki/Site?
-      * 
-    * Sustainability / Success Plan / Business Case
-       * Sponsorship 
-       * Declen software
-       * Publishers
-       * Erasmus
-       * App 
+http://itrg.brighton.ac.uk/cloudbank/download.php
 
 = Correspondance =
 (descending chronological order)
