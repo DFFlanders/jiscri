@@ -2,14 +2,15 @@
 #labels project,linkeddata,foaf,semanticWeb,cerif,PM-DavidFFlanders,Theme-LinkedData,Call-03.09
 
 = Project Description =
-  * 10 second elevator pitch: The dotAC projects aims to develop a prototype Semantic Web demonstrator that synthesises research information from heterogeneous sources (institutional repositories and research council information systems), resolves name co-reference issues between the sources, and presents it to research-focussed end users through an interface that will allow them to explore the state of the research landscape in UKHE.
-  * Twitter description (120 character layman description): A Semantic Web tool for exploring the state of the research landscape in UK HE
-  * Questions this project answers:
-    * User Question (what itch does it scratch):
-    * Community Question (how does this change the way things were done):
+  * 10 second elevator pitch: 
+     * The dotAC projects aims to develop a prototype Semantic Web demonstrator that synthesises research information from heterogeneous sources (institutional repositories and research council information systems), resolves name co-reference issues between the sources, and presents it to research-focussed end users through an interface that will allow them to explore the state of the research landscape in UKHE.
+  
+  * Twitter description (120 character layman description): 
+    * A Semantic Web tool for exploring the state of the research landscape in UK HE
 
 = Project Details =
   * Name of Host Institution: University of Southampton
+    * Department: ECS
   * JISC Programme/Strand: Semantic Web / Linked Data
   * Length of Project: 6 months
     * Project Start Date: 1/6/2009
@@ -25,8 +26,6 @@
     * Ian Millard icm-at-ecs.soton.ac.uk
     * Hugh Glaser hg-at-ecs.soton.ac.uk
     * Les Carr lac-at-ecs.soton.ac.uk
-
-http://farm3.static.flickr.com/2436/4029452088_28e97b8f18_b.jpg
 
 = Documentation =
   * Code Repository: https://forge.ecs.soton.ac.uk/docman/?group_id=884
