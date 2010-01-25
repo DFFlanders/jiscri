@@ -1,5 +1,5 @@
 #summary A demonstrator prototype publishing platform for the JISC funding call and dissemination process.
-#labels PM-AndrewMcGregor,Call-03.09,blog,rss,wordpress,wordpressMU,Status-Recommended
+#labels PM-AndrewMcGregor,Call-03.09,Status-Recommended,Status-Beta,U-Librarian,U-Teacher,U-Researcher,U-Student,Theme-FeedsTags
 
 = Project Details =
   * University of Lincoln and Open University
@@ -10,10 +10,10 @@
   * A demonstrator prototype publishing platform for the JISC funding call and dissemination process.
 
 = Project Team =
-  * PM: Joss Winn	jwinn@lincoln.ac.uk	
+  * PM: Joss Winn, jwinn@lincoln.ac.uk	
   * DEV: Tony Hirst, tony.hirst@gmail.com
   * DEV: Eddie Tejeda, eddie.tejeda@gmail.com
-  * DEV: Alex Bilbie alex@alexbilbie.com		
+  * DEV: Alex Bilbie, alex@alexbilbie.com		
   * End User: Admininistrator (Librarian, Learning Technologist, etc)	
 
 = Project Resources = 
