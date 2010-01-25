@@ -2,11 +2,13 @@
 #labels PM-BalviarNotay,Theme-Personalisation,project,Call-03.09,Status-Recommended,Status-Complete,U-Researcher
 
 = Project Description =
-  * Full Name of Project (the project tag is the title of this page): Personalising Alerts with Bayesian Feed Filtering
+  * Full Name of Project (the project tag is the name of this page): Personalising Alerts with Bayesian Feed Filtering
 
-  * 10 second elevator pitch (how do you sell this to an early adopter?): The Bayesian Feed Filtering (BayesFF) project aims to allow individual researchers to identify those articles that are of interest to them from a set of RSS feeds of Journal Tables of Content by applying the same approach that is used to filter out junk emails. The project will implement a RESTful API for an existing open source feed aggregation and filtering package; investigate whether the filtering is effective enough to be helpful to users; and disseminate information about the potential of this approach within the JISC community.
+  * 10 second elevator pitch (how do you sell this to an early adopter?): 
+    *The Bayesian Feed Filtering (BayesFF) project aims to allow individual researchers to identify those articles that are of interest to them from a set of RSS feeds of Journal Tables of Content by applying the same approach that is used to filter out junk emails. The project will implement a RESTful API for an existing open source feed aggregation and filtering package; investigate whether the filtering is effective enough to be helpful to users; and disseminate information about the potential of this approach within the JISC community.
 
-  * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them): Developing a service to filtering RSS feeds to catch the stuff you're interested in.
+  * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them): 
+    *Developing a service to filtering RSS feeds to catch the stuff you're interested in.
 
 
 = Project Details =
