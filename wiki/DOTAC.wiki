@@ -1,5 +1,5 @@
 #summary A Semantic Web tool for exploring the state of the research landscape in the UK's Higher Education domain.
-#labels project,linkeddata,foaf,semanticWeb,cerif,PM-DavidFFlanders,Theme-LinkedData,Call-03.09
+#labels project,linkeddata,foaf,semanticWeb,cerif,PM-DavidFFlanders,Theme-LinkedData,Call-03.09,Status-Recommended,Status-Alpha,U-Researcher
 
 = Project Description =
   * 10 second elevator pitch: 
@@ -28,20 +28,26 @@
     * Les Carr lac-at-ecs.soton.ac.uk
 
 = Documentation =
-  * Code Repository: https://forge.ecs.soton.ac.uk/docman/?group_id=884
-  * Technical Documentation: TBC
-  * End User Documentation: TBC
+<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="http://blogs.ecs.soton.ac.uk/dotac/feed/"|"http://twitter.com/dotac" width="780" height="340" border="0" up_showaddbutton="0"/>
+
+  * Project Blog: http://blogs.ecs.soton.ac.uk/dotac
+  * Code Repository: https://forge.ecs.soton.ac.uk/docman/?group_id=884 / http://forge.ecs.soton.ac.uk/projects/dotac/
+  * Technical Documentation: http://dotac.info/docs/
+  * End User Documentation: http://dotac.info/docs/explorer/ / http://dotac.info/docs/editor/
   * Analytics Engine: 
   * Project Website: http://dotac.info/
-  * XMPP Feed (twitter): 
-  * PIMS listing:
-  * Core Project Resources:
-  * Project Plan:
-  * Final Budget:
+  * PIMS listing: https://pims.jisc.ac.uk/projects/view/1355
+  * Core Project Resources: http://spreadsheets.google.com/ccc?key=0ArsNASxXZiL6cG84ZHFaX0d1TmY1UTJmZDAweHI5Vnc&hl=en
+  * Project Plan / Bid: http://code.google.com/p/jiscri/downloads/detail?name=67%20University%20of%20Southampton%20dotAC.pdf&can=2&q=dotac 
+  * Final Project Post: http://blogs.ecs.soton.ac.uk/dotac/2009/11/30/final-report/
+  * Final Budget: 
   * Sign-off Form:
-  * RSS Feed From Project Blog: http://blogs.ecs.soton.ac.uk/dotac/feed/ 
 
-<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="http://blogs.ecs.soton.ac.uk/dotac/feed/"|"http://twitter.com/dotac" width="780" height="340" border="0" up_showaddbutton="0"/>
+= Prototype =
+
+http://dotac.info/explorer/
+
+http://dotac.info/editor/ 
 
 = Correspondance =
 Please see below in comments section for any and all correspondance by Programme Manager with the Projects.  Also all edits that need to be made to this page please place in comments section and the author will correct.
