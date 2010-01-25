@@ -1,5 +1,5 @@
 #summary explores generation of metadata about individuals and their likely community memberships.
-#labels project,PM-DavidFFlanders,Theme-Data,Call-12.08
+#labels project,PM-DavidFFlanders,Theme-Data,Call-12.08,Status-Recommended,Status-Alpha,U-Researcher,Theme-Personalisation
 
 = Project Descriptions =
 
