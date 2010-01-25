@@ -1,13 +1,12 @@
 #summary A portable voice over wireless local area network for learning/research taking place in remote areas.
-#labels wifi,voip,project,wlan,hardware,PM-DavidFFlanders,Theme-Mobile,Call-03.09,U-Student,U-Teacher,Status-Recommended
+#labels Status-Beta,U-Researcher,project,PM-DavidFFlanders,Theme-Mobile,Call-03.09,U-Student,U-Teacher,Status-Recommended
 
 = Project Description =
 
-  * 10 second elevator pitch (how do you sell this to an early adopter?): develop a robust, flexible and highly portable wireless communications network for use in educational collaborative group work. This network infrastructure could be used to support a broad range of learning, teaching and research activities. We are developing this system for use on geology fieldwork courses where we have established a clear need for reliable voice communication, a sense-of-presence video stream and the sharing of high-resolution digital images. The outstanding challenge to be addressed is to develop a wireless network that will prioritise the transfer of audio and video data in order to support a continuous dialogue between the students and lecturers. The project will use open source software and standard Wi-Fi technology to produce a reliable and flexible communication toolkit for mobile learning.
+  * 10 second elevator pitch (how do you sell this to an early adopter?): 
+    * Develop a robust, flexible and highly portable wireless communications network for use in educational collaborative group work. This network infrastructure could be used to support a broad range of learning, teaching and research activities. We are developing this system for use on geology fieldwork courses where we have established a clear need for reliable voice communication, a sense-of-presence video stream and the sharing of high-resolution digital images. The outstanding challenge to be addressed is to develop a wireless network that will prioritise the transfer of audio and video data in order to support a continuous dialogue between the students and lecturers. The project will use open source software and standard Wi-Fi technology to produce a reliable and flexible communication toolkit for mobile learning.
 
-  * Questions this project answers:
-    * User Question (what itch does it scratch):
-    * Community Question (how does this change the way things were done):
+  * Twitter pitch: enabling a mobile computer lab for the great outdoor lab.
 
 = Project Details =
 
@@ -18,7 +17,6 @@
     * Project End Date: 2009-11-30
   * Grant Awarded to Project: £22,367.00 
   * Project Website: http://projects.kmi.open.ac.uk/era/wiki
-    * https://pims.jisc.ac.uk/projects/view/1344
 
 = Project Team =
 http://projects.kmi.open.ac.uk/era/wiki/index.php/Team
@@ -29,22 +27,19 @@ http://projects.kmi.open.ac.uk/era/wiki/index.php/Team
   * Consultants: John Lea
 
 = Documentation =
-Project Progress Posts Feed: http://projects.kmi.open.ac.uk/era/vowlan/?feed=rss2
-
 <wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="http://projects.kmi.open.ac.uk/era/vowlan/?feed=rss2" width="700" height="700" border="1" up_showaddbutton="20"/>
 
+  * Project Blog: http://projects.kmi.open.ac.uk/era/vowlan/
   * Code Repository: N/A
-  * Technical Documentation: 
-  * End User Documentation: 
+  * Technical Documentation: http://projects.kmi.open.ac.uk/era/wiki/index.php/VoWLAN_Technical_Report_2009
+  * End User Documentation: http://projects.kmi.open.ac.uk/era/wiki/index.php/VoWLAN_Educational_Report_2009
   * Analytics Engine: 
   * Project Website: http://projects.kmi.open.ac.uk/era/wiki/index.php/Main_Page
-  * XMPP Feed (twitter): 
-  * Project Blog: http://projects.kmi.open.ac.uk/era/vowlan/
-
-  * PIMS listing:
-  * Core Project Resources:
-  * Project Plan:
-  * Final Budget:
-  * Sign-off Form:
+  * PIMS listing: https://pims.jisc.ac.uk/projects/view/1344
+  * Core Project Resources: 
+  * Project Plan /Bid: http://code.google.com/p/jiscri/downloads/detail?name=26%20Open%20University%20Portable%20VoWLAN.pdf&can=2&q=vowlan
+  * Final Project Post: http://projects.kmi.open.ac.uk/era/vowlan/?p=327 
+  * Final Budget: http://code.google.com/p/jiscri/downloads/detail?name=VoWLAN_FinalGudget.xls&can=2&q=vowlan
+  * Sign-off Form: 
 
 = Correspondance =
