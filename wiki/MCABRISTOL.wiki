@@ -9,7 +9,6 @@
     * The creation of a smart phone website and application to provide students with location and time sensitive information.
 
 = Project Details =
-  * [http://spreadsheets.google.com/pub?key=po8dqZ_GuNf5Q2fd00xr9Vw&single=true&gid=0&range=b37:z37&output=html Core Project Details]
   * Name of Host Institution: University of Bristol
   * JISC Programme/Strand: Mobile 
   * Length of Project: 6 months
