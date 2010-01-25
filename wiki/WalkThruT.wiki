@@ -2,13 +2,11 @@
 #labels mobile,maps,gps,iphone,android,app,web,User-Lecturer,User-Students,U-Student,java,project,PM-DavidFFlanders,Call-03.09,Status-Recommended
 
 = Project Description =
-  * 10 second elevator pitch (how do you sell this to an early adopter?): Walking Through Time is a mobile application that will allow smart phone users with built-in GPS to not only find themselves in the present, but find themselves in the past. By making available historical UK maps, users will be able to scroll through time and navigate places using maps that are hundreds of years old.
+  * 10 second elevator pitch (how do you sell this to an early adopter?): 
+    * Walking Through Time is a mobile application that will allow smart phone users with built-in GPS to not only find themselves in the present, but find themselves in the past. By making available historical UK maps, users will be able to scroll through time and navigate places using maps that are hundreds of years old.
 
-  * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them): Walking Through Time is a mobile application that will allow smart phone users with built-in GPS to not only find themselves in the present, but find themselves in the past. By making available historical UK maps, users will be able to scroll through time and navigate places using maps that are hundreds of years old.
-
-  * Questions this project answers:
-    * User Question (what itch does it scratch):
-    * Community Question (how does this change the way things were done):
+  * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them): 
+    * Walking Through Time is a mobile application that will allow smart phone users with built-in GPS to not only find themselves in the present, but find themselves in the past. By making available historical UK maps, users will be able to scroll through time and navigate places using maps that are hundreds of years old.
 
 = Project Details =
   * Name of Host Institution: University of Edinburgh
@@ -27,34 +25,20 @@
   * Consultants: Edina
 
 = Documentation =
-
 <wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="http://walkingthroughtime.eca.ac.uk/feed" width="700" height="700" border="1" up_showaddbutton="20"/>
 
-  * Core Project Resources: Completed 6/23/2009 20:09:16 / DFF: All filled in. / Approved 
-    * http://spreadsheets.google.com/pub?key=po8dqZ_GuNf5Q2fd00xr9Vw&single=true&gid=0&range=b13:z13&output=html
-
-= Meetings =
-
-21 August 2009
-
-Project Team Relationships:
-http://farm4.static.flickr.com/3565/3855149599_2cdc01c1c8.jpg
-
-End Users:  Two user groups of students: 1.) Miles has Master student in Conservation and 2.) Ian has course in Architectural History.  Initial student user group all have various interests in conservation of architecture, as part of their course work.  Idea will be to work through scenarios ("walk thrus").  They'll have a day to go out in the city, to work in pairs with iPhone/Android between them.  They will explore the city and interact with space based on what they are inteesteted in (disease, stone decay, sewers, etc).  As they move through teh space they'll tag what they are experiencing based on the historical maps they are in.  Once they return, they will (based upon their tags) create a pathway of narrative on their map via the tags they created while out in the field.  They will then swap with another pair of students and walk through their map on another day.  Red tag is authoritative, green is a social tag, and purple is your own tag.   
-
-Technical Process: 
-  * using balsamique for app design
-  * Petra is JAVA developer using spring and hibernate on the server interfacee and Petra are web developers coipra, C++, WMF, AJAX, jQuery, javascript as frontend on GoogleMaps, 
-  * Dave and Petra scope WPs based on how much time they think it will take to achieve.  
-  * Process: where the user start? > 2009 > then google overlay to go back in time > pick which time map they want to go to  (would like markers to help encourage them which maps to choose based on which map > googleCalEuro
-  * interested in: cartogen vector html5
-
-Methodology: Iterative Agile Development, Sprints (2 week timeboxde), Petra and Dave are in same office to bounce ideas off on one another throughout the day.  After 2/3 workpackages they have made it to beta app.
-
-Dissemination: get famous ppl to mark out their path and broadcast that, story to sell? 
-
-Potential business models: tourism historical walks, tomTom model (red dots corporate route), celebrity historian walk through of map (Stephen Fry)... 
-
+  * Project Blog:
+  * Code Repository: 
+  * Technical Documentation: 
+  * End User Documentation: 
+  * Analytics Engine: 
+  * Project Website:  
+  * PIMS listing:
+  * Core Project Resources: http://spreadsheets.google.com/pub?key=po8dqZ_GuNf5Q2fd00xr9Vw&single=true&gid=0&range=b13:z13&output=html
+  * Project Plan:
+  * Final Project Post: 
+  * Final Budget:
+  * Sign-off Form:
 
 = Correspondance =
 Please add any comments or edits to be made to the comments section below.
