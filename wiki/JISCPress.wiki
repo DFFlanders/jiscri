@@ -18,14 +18,25 @@
 
 = Project Resources = 
 
-  * project blog feed: http://jiscpress.blogs.lincoln.ac.uk/feed/
-  * code repository: http://code.google.com/p/jiscpress/source/checkout	
-  * Analytics engine: Not yet set up. Will use Google Analytics and Piwik	
-  * Other related URL: http://josswinn.org	
-  * Twitter: http://twitter.com/jiscpress
-  * http://friendfeed.com/jiscpress	
-  * http://jiscpress.blogs.lincoln.ac.uk
-  * http://jiscpress.uservoice.com/
+<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="HTTP RSS FEED HERE" width="700" height="700" border="1" up_showaddbutton="20"/>
+  
+  * Project Blog: http://jiscpress.blogs.lincoln.ac.uk/
+  * Project Twitter: http://twitter.com/jiscpress
+  * Code Repository: http://code.google.com/p/jiscpress/source/checkout	
+  * Technical Documentation: http://code.google.com/p/jiscpress/source/ / http://code.google.com/p/digressit/source/
+  * End User Documentation: http://code.google.com/p/jiscpress/wiki/Documentation 
+  * Analytics Engine: 
+  * Project Website: http://jiscpress.blogs.lincoln.ac.uk
+  * PIMS listing: https://pims.jisc.ac.uk/projects/view/1348
+  * Core Project Resources: http://spreadsheets.google.com/pub?key=po8dqZ_GuNf5Q2fd00xr9Vw&output=html
+  * Project Plan / Bid: http://code.google.com/p/jiscri/downloads/detail?name=39%20University%20of%20Lincoln%20JISCPress.pdf&can=2&q=jiscpress 
+  * Final Project Post: http://jiscpress.blogs.lincoln.ac.uk/2009/12/01/final-progress-post/
+  * Final Budget: 
+  * Sign-off Form:
+
+= Prototype =
+Beta - http://jiscpress.org
+Beta - http://writetoreply.org 
 							
 = Correspondance =
 Please see below in comments section for any and all correspondance by Programme Manager with the Projects.  Also all edits that need to be made to this page please place in comments section and the author will correct.
