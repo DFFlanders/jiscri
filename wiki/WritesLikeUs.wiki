@@ -1,63 +1,27 @@
 #summary explores generation of metadata about individuals and their likely community memberships.
 #labels project,PM-DavidFFlanders,Theme-Data,Call-12.08
 
-=Project Descriptions / Outputs=
+= Project Descriptions =
+
+  * 10 sec pitch: The writeslike.us project explores the question of generating metadata about individuals and their likely community memberships. It is a practical development project for development of a prototype repository enhancement service and sample interface, proposing candidate community participation information from analysis of existing documents & metadata. 
+
+  * Two sentence project pitch: match.com for researchers
+
   * What question does the project answer?
-    # Do you need people to sit down and declare social networks or can a machine automatically suggest that network (the ties that bind) for you?
-  * Two sentence project pitch: explores generation of metadata about individuals and their likely community memberships.
-  * Official Project Description: The writeslike.us project explores the question of generating metadata about individuals and their likely community memberships. It is a practical development project for development of a prototype repository enhancement service and sample interface, proposing candidate community participation information from analysis of existing documents & metadata. 
+    * Do you need people to sit down and declare social networks or can a machine automatically suggest that network (the ties that bind) for you?
 
 
-
-
-= Introduction =
-
-==Project Details==
+=Project Details=
   * A4-8 
   * University of Bath, UKOLN
   * writeslike.us 
   * 6 months 4/1/2009 10/1/2009
-  * 29427
+  * £29427
 
-==Project Team==
+=Project Team=
   * Project Director = Michael Day m.day(at)ukoln.ac.uk
   * Project Manager / Developer = Emma Tonkin
   * Developer = Alex Strelnikov
 
 
-=Meetings=
-
-==Mtg on 07 May 2009==
-
-====SWOT:====
-  * Strengths:
-    * existing resources ready to be exploited for social network data <- Intute IRS dataset
-    * We need to be able to recognise scholarly networks
-  * Weaknesses:
-    * requires data throughput and compute time to process
-    * mathematically intensive experimentation with algorithms 
-    * precision (++) vs. recall (-)
-  * Opportunities:
-    * Could be a game changer for delivering scholarly resources to the right scholarly social networks
-    * Some relations should be exposed of networks (~40%) and potentially more (~%60?)
-  * Threats:
-    * Minimal staff time to devote to complex problems in algorithm adjustment 
-
-====Workpackage-Sprints====
-list out the top three most immediate code sprints to be done along with an effort required rating 1-5 (i.e. little effort = 1 : good deal of effort = 5)?
-
-  # Ascribe data to person: assign scholarly profile index to a name (X1)
-  # Find unique data points for each person <- names, ldap, etc. (X3)
-  # Test algorythm social network lasso (X5)
-  # Create widget to show academic social network (X2)
-
-names and a quick biog for a handful of end user currently involved in the project?
-
-preference for managing the project, e.g. prince, waterfall, agile, scrum, etc.
-
-potential business cases for making the stuff creating viable in the long term, e.g. how do you see the project resources being funded beyond the life of this project?
-
-====Notes====
-
-http://farm4.static.flickr.com/3401/3510545366_cd6ede23ae.jpg?v=0
-http://farm4.static.flickr.com/3309/3510544930_5017424e4e.jpg?v=1241793405
+= Comments =
