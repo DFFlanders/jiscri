@@ -1,79 +1,39 @@
 #summary A semantic Information Service stimulating interaction between Researchers, Public Sector publishers, and information mashup creators
-#labels project,SemanticWeb,PM-DavidFFlanders,Call-03.09,linkeddata
-
-_NOTE TO PROJECT ON THIS PAGE: If you see a correction/addition that needs to be made in this page please place edits in the comments section at the bottom of this page and I will change, please do not email me. /dff_
-
- * SLA for Programme Manager
+#labels project,SemanticWeb,PM-DavidFFlanders,Call-03.09,linkeddata,U-Developer,U-Researcher
 
 = Project Description =
   * 10 second elevator pitch (how do you sell this to an early adopter?): A collaboration between the University of Southampton and the UK government to provide a new form of ‘community provisioned’ Information Service that stimulates interaction between the Research community, Public Sector Information publishers, and the new information intermediaries, the ‘mashup creators’.
 
   * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them): A semantic Information Service stimulating interaction between Researchers, Public Sector publishers, and information mashup creators
 
-  * Questions this project answers:
-    * User Question (what itch does it scratch):
-    * Community Question (how does this change the way things were done):
-
 = Project Details =
-  * Core Project Details
-  * Name of Host Institution: 
-  * JISC Programme/Strand: 
-  * Length of Project:
-    * Project Start Date:
-    * Project End Date:
-  * Grant Awarded to Project:
+
+  * Name of Host Institution: University of Southampton
+  * JISC Programme/Strand: LinkedData, Researcher, Developer
+  * Length of Project: 6 months
+    * Project Start Date: 2009-06-01
+    * Project End Date: 2009-11-30
+  * Grant Awarded to Project: £39,154.00
 
 = Project Team =
-  * Product Owner:
-  * Developer:
-  * Admin:
-  * Partners:
-  * Consultants:
+  * Product Owner: John Darlington
+  * Developers: Joe Lambert, Hazzaz Imtiaz, Benedicto Rodriguez Castro, Manuel Salvadores, Christos Koumenides
 
 = Documentation =
-RSS Feed From Project Blog:
 
-  * Core Project Resources
-    * Received date:
-    * Comments:
-    * Approved:
-    * Locations:
-  * Project Plan
-    * Received date:
-    * Comments:
-    * Approved:
-    * Locations:
-  * Progress Posts RSS Feed
-    * Received date:
-    * Comments:
-    * Approved:
-    * Locations:
-  * Final Budget
-    * Received date:
-    * Comments:
-    * Approved:
-    * Locations:
-  * Sign-off Form
-    * Received date:
-    * Comments:
-    * Approved:
-    * Locations:
+<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="HTTP RSS FEED HERE" width="700" height="700" border="1" up_showaddbutton="20"/>
+  
+  * Project Blog: N/A <-- see below in comments section for reports
+  * API: http://www.openpsi.org/test-sparql.html
+  * Technical Documentation: N/A
+  * End User Documentation: N/A
+  * Analytics Engine: (see below)
+  * Project Website: http://www.openpsi.org/
+  * PIMS listing: https://pims.jisc.ac.uk/projects/view/1349
+  * Project Bid: http://code.google.com/p/jiscri/downloads/detail?name=42%20University%20of%20Southampton%20OpenPSI.pdf&can=2&q=#makechanges
+  * Final Project Post: (see below)
+  * Final Budget: ?
+  * Sign-off Form: ?
 
-= Meetings =
-(reverse chronological order of scheduled face to face meetings)
-
-First Meeting, Date of Meeting, Location of Meeting
-  * Agenda:
-    * Programme Manager SLA:
-    * SWOT:
-    * Documentation: Core Project Resources, Project Plan, Progress Posts 
-    * List Top Three Sprints/Workpackages and Level of Difficulty for each
-    * Use Cases and Type/Name of Real/Named Users:
-    * Technologies/Tools Using (Standards, Methods, 
-    * Methodology (Agile, SCRUM, TDD, etc) --> Code Repo/Wiki/Site?
-    * Sustainability / Success Plan / Business Case
-
-= Correspondance =
-Please see below in comments section for any and all correspondance by Programme Manager with the Projects.  Also all edits that need to be made to this page please place in comments section and the author will correct.
-  * Email, Phone calls, twitters, links sent, etc.
-  * Remind projects regarding best practice in FOI.
+= Correspondance (below as comments) =
+Please see below in comments section for any and all correspondance by Programme Manager with the Projects.  Please include any links, texts, phone calls, twitters, links and or any other info on the management of the project.  Please note: all edits that need to be made to this page please place in comments section and the author will correct.
