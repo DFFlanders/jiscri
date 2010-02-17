@@ -25,6 +25,8 @@
   * Developer: Santiago Chumbe, santiago@icbl.hw.ac.uk  
   * Developer: Lisa Rogers, mthljr@macs.hw.ac.uk	
 
+http://farm3.static.flickr.com/2718/4361693579_ebdac25683.jpg
+
 = Documentation =
   * Code Repository: https://sux0r.svn.sourceforge.net/svnroot/sux0r/branches/icbl/
   * Technical Documentation: https://sux0r.svn.sourceforge.net/svnroot/sux0r/branches/icbl/documentation/
