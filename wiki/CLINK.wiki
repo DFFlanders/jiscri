@@ -21,7 +21,13 @@
 
 = Project Team =
   * Product Owner: Peter Cowling, p.i.cowling@bradford.ac.uk
-  * Developers: Stephen Remde <s.m.remde@bradford.ac.uk>, Tom Woolley <Tom.Woolley@nationalmediamuseum.org.uk>, Joe Brook <Joe.Brook@nationalmediamuseum.org.uk>, Peter Hartley <p.hartley@bradford.ac.uk>, Will Stewart <w.stewart@bradford.ac.uk>
+  * Developer: 
+    * Stephen Remde <s.m.remde@bradford.ac.uk>, 
+  * Partners:
+    * Tom Woolley <Tom.Woolley@nationalmediamuseum.org.uk>, 
+    * Joe Brook <Joe.Brook@nationalmediamuseum.org.uk>, 
+    * Peter Hartley <p.hartley@bradford.ac.uk>, Teaching Quality Enhancement Group
+    * Will Stewart <w.stewart@bradford.ac.uk>
 
 = Documentation =
   * Code Repository: http://code.google.com/p/conceptlinkage/
