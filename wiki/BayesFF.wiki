@@ -1,5 +1,5 @@
 #summary filtering feeds for items of relevance using toc data from tictocs
-#labels PM-BalviarNotay,Theme-Personalisation,project,Call-03.09,Status-Recommended,Status-Complete,U-Researcher
+#labels PM-BalviarNotay,Theme-Personalisation,project,Call-03.09,Status-Recommended,Status-Complete,U-Researcher,Status-Archived
 
 = Project Description =
   * Full Name of Project (the project tag is the name of this page): Personalising Alerts with Bayesian Feed Filtering
