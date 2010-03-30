@@ -1,5 +1,5 @@
 #summary creating template teaching/learning workflows atop Alfresco CMS using BPML
-#labels project,alfresco,bpmn,User-Student,BPML,workflow,pedagogy,Call-12.08,PM-DavidFFlanders,U-Developer,Theme-Mashup,Status-Complete
+#labels project,alfresco,bpmn,User-Student,BPML,workflow,pedagogy,Call-12.08,PM-DavidFFlanders,U-Developer,Theme-Mashup,Status-Complete,Status-Archived
 
 NOTE TO PROJECTS RE THIS PAGE: If you see a correction/addition that needs to be made in this page please place edits in the comments section at the bottom of this page and I will change, please do not email me. /dff
 
