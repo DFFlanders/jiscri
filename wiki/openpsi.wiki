@@ -1,5 +1,5 @@
 #summary A semantic Information Service stimulating interaction between Researchers, Public Sector publishers, and information mashup creators
-#labels project,SemanticWeb,PM-DavidFFlanders,Call-03.09,linkeddata,U-Developer,U-Researcher
+#labels project,SemanticWeb,PM-DavidFFlanders,Call-03.09,linkeddata,U-Developer,U-Researcher,Status-Archived
 
 = Project Description =
   * 10 second elevator pitch (how do you sell this to an early adopter?): A collaboration between the University of Southampton and the UK government to provide a new form of ‘community provisioned’ Information Service that stimulates interaction between the Research community, Public Sector Information publishers, and the new information intermediaries, the ‘mashup creators’.
