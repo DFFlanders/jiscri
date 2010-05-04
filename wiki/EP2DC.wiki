@@ -1,5 +1,5 @@
 #summary a module for eprints that supports the submission of xml formatted data with the associated manuscript.
-#labels project,Theme-Data,PM-DavidFFlanders,cloud,Status-Complete,Call-03.09,U-Researcher,Theme-StructuredData
+#labels project,Theme-Data,PM-DavidFFlanders,cloud,Status-Complete,Call-03.09,U-Researcher,Theme-StructuredData,Status-Archived
 
 = Project Description =
   * 10 second elevator pitch (how do you sell this to an early adopter?): The objective is to develop a prototype module to enable the EPrints repository to support the 5ubmission of XML-formatted experimental data together with the manuscript to which they correspond. The basic motivations for the work are to promote the conservation of experimental data and to link data to publications. As Semantic technologies become established, the ever-increasing body of experimental data will provide new opportunities for knowledge discovery within and across disciplines.							
