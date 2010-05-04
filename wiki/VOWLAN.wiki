@@ -1,5 +1,5 @@
 #summary A portable voice over wireless local area network for learning/research taking place in remote areas.
-#labels Status-Beta,U-Researcher,project,PM-DavidFFlanders,Theme-Mobile,Call-03.09,U-Student,U-Teacher,Status-Recommended
+#labels Status-Beta,U-Researcher,project,PM-DavidFFlanders,Theme-Mobile,Call-03.09,U-Student,U-Teacher,Status-Recommended,Status-Archived
 
 = Project Description =
 
