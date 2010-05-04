@@ -1,5 +1,5 @@
 #summary enhancing eprints to display a summary view of a repository object when a link to an eprints document is hovered over with the mouse. In the case of mobiles it will present an intermediate page before going over the the next page.
-#labels project,PM-DavidFFlanders,Theme-Personalisation,Call-03.09
+#labels project,PM-DavidFFlanders,Theme-Personalisation,Call-03.09,Status-Archived
 
 
 = Project Description =
