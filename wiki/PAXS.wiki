@@ -1,5 +1,5 @@
 #summary creating 'advances search' and 'metadata extraction' plugings for ePrints
-#labels project,PM-DavidFFlanders,Call-12.08,U-Researcher,Theme-Data
+#labels project,PM-DavidFFlanders,Call-12.08,U-Researcher,Theme-Data,Status-Archived
 
 
 =Project Description=
@@ -32,7 +32,7 @@ http://farm5.static.flickr.com/4034/4364922336_093f10f656_o.jpg
   * Analytics Engine: 
   * Project Website: http://paxs.mspace.fm
   * XMPP Feed (twitter): http://twitter.com/mspacedev
-  * PIMS listing:
+  * PIMS listing: https://pims.jisc.ac.uk/outputs/view/3667
   * Core Project Resources:
   * Project Plan:
   * Final Project Post: http://blog.mspace.fm/2009/10/19/final-jiscri-progresspost-for-paxs-plugins-for-advanced-search-and-export-for-eprints/ 
