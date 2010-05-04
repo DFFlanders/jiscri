@@ -1,5 +1,5 @@
 #summary Clipper is looking to be the Picasa of video.
-#labels project,User-Student,PM-DavidFFlanders,Call-03.09,Status-Alpha,U-Teacher,U-Researcher,Status-Recommended
+#labels project,User-Student,PM-DavidFFlanders,Call-03.09,Status-Alpha,U-Teacher,U-Researcher,Status-Recommended,Status-Archived
 
 = Project Description =
   * 10 second elevator pitch (how do you sell this to an early adopter?): 
@@ -8,7 +8,7 @@
   * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them): 
     * Clipper is a tool to: identify, create, tag, mix, manage clips from inside online audio-visual resources, add notes.
   
-= Project Details =
+= Project Details =https://pims.jisc.ac.uk/outputs/view/3672
   * Name of Host Institution: Carnegie College
   * JISC Programme/Strand: User Engagement
   * Length of Project: 6 months
