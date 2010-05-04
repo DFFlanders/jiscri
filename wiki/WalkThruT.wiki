@@ -1,5 +1,5 @@
 #summary SatNav for historical maps: a phone app that combines GPS technology with old maps to allow users to "walk through time".
-#labels Status-Beta,U-Teacher,Theme-Mobile,User-Lecturer,User-Students,U-Student,project,PM-DavidFFlanders,Call-03.09,Status-Recommended
+#labels Status-Beta,U-Teacher,Theme-Mobile,User-Lecturer,User-Students,U-Student,project,PM-DavidFFlanders,Call-03.09,Status-Recommended,Status-Archived
 
 = Project Description =
   * 10 second elevator pitch (how do you sell this to an early adopter?): 
