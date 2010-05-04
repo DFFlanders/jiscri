@@ -1,5 +1,5 @@
 #summary a tool to help with the creation organisation and annotation of linked data using record cards (post-it notes) as a metaphor.
-#labels project,PM-DavidFFlanders,Call-03.09,Theme-LinkedData,U-Teacher,Status-Recommended,Status-Alpha,U-Researcher,Theme-Visualisation
+#labels project,PM-DavidFFlanders,Call-03.09,Theme-LinkedData,U-Teacher,Status-Recommended,Status-Alpha,U-Researcher,Theme-Visualisation,Status-Archived
 
 = Project Description =
   * 10 second elevator pitch: 
