@@ -1,5 +1,5 @@
 #summary "Cloudbank" is a crowd-sourced information system for advanced language learning.
-#labels project,PM-DavidFFlanders,Theme-Mobile,U-Student,Status-Recommended,Status-Alpha,U-Teacher
+#labels project,PM-DavidFFlanders,Theme-Mobile,U-Student,Status-Recommended,Status-Alpha,U-Teacher,Status-Archived
 
 = Project Description =
   * 10 second elevator pitch (how do you sell this to an early adopter?): 
@@ -8,7 +8,7 @@
   * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them):
     * Is facebook for students studying in a foreign country.
 
-= Project Details =
+= Project Details =https://pims.jisc.ac.uk/projects/view/1352
 
   * Name of Host Institution: University of Brighton
     * Department: School of Computing, Mathematical and Information Sciences
