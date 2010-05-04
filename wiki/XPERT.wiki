@@ -3,167 +3,41 @@
 
 =Project Description=
   * Short: Develop distributed repository of learning materials created via Xerte Online Toolkit.
-  * 10 second: Project is extending the Xerte online packaging tool which creates learning resources to expose an RSS feed of the content so it can be syndicated to a central store of learning content.
+  * Long: Project is extending the Xerte online packaging tool which creates learning resources to expose an RSS feed of the content so it can be syndicated to a central store of learning content.
   * Video intro to tool = http://www.youtube.com/watch?v=ZmZQaQu5z4Y 
-  * Questions project answers: 
 
 = Project Details =
   * A3-10 University of Nottingham 
   * 6 months 4/1/2009 10/1/2009
-  * £59777 
+  * Grant Funding £59777 
 
 ==Project Team/Partners==
   * Project manager: Andy Beggan (lead of learning team at Nottingham)andy.beggan[deleteThis]@nottingham.ac.uk
   * Project Admin: Alison Johnson's (facilitate, organise and disseminate the activities of the project)
   * Developers: Julian Tenney and Patrick Lockley
-  * University of Bolton: Roy Attwood and Brett Haslam
-    * Installation and user testing feedback
-  * JISC TechDis: 
+  * Partners
+    * University of Bolton: Roy Attwood and Brett Haslam
+      * Installation and user testing feedback
+    * JISC TechDis: 
      * Providing teaching material and support documentation on how to use XERTE
      * Installing 
 
 = Documentation =
-RSS Feed From Project Blog: http://webapps.nottingham.ac.uk/elgg/xpert/weblog/rss
-
 <wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="http://webapps.nottingham.ac.uk/elgg/xpert/weblog/rss" width="700" height="700" border="1" up_showaddbutton="20"/>
 
-  * Core Project Resources
-    * Received date:
-    * Comments:
-    * Approved:
-    * Locations:
-  * Project Plan
-    * Received date:
-    * Comments:
-    * Approved:
-    * Locations:
-  * Progress Posts RSS Feed
-    * Received date:
-    * Comments:
-    * Approved:
-    * Locations:
-  * Final Budget
-    * Received date:
-    * Comments:
-    * Approved:
-    * Locations:
-  * Sign-off Form
-    * Received date:
-    * Comments:
-    * Approved:
-    * Locations:
-
-= Meetings =
-
-== Demo of RSS output from tool ==
-
-http://www.nottingham.ac.uk/xpert/ <- 9 June 2009
-
-==Meeting on 5th of May at 9am w/ Project Team and Steering Board==
-
-Actions:
-  * Go over Core project info: uniquely identifiable web tag for the project!!!
-  * Sign off on ProgManger SLA: please sign in the comments section of ServiceLevelAgreement page
-  * Look at pedagogical patterns exposed: Tom Boyle (RLO-CETL), Andrew Boyle (AMSET), 
-  * Talk to Scott Wilson: Apache Shindig installation of XERTE on Moodle, Sakai and Blackboard
-  * Business Cases for how XERTE could be submitted 
-
-===SWOT analysis:===
-
-Strengths:
-  * Synergy with national strategies OER
-  * Works for most people most of the time
-  * (x1) user friendly, ease of use
-  * Cost of implementation
-  * Rapid production with minimal technical expertise
-  * Automation of publishing process
-  * Open Access
-  * TechDis endorsement
-  * IT IS FREE!
-  * Already have a user community
-  * Separation of concerns in code: xml backbone vs run time ? <- Is there a programming pattern being used, e.g. MVC, RMR?
-
-Weaknesses:
-  * Timescale - 5 months
-  * small number of partners (content generation)
-  * Trying to serve too many customers (bespoke vs generic)
-  * Lack of awareness of open content?
-  * Academic buy in, getting people to use it, using eLearning more generally
-  * Fear of publishing openly <- culture of change
-  * credibility of being a Nottingham product <- market posititon
-  * Written in ActionScript
-
-Opportunities:
-  * Completion date in September (short)
-  * Dissemination at ALT
-  * Rich content can attract new distance learning audiences: team teaching including international, adult learners, hospitalised learners, Jorum-haters...
-  * cross referencing like Amazon <- other users have liked this resource
-  * Legal requirement for open learning license
-  * FE communities
-  * National Standard for HE content creation?
-  * DDA or DED legislation for legal requirements in Accessibility requirements
-  * ongoing funding and potential funding
-  * using it for staff development: teach the teachers
-  * Training events
-  * get international recognition
-  * Try before you buy <--! is it easy to install? political battles to get it installed (digital signature for exe?)
-
-Threats:  
-  * (x1)Commercial competition
-  * Summer Holiday
-  * Timeliness for engaging academic staff and learners
-  * Customer perception of e-learning
-  * Repository fatique
-  * Open Learn competition
-  * Reusuable learning objects becoming fragmented
-  * Overhead of supporting multiple users
-  * list out the top three most immediate code sprints to be done along with an effort required rating 1-5 (i.e. little effort = 1 : good deal of effort = 5)?
-  * names and a quick biog for a handful of end user currently involved in the project?
-  * preference for managing the project, e.g. prince, waterfall, agile, scrum, etc.
-  * potential business cases for making the stuff creating viable in the long term, e.g. how do you see the project resources being funded beyond the life of this project?
-  * misuse of tool by others <- how tool can be used
-  * multimedia content integration: skills of lecturers 
-  * future funding, sustainability
-
-===workflow===
-http://farm4.static.flickr.com/3542/3503403445_67e1ab17fa.jpg?v=0
-
-sign up for tool > install tool > allow RSS feed to be aggregated > enter email address for attribution > confirmation link in email > admin console to turn feed off > 
-
-how academic publishes?
-* opt in / opt out : publish
-* Q/A process
-
-<--! is there a clickable tick and take down policy? -->
-
-Notes:
-* packages are not http addressable. <- use cases for http granularity?
-
-* achieve beta prototype of aggregator
-* set of tools for developers:
-** actionscript open source
-* 200 developers on mailiing list: 
-* 3000 hits
-** toolkits atop language: form fill
-
-* creating the open source community to support XERTE documentation, screencast and installation? <--! who supports the creation and support of this community?
-
-
-Audience: Further Education
-Moodle and Xerte on a stick <- xerte toolkit on a USB
-
-Last Friday of the month have a online tutorial, supoprted by techdis, 
-
-
-
-code sprints:
-* installed in other institutions
-* aggregatre RSS feeds: 
-
-user install toolkit, after install asks to submit to repository -> RSS push -> [entity] -> push items into Repository 
-
-presenting at Alt-C in Manchester 2009
-attendance at Friday events
+  * Project Blog: http://webapps.nottingham.ac.uk/elgg/xpert/weblog/
+    * Feed: http://webapps.nottingham.ac.uk/elgg/xpert/weblog/rss
+  * Code Repository: http://code.google.com/p/xerte
+  * Technical Documentation: http://webapps.nottingham.ac.uk/elgg/search/rss.php?tag=codeBlog
+  * End User Documentation: 
+  * Analytics Engine: 
+  * Project Website: http://www.nottingham.ac.uk/xpert
+  * PIMS listing: https://pims.jisc.ac.uk/projects/view/1268
+  * Core Project Resources: 
+  * Project Plan: YES
+  * Final Project Post: http://webapps.nottingham.ac.uk/elgg/xpert/weblog/2405.html
+  * Final Budget: http://code.google.com/p/jiscri/downloads/detail?name=Xpert-FinalBudget_JISCRI.xlsx&can=2&q=
+  * Sign-off Form: YES
 
 = Correspondance =
   * 2009-07-14 change of project date from 18 month project to 6 month project as agree by Neil J and DFF
