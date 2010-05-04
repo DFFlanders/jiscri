@@ -1,5 +1,5 @@
 #summary A Semantic Web tool for exploring the state of the research landscape in the UK's Higher Education domain.
-#labels project,linkeddata,foaf,semanticWeb,cerif,PM-DavidFFlanders,Theme-LinkedData,Call-03.09,Status-Recommended,Status-Alpha,U-Researcher
+#labels project,linkeddata,foaf,semanticWeb,cerif,PM-DavidFFlanders,Theme-LinkedData,Call-03.09,Status-Recommended,Status-Alpha,U-Researcher,Status-Archived
 
 = Project Description =
   * 10 second elevator pitch: 
@@ -8,7 +8,7 @@
   * Twitter description (120 character layman description): 
     * A Semantic Web tool for exploring the state of the research landscape in UK HE
 
-= Project Details =
+= Project Details =https://pims.jisc.ac.uk/projects/view/1355
   * Name of Host Institution: University of Southampton
     * Department: ECS
   * JISC Programme/Strand: Semantic Web / Linked Data
