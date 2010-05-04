@@ -51,7 +51,7 @@ First Meeting, Date of Meeting, Location of Meeting
     * Methodology (Agile, SCRUM, TDD, etc) --> Code Repo/Wiki/Site?
     * Sustainability / Success Plan / Business Case
 
-= Correspondance =
+= Correspondence =
 Please see below in comments section for any and all correspondance by Programme Manager with the Projects.  Also all edits that need to be made to this page please place in comments section and the author will correct.
   * Email, Phone calls, twitters, links sent, etc.
   * Remind projects regarding best practice in FOI.
