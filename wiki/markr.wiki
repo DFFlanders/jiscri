@@ -12,16 +12,15 @@ NOTE TO PROJECTS RE THIS PAGE: If you see a correction/addition that needs to be
     * Department: Information Science and Digital Media
   * JISC Programme/Strand: INF11/ JISCRI /
   * Length of Project: 6 Months
-    * Project Start Date:
-    * Project End Date:
-  * Grant Awarded to Project: 
+    * Project Start Date: July 2009
+    * Project End Date: Dec 2009
+  * Grant Awarded to Project: £22740
 
 = Project Team =
   * Project Manager: Dan Dixon, Prakash Chatterjee dan.dixon@uwe.ac.uk
   * Developer: Prakash Chatterjee prakash.chatterjee@uwe.ac.uk
 
 = Documentation =
-
 <wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="feed://markr.digitaldust.org/?feed=rss2" width="700" height="700" border="1" up_showaddbutton="20"/>
   
   * Project Blog: http://markr.digitaldust.org/
@@ -30,26 +29,12 @@ NOTE TO PROJECTS RE THIS PAGE: If you see a correction/addition that needs to be
   * Technical Documentation: http://code.google.com/p/markr/
   * End User Documentation: http://www.cems.uwe.ac.uk/markr/
   * Project Website:  http://markr.digitaldust.org/
-  * PIMS listing: NOT FOUND
+  * PIMS listing: https://pims.jisc.ac.uk/projects/view/1682
   * Core Project Resources: Complete
   * Project Plan: http://code.google.com/p/jiscri/downloads/detail?name=72%20UWE%20Markr.pdf&can=2&q=markr
   * Final Project Post: http://markr.digitaldust.org/2009/12/jiscmarkr-prototype-rss-reader-for-teachers/
   * Final Budget: http://code.google.com/p/jiscri/downloads/detail?name=Markr_FinalBudget_JISCRI.xls&can=2&q=markr
   * Sign-off Form: Complete
-
-= Meetings =
-(reverse chronological order of scheduled face to face meetings)
-
-First Meeting, Date of Meeting, Location of Meeting
-  * Agenda:
-    * Programme Manager SLA:
-    * SWOT:
-    * Documentation: Core Project Resources, Project Plan, Progress Posts 
-    * List Top Three Sprints/Workpackages and Level of Difficulty for each
-    * Use Cases and Type/Name of Real/Named Users:
-    * Technologies/Tools Using (Standards, Methods, 
-    * Methodology (Agile, SCRUM, TDD, etc) --> Code Repo/Wiki/Site?
-    * Sustainability / Success Plan / Business Case
 
 = Correspondence =
 Please see below in comments section for any and all correspondance by Programme Manager with the Projects.  Also all edits that need to be made to this page please place in comments section and the author will correct.
