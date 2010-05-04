@@ -1,5 +1,5 @@
 #summary The Intute Internet Detective is already positioned as an extremely popular, well respected online tutorial, helping the user to assess the academic validity of websites.
-#labels PM-DavidFFlanders,Theme-Mobile,project,Call-03.09,U-Student
+#labels PM-DavidFFlanders,Theme-Mobile,project,Call-03.09,U-Student,Status-Archived
 
 _NOTE TO PROJECT ON THIS PAGE: If you see a correction/addition that needs to be made in this page please place edits in the comments section at the bottom of this page and I will change, please do not email me. /dff_
 
