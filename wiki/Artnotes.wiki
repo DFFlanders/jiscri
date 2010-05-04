@@ -1,5 +1,5 @@
 #summary iPhone application aimed at students in fine art, photography and other visually orientated disciplines
-#labels project,iPhone,mobile,User-Students,PM-DavidFFlanders,U-Student,U-Teacher,Theme-Mobile
+#labels project,iPhone,mobile,User-Students,PM-DavidFFlanders,U-Student,U-Teacher,Theme-Mobile,Status-Archived
 
 = Project Description =
   * 10 second elevator pitch (how do you sell this to an early adopter?): Artnotes is an iPhone application aimed at students in fine art, photography and other visually orientated disciplines. The application allows users to collect images and textual notes on the device in a format analogous to a traditional “Visual notebook” as used in many branches of arts education. The application will be able to take visual input from the device’s camera as well as being able to search online image collections.
@@ -8,7 +8,7 @@
     * User Question (what itch does it scratch):
     * Community Question (how does this change the way things were done):
 
-= Project Details =
+= Project Details =https://pims.jisc.ac.uk/outputs/view/3679
   * Name of Host Institution: Bolton University
   * JISC Programme/Strand: Mobile Apps
   * Length of Project: 6 months
