@@ -31,7 +31,7 @@ Michael Pidd	m.pidd@sheffield.ac.uk	, Jamie McLaughlin, Mike Meredith, Katherine
   * Code Repository: http://sourceforge.net/projects/scrutiny
   * Technical Documentation: http://sourceforge.net/projects/scrutiny
   * End User Documentation: http://www.hrionline.ac.uk/scrutiny/?p=171
-  * Analytics Engine: 
+  * Analytics Engine: Server Log files
   * Project Website: http://www.shef.ac.uk/hri/projects/projectpages/scrutiny.html 
   * PIMS listing: https://pims.jisc.ac.uk/projects/view/1342
   * Core Project Resources: https://spreadsheets0.google.com/ccc?key=po8dqZ_GuNf5Q2fd00xr9Vw&hl=en
