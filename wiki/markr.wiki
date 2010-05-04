@@ -24,8 +24,8 @@ NOTE TO PROJECTS RE THIS PAGE: If you see a correction/addition that needs to be
 
 <wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="feed://markr.digitaldust.org/?feed=rss2" width="700" height="700" border="1" up_showaddbutton="20"/>
   
-  * Project Blog:
-    * Feed: feed://markr.digitaldust.org/?feed=rss2
+  * Project Blog: http://markr.digitaldust.org/
+    * Feed: http://markr.digitaldust.org/?feed=rss2 
   * Code Repository: http://code.google.com/p/markr/source/checkout
   * Technical Documentation: http://code.google.com/p/markr/
   * End User Documentation: http://www.cems.uwe.ac.uk/markr/
