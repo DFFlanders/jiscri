@@ -1,5 +1,5 @@
 #summary Clipper is looking to be the Picasa of video.
-#labels project,User-Student,PM-DavidFFlanders,Call-03.09,Status-Alpha,U-Teacher,U-Researcher,Status-Recommended,Status-Archived,Status-Complete
+#labels project,User-Student,PM-DavidFFlanders,Call-03.09,Status-Alpha,U-Teacher,U-Researcher,Status-Recommended,Status-Archived,Status-Complete,Status-BenefitsRealisation
 
 = Project Description =
   * Long: Clipper aims to fill a gap in the toolset of those who use online audio-visual media for education and research. Clipper will allow users to identify, create, tag, mix, and manage clips from within online audio-visual resources as well as the ability to add their own textual notes.
