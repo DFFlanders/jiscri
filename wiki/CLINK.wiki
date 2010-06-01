@@ -1,5 +1,5 @@
 #summary a way of browsing wikipedia to enable linking between related concepts.
-#labels Theme-Visualisation,PM-BenWynne,project,Call-03.09,Status-Recommended,U-Teacher,U-Researcher,Status-Complete
+#labels Theme-Visualisation,PM-BenWynne,project,Call-03.09,Status-Recommended,U-Teacher,U-Researcher,Status-Complete,Status-BenefitsRealisation
 
 = Project Description =
   * Full Name of Project (project tag is name of this page): Concept Linkage in Knowledge Repositories (CLINK)
