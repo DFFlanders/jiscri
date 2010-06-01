@@ -1,5 +1,5 @@
 #summary The creation of a smart phone website and application to provide students with location and time sensitive information.
-#labels project,Status-Beta,U-Student,PM-DavidFFlanders,Theme-Mobile,Call-03.09,Status-Recommended
+#labels project,Status-Beta,U-Student,PM-DavidFFlanders,Theme-Mobile,Call-03.09,Status-Recommended,Status-BenefitsRealisation
 
 = Project Description =
   * 10 second elevator pitch (how do you sell this to an early adopter?): 
