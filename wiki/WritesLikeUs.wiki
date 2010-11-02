@@ -3,13 +3,7 @@
 
 = Project Descriptions =
 
-  * 10 sec pitch: The writeslike.us project explores the question of generating metadata about individuals and their likely community memberships. It is a practical development project for development of a prototype repository enhancement service and sample interface, proposing candidate community participation information from analysis of existing documents & metadata. 
-
-  * Two sentence project pitch: match.com for researchers
-
-  * What question does the project answer?
-    * Do you need people to sit down and declare social networks or can a machine automatically suggest that network (the ties that bind) for you?
-
+The writeslike.us project explores the question of generating metadata about individuals and their likely community memberships. It is a practical development project for development of a prototype repository enhancement service and sample interface, proposing candidate community participation information from analysis of existing documents & metadata. 
 
 =Project Details=
   * A4-8 
@@ -31,13 +25,13 @@
   * Code Repository: http://code.google.com/p/writeslikeus/
   * Technical Documentation: http://www.ukoln.ac.uk/projects/writeslike.us
   * End User Documentation: http://www.ukoln.ac.uk/projects/writeslike.us
-  * Analytics Engine: 
+  * Analytics Engine: TBC
   * Project Website: http://code.google.com/p/writeslikeus/
   * PIMS listing:  https://pims.jisc.ac.uk/projects/view/1263
-  * Core Project Resources: 
+  * Core Project Resources: https://spreadsheets.google.com/ccc?key=0ArsNASxXZiL6cG84ZHFaX0d1TmY1UTJmZDAweHI5Vnc&hl=en
   * Project Plan / Bid: http://code.google.com/p/jiscri/downloads/detail?name=A4-8%20University%20of%20Bath%20writeslikeus.pdf&can=2&q=writeslikeus
   * Final Project Post: http://blogs.ukoln.ac.uk/ukolndev/2009/12/15/writeslike-us-identity-information-from-repository-metadata/
-  * Final Budget:
-  * Sign-off Form:
+  * Final Budget: TBC
+  * Sign-off Form: TBC
 
 = Comments =
