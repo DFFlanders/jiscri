@@ -8,22 +8,13 @@ _NOTE TO PROJECT ON THIS PAGE: If you see a correction/addition that needs to be
   * Long Description: Designing and developing rules-controlled document management in a collaborative authoring environment taking JISC research funding bids as the case study is the main objective of our project called Rudiment. Sharing the project with the University of Manchester enhances productivity and capacity of Rudiment. As a result of the close cooperation, combination of technologies such as Alfresco and Drupal is used to create a secure, managed social networking environment and increase understanding of how to integrate two proven technologies. One of the benefits of Rudiment is that documents are subsequently structured so a document template can be specified to ensure all submissions adhere to the same format. To sum up, Rudiment will provide the resolution of a recognised need for academics to access, retrieve and edit a working document using a prescribed set of rules.
 
 = Project Details =
-  * Core Project Details Link: 
   * Name of Host Institution: Thames Valley University
-  * JISC Programme/Strand: 
-  * Length of Project:
-    * Project Start Date:
-    * Project End Date:
+  * JISC Programme/Strand: inf11 /jiscri
+  * Length of Project: 6 Months
   * Grant Awarded to Project: £39995
 
 = Project Team =
 Samia Oussena	samia.oussena@tvu.ac.uk	Anna Kocurova,Chris Banks, Divya Yadav Muvvala	anna.kocurova@tvu.ac.uk, chris.banks@manchester.ac.uk	Hilary Dexter hilary.Dexter@manchatser.ac.uk, Tim cappelliTimothy.Cappelli-2@manchester.ac.uk, Tony Clark tony.clark@tvu.ac.uk
-
-  * Product Owner: 
-  * Developer:
-  * Admin:
-  * Partners:
-  * Consultants:
 
 = Documentation =
 
