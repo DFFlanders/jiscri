@@ -12,7 +12,7 @@
 
   * Name of Host Institution: Open University
   * JISC Programme/Strand: Mobile Networking
-  * Length of Project:
+  * Length of Project: 6 months
     * Project Start Date: 2009-06-07
     * Project End Date: 2009-11-30
   * Grant Awarded to Project: £22,367.00 
@@ -21,10 +21,7 @@
 = Project Team =
 http://projects.kmi.open.ac.uk/era/wiki/index.php/Team
   * Project Owner: Trevor D. Collins, t.d.collins-at-open.ac.uk
-  * Developers: 
-     * John Lea, san-at-spc.org 
-  * Partners: 
-  * Consultants: John Lea
+  * Developers: John Lea, san-at-spc.org (consultant)
 
 = Documentation =
 <wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="http://projects.kmi.open.ac.uk/era/vowlan/?feed=rss2" width="700" height="700" border="1" up_showaddbutton="20"/>
@@ -33,13 +30,13 @@ http://projects.kmi.open.ac.uk/era/wiki/index.php/Team
   * Code Repository: N/A
   * Technical Documentation: http://projects.kmi.open.ac.uk/era/wiki/index.php/VoWLAN_Technical_Report_2009
   * End User Documentation: http://projects.kmi.open.ac.uk/era/wiki/index.php/VoWLAN_Educational_Report_2009
-  * Analytics Engine: 
+  * Analytics Engine: TBC
   * Project Website: http://projects.kmi.open.ac.uk/era/wiki/index.php/Main_Page
   * PIMS listing: https://pims.jisc.ac.uk/projects/view/1344
-  * Core Project Resources: 
+  * Core Project Resources: https://spreadsheets.google.com/ccc?key=0ArsNASxXZiL6cG84ZHFaX0d1TmY1UTJmZDAweHI5Vnc&hl=en 
   * Project Plan /Bid: http://code.google.com/p/jiscri/downloads/detail?name=26%20Open%20University%20Portable%20VoWLAN.pdf&can=2&q=vowlan
   * Final Project Post: http://projects.kmi.open.ac.uk/era/vowlan/?p=327 
   * Final Budget: http://code.google.com/p/jiscri/downloads/detail?name=VoWLAN_FinalGudget.xls&can=2&q=vowlan
-  * Sign-off Form: 
+  * Final Sign-off Survey Form: TBC
 
 = Correspondance =
