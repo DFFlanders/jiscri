@@ -33,46 +33,9 @@ Samia Oussena	samia.oussena@tvu.ac.uk	Anna Kocurova,Chris Banks, Divya Yadav Muv
   * Consultants:
 
 = Documentation =
-RSS Feed From Project Blog: feed:http://samsa.tvu.ac.uk/rudiment/blog/?feed=rss2
 
-<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="feed:http://samsa.tvu.ac.uk/rudiment/blog/?feed=rss2
-" width="700" height="700" border="1" up_showaddbutton="20"/>
+  * RSS Feed From Project Blog: feed:http://samsa.tvu.ac.uk/rudiment/blog/?feed=rss2
 
-  * Core Project Resources
-    * Received: / Comments: / Approved:
-    * Located:
-  * Project Plan
-    * Received: / Comments: / Approved:
-    * Located:
-  * Progress Posts RSS Feed
-    * Received: / Comments: / Approved:
-    * Located:
-  * Final Budget
-    * Received: / Comments: / Approved:
-    * Located:
-  * Sign-off Form
-    * Received: / Comments: / Approved:
-    * Located:
-
-= Meeting =
-
-Date of Meeting, Location of Meeting
-  * Agenda:
-    * Programme Manager ServiceLevelAgreement, ie what I can do for you
-    * Project Team Relations, how the ppl work together
-      * Postgraduates 120 / Undergrad 80  / Staff 15
-      * 
-
-    * Use Cases and Type/Name of Real/Named End-Users:
-    * Documentation: Core Project Resources, Project Plan, Progress Posts 
-      * SWOT or List Top Three Sprints/Workpackages and Level of Difficulty for each
-    * FOI/Transparency: OSS, Creative Commons, Budget, etc.
-   
-    * Technologies/Tools Using: Alfresco 
-
-
-    * Methodology (Agile, SCRUM, TDD, etc) --> Code Repo/Wiki/Site?
-    * Sustainability, Business Case, Dissemination: (1) EPSRC funding <- research aspects, (2) JISC funding of further extension of system (3) 
 
 = Correspondance =
 Please see below in comments section for any and all correspondance by Programme Manager with the Projects.  Also all edits that need to be made to this page please place in comments section and the author will correct.
