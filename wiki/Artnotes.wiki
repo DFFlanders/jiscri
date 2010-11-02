@@ -2,13 +2,11 @@
 #labels project,iPhone,mobile,User-Students,PM-DavidFFlanders,U-Student,U-Teacher,Theme-Mobile,Status-Archived
 
 = Project Description =
-  * 10 second elevator pitch (how do you sell this to an early adopter?): Artnotes is an iPhone application aimed at students in fine art, photography and other visually orientated disciplines. The application allows users to collect images and textual notes on the device in a format analogous to a traditional “Visual notebook” as used in many branches of arts education. The application will be able to take visual input from the device’s camera as well as being able to search online image collections.
-  * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them):
-  * Questions this project answers:
-    * User Question (what itch does it scratch):
-    * Community Question (how does this change the way things were done):
+  * Long Description: Artnotes is an iPhone application aimed at students in fine art, photography and other visually orientated disciplines. The application allows users to collect images and textual notes on the device in a format analogous to a traditional “Visual notebook” as used in many branches of arts education. The application will be able to take visual input from the device’s camera as well as being able to search online image collections.
+  * Short Description: iPhone application aimed at students in fine art, photography and other visually orientated disciplines
 
-= Project Details =https://pims.jisc.ac.uk/outputs/view/3679
+= Project Details =
+
   * Name of Host Institution: Bolton University
   * JISC Programme/Strand: Mobile Apps
   * Length of Project: 6 months
@@ -17,70 +15,19 @@
   * Grant Awarded to Project: £40000
 
 = Project Team =
-Owen Watson	o.watson@bolton.ac.uk	Owen Watson, Dave Hagan, Kirk Barron	o.watson@bolton.ac.uk, d.hagan@bolton.ac.uk, klb1lis@bolton.ac.uk	
-Roy Attwood <r.attwood@bolton.ac.uk>
-
-  * Project Owner: Roy Atwood
-  * Developers:
-    * lead: Dave Hagan
-    * frontend: Owen Watson, Kirk Barron
-    * web: Brett Haslam
-  * Admin
-  * Partners
-  * Consultants
+	
+  * Owen Watson, o.watson@bolton.ac.uk
+  * Dave Hagan, d.hagan@bolton.ac.uk
+  * Kirk Barron, klb1lis@bolton.ac.uk	
+  * Roy Attwood, r.attwood@bolton.ac.uk 
 
 = Documentation =
-RSS Feed From Project Blog:
-
-<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="HTTP RSS FEED HERE" width="700" height="700" border="1" up_showaddbutton="20"/>
-
-  * PIMS listing
-    * Received: / Comments: / Approved:
-    * Located: https://pims.jisc.ac.uk/projects/view/1361
-  * Core Project Resources
-    * Received: / Comments: rss feed? / Approved:
-    * Located: http://spreadsheets.google.com/pub?key=po8dqZ_GuNf5Q2fd00xr9Vw&single=true&gid=0&range=b30:z30&output=html
-  * Project Plan
-    * Received: / Comments: / Approved:
-    * Located:
-  * Progress Posts RSS Feed
-    * Received: / Comments: / Approved:
-    * Located:
-  * Final Budget
-    * Received: / Comments: / Approved:
-    * Located:
-  * Survey and Sign-off Form
-    * Received: / Comments: / Approved:
-    * Located:
-
-= Meeting =
-
-Date of Meeting, Location of Meeting
-  * Agenda:
-    * Programme Manager ServiceLevelAgreement
-
-
-    * Project Team Relations
-
-    * Use Cases and Type/Name of Real/Named Users:
-
-    * Documentation: Core Project Resources, Project Plan, Progress Posts 
-      * SWOT or List Top Three Sprints/Workpackages and Level of Difficulty for each
-
-    * FOI/Transparency: OSS, Creative Commons, Budget, etc. 
-
-    * Technologies/Tools Using: Dave works on backend, hibernate and spring,  
-
-    * 
-
-
-Mono touch made by novela monoDevelopment IDE foundation. Native application for Phone iPhone app.  
-
-    * Methodology: PairProgramming between Dave and Owen (lack of h/w), good for learning new technologies, seeing each other mistakes, got off the ground quite quickly, Danve acting as lead developer.  Once established working on own.  Monday morning meeting and write goals up on wall.  Friday reflection meeting.  
-
-
-    * Sustainability, Business Case, Dissemination: VC, Subscription, Advertisement, etc.
+  * Project Blog: http://artnotesdev.wordpress.com/
+  * Project Website: http://www.osrg.org/artnotes
+  * PIMS listing: https://pims.jisc.ac.uk/outputs/view/3679
+  * Core Project Resources: http://spreadsheets.google.com/pub?key=po8dqZ_GuNf5Q2fd00xr9Vw&single=true&gid=0&range=b30:z30&output=html
+  * Final Budget: TBC
+  * Final Sign-off Survey Form: TBC
 
 = Correspondance =
-Please see below in comments section for any and all correspondance by Programme Manager with the Projects.  Also all edits that need to be made to this page please place in comments section and the author will correct.
-  * Email, Phone calls, twitters, links sent, etc.
+Please see below in comments section for any and all correspondance by Programme Manager with the Projects.  
