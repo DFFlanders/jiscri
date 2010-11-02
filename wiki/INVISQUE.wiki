@@ -22,13 +22,20 @@ _NOTE TO PROJECT ON THIS PAGE: If you see a correction/addition that needs to be
   * Developers: Nazlin Bhimani, Nawaz Khan, Emma Bryne, Dong-Han Ham, Fan Han	n.bhimani@mdx.ac.uk, n.x.khan@mdx.ac.uk, e.bryne@mdx.ac.uk, Dong1@mdx.ac.uk, f.han@mdx.ac.uk 
 	
 = Documentation =
-  * Code Repository: TBC
+  * Project Blog: http://www.invisque.mdx.ac.uk/
+    * Feed: http://www.invisque.mdx.ac.uk/?feed=rss2
+    * Twitter: http://twitter.com/INVISQUE 
+  * Code Repository: http://www.eis.mdx.ac.uk/staffpages/raymond2/files/scripts/Invisque.zip
   * Technical Documentation: TBC
   * End User Documentation: TBC
   * Analytics Engine: TBC
   * Project Website: TBC
-  * XMPP Feed (twitter): www.Twitter.com/INVISQUE
-  * RSS Feed From Project Blog: TBC
+  * PIMS listing: TBC
+  * Core Project Resources: http://bit.ly/doapSS-jiscEXPO
+  * Project Plan: http://code.google.com/p/jiscri/downloads/detail?name=28%20Middlesex%20University%20INVISQUE.pdf&can=2&q=invisique
+  * Final Project Post: http://www.invisque.mdx.ac.uk/?p=154 
+  * Final Budget: http://code.google.com/p/jiscri/downloads/detail?name=INVISIQUE-FinalBudgetTemplate_20091223-1%20Final%20Version.xls&can=2&q=invisique
+  * Sign-off Form: TBC
 
 
 = Correspondance =
