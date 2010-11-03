@@ -1,5 +1,5 @@
 #summary Interface for searching library resources, will seek to represent relationships between various resources to help people searching for information.
-#labels PM-BenWynne,visualisation,search,project,Call-03.09,Theme-Visualisation,Status-Delay
+#labels PM-BenWynne,visualisation,search,project,Call-03.09,Theme-Visualisation,Status-Delay,Status-Complete
 
 _NOTE TO PROJECT ON THIS PAGE: If you see a correction/addition that needs to be made in this page please place edits in the comments section at the bottom of this page and I will change, please do not email me. /dff_
 
@@ -26,14 +26,14 @@ _NOTE TO PROJECT ON THIS PAGE: If you see a correction/addition that needs to be
     * Feed: http://www.invisque.mdx.ac.uk/?feed=rss2
     * Twitter: http://twitter.com/INVISQUE 
   * Code Repository: http://www.eis.mdx.ac.uk/staffpages/raymond2/files/scripts/Invisque.zip
-  * Technical Documentation: TBC
+  * Technical Documentation: http://www.eis.mdx.ac.uk/staffpages/raymond2/files/scripts/INVISQUE_Technical_Documentation.doc 
   * End User Documentation: TBC
   * Analytics Engine: TBC
-  * Project Website: TBC
+  * Project Website: http://www.invisque.mdx.ac.uk/
   * PIMS listing: TBC
   * Core Project Resources: http://bit.ly/doapSS-jiscEXPO
   * Project Plan: http://code.google.com/p/jiscri/downloads/detail?name=28%20Middlesex%20University%20INVISQUE.pdf&can=2&q=invisique
-  * Final Project Post: http://www.invisque.mdx.ac.uk/?p=154 
+  * Final Project Post: http://www.invisque.mdx.ac.uk/?p=177
   * Final Budget: http://code.google.com/p/jiscri/downloads/detail?name=INVISIQUE-FinalBudgetTemplate_20091223-1%20Final%20Version.xls&can=2&q=invisique
   * Sign-off Form: TBC
 
