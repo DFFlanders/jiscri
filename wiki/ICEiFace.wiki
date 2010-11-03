@@ -31,7 +31,7 @@ NOTE TO PROJECT RE THIS PAGE: If you see a correction/addition that needs to be 
   * Core Project Resources: http://bit.ly/doapSS-jiscEXPO
   * Project Plan: http://code.google.com/p/jiscri/downloads/detail?name=8%20University%20of%20Manchester%20ICEIface.pdf&can=2&q=iceiface 
   * Final Project Post: http://tewpl.manchester.ac.uk/iceiface/?q=node/22 
-  * Final Budget: TBC
+  * Final Budget: http://code.google.com/p/jiscri/downloads/detail?name=finalbudgettemplate_jiscriiceiface.xls&can=2&q=
   * Sign-off Form: TBC
 
 = Correspondance =
