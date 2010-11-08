@@ -2,10 +2,9 @@
 #labels project,PM-DavidFFlanders,Theme-Mobile,U-Student,Status-Recommended,Status-Alpha,U-Teacher,Status-Archived,Status-BenefitsRealisation
 
 = Project Description =
-  * 10 second elevator pitch (how do you sell this to an early adopter?): 
+  * Long Description: 
     * The Cloud Bank project aims to build a mobile- and web-based crowd-sourced information system to help international students share their knowledge and understanding of the local language and culture. The system allows students to collect, annotate and tag language- and culture-related content found in everyday life, including text, images and other media, and to share these content items with other language learners.
-  
-  * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them):
+  * Short Description:
     * Is facebook for students studying in a foreign country.
 
 = Project Details =
@@ -42,8 +41,8 @@
   * Core Project Resources: http://spreadsheets.google.com/pub?key=po8dqZ_GuNf5Q2fd00xr9Vw&single=true&gid=0&range=B21%3Az21&output=html
   * Project Plan / Bid: http://code.google.com/p/jiscri/downloads/detail?name=52%20University%20of%20Brighton%20CloudBank.pdf&can=2&q=cloudbank 
   * Final Project Post: http://cloudbankblog.blogspot.com/2009/12/final-progress-post.html
-  * Final Budget: 
-  * Sign-off Form:
+  * Final Budget: TBC
+  * Sign-off Form: TBC
 
 =Prototype=
 
@@ -53,6 +52,3 @@ http://itrg.brighton.ac.uk/cloudbank/download.php
 (descending chronological order)
   * Email, Phone calls, twitters, links sent, etc.
   * Remind projects regarding best practice in FOI.
-
-  * 2009-07-02 DFF sent email requesting return of grant letter and F2F meeting.
-  * 2009-07-17 meetNgreet scheduled for Wed 22nd July 2009 at 2pm
