@@ -26,7 +26,7 @@
   * Project Website: http://www.osrg.org/artnotes
   * PIMS listing: https://pims.jisc.ac.uk/outputs/view/3679
   * Core Project Resources: http://spreadsheets.google.com/pub?key=po8dqZ_GuNf5Q2fd00xr9Vw&single=true&gid=0&range=b30:z30&output=html
-  * Final Budget: TBC
+  * Final Budget: http://code.google.com/p/jiscri/downloads/detail?name=finalbudgetArtnotes_jiscri.xls&can=2&q=
   * Final Sign-off Survey Form: TBC
 
 = Correspondance =
