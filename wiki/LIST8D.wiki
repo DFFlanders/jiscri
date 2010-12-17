@@ -29,37 +29,28 @@ _NOTE TO PROJECT ON THIS PAGE: If you see a correction/addition that needs to be
 
 Ben Charlton	b.c.charlton@kent.ac.uk	Ben Charlton, Mark Fendley, Matthew Slowe, Matthew Bull, Matthew Spence, Simon Yeldon	b.c.charlton@kent.ac.uk, m.s.fendley@kent.ac.uk, m.slowe@kent.ac.uk, m.bull@kent.ac.uk, m.s.a.spence@kent.ac.uk, s.j.yeldon@kent.ac.uk	Tim Jenkins <T.S.Jenkins@kent.ac.uk>, John Sotillo <J.Sotillo@kent.ac.uk>, Bonnie Ferguson <B.Ferguson@kent.ac.uk>, Michael Wilcox <M.D.Wilcox@kent.ac.uk>, Katie Edwards <K.E.Edwards@kent.ac.uk>
 
-
 = Documentation =
+
+Latest project blog posts (to expand click the "+" symbol):
+<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="http://blogs.kent.ac.uk/list8d/feed/atom/" width="700" height="700" border="1" up_showaddbutton="20"/>
+  
+  * Project Blog: http://blogs.kent.ac.uk/list8d/
+    * Feed: http://blogs.kent.ac.uk/list8d/feed/atom/
   * Code Repository: http://code.google.com/p/list8d/
   * Technical Documentation: http://code.google.com/p/list8d/w/list
-  * End User Documentation: TBC
-  * Analytics Engine: TBC
-  * Project Website: TBC
-  * Twitter: http://twitter.com/list8d
-  * RSS Feed From Project Blog: http://blogs.kent.ac.uk/list8d/feed/
+  * End User Documentation: 
+  * Analytics Engine: 
+  * Project Website:  
+  * PIMS listing:
+  * Core Project Resources: http://bit.ly/doapSS-jiscEXPO
+  * Project Plan: 
+  * Final Project Post: http://blogs.kent.ac.uk/list8d/2009/11/30/not-so-final-progress-report/
+  * Final Budget:
+  * Sign-off Form:
+  * License used for code:
+  * License used for database content:
+  * License used for blog and other project website content:
 
-<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="http://blogs.kent.ac.uk/list8d/feed/" width="700" height="700" border="1" up_showaddbutton="20"/>
-
-  * PIMS listing
-    * Received: / Comments: / Approved:
-    * Located:
-  * Core Project Resources
-    * Received: / Comments: / Approved:
-    * Located:
-  * Project Plan
-    * Received: / Comments: / Approved:
-    * Located:
-  * Progress Posts RSS Feed
-    * Received: / Comments: / Approved:
-    * Located:
-  * Final Budget
-    * Received: / Comments: / Approved:
-    * Located:
-  * Survey and Sign-off Form
-    * Received: / Comments: / Approved:
-    * Located:
-
-= Correspondance =
+= Correspondence (below as comments) =
 Please see below in comments section for any and all correspondance by Programme Manager with the Projects.  Also all edits that need to be made to this page please place in comments section and the author will correct.
   * Email, Phone calls, twitters, links sent, etc.
