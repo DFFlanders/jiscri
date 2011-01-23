@@ -1,5 +1,5 @@
 #summary plugin to enable real time interaction & manipulation of presented slide content in a lecture theatre.
-#labels project,U-Student,powerpoint,ppt,presentation,U-Teacher,mobile,PM-DavidFFlanders,Call-03.09
+#labels project,U-Student,powerpoint,ppt,presentation,U-Teacher,mobile,PM-DavidFFlanders,Call-03.09,Status-Archived
 
 = Project Description =
   * 20 second video pitch: http://blog.iedemonstrator.org/2009/09/13/jiscwild-video-darren-mundy-pitch-13-day-2/ 
