@@ -30,6 +30,8 @@ RSS Feed From Project Blog: http://wildtool.blogspot.com/rss.xml
 
 <wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="http://wildtool.blogspot.com/rss.xml" width="700" height="700" border="1" up_showaddbutton="20"/>
 
+  * Project Blog: http://wildtool.blogspot.com/
+  * Project Feed: http://wildtool.blogspot.com/rss.xml
   * PIMS listing: https://pims.jisc.ac.uk/projects/view/1358 
   * Final Budget: http://spreadsheets.google.com/pub?key=po8dqZ_GuNf5Q2fd00xr9Vw&single=true&gid=0&range=b11:z11&output=html 
 
