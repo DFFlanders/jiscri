@@ -19,13 +19,11 @@
 
 = Project Team =
 
-Dr. Darren Mundy	d.mundy@hull.ac.uk	Darren Stephens	darren.stephens@hull.ac.uk	Keith Dykes <K.Dykes@hull.ac.uk>
+Dr. Darren Mundy	d.mundy@hull.ac.uk	Darren Stephens	darren.stephens@hull.ac.uk	
 
   * Product Owner: Dr. Darren Mundy	d.mundy@hull.ac.uk
   * Developer: Darren Stephens	darren.stephens@hull.ac.uk
-  * Admin:
-  * Partners:
-  * Consultants:
+  * Developer: Keith Dykes <K.Dykes@hull.ac.uk>
 
 http://farm3.static.flickr.com/2583/4029464842_7d4dff8cda_b.jpg
 
@@ -34,56 +32,9 @@ RSS Feed From Project Blog: http://wildtool.blogspot.com/rss.xml
 
 <wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="http://wildtool.blogspot.com/rss.xml" width="700" height="700" border="1" up_showaddbutton="20"/>
 
-  * PIMS listing
-    * Received: / Comments: / Approved:
-    * Located: https://pims.jisc.ac.uk/projects/view/1358 
-  * Core Project Resources
-    * Received: / Comments: / Approved:
-    * Located: http://spreadsheets.google.com/pub?key=po8dqZ_GuNf5Q2fd00xr9Vw&single=true&gid=0&range=b11:z11&output=html 
-  * Project Plan
-    * Received: / Comments: / Approved:
-    * Located:
-  * Progress Posts RSS Feed
-    * Received: / Comments: / Approved:
-    * Located:
-  * Final Budget
-    * Received: / Comments: / Approved:
-    * Located:
-  * Survey and Sign-off Form
-    * Received: / Comments: / Approved:
-    * Located:
+  * PIMS listing: https://pims.jisc.ac.uk/projects/view/1358 
+  * Final Budget: http://spreadsheets.google.com/pub?key=po8dqZ_GuNf5Q2fd00xr9Vw&single=true&gid=0&range=b11:z11&output=html 
 
-= Meeting =
-
-Date of Meeting, Location of Meeting
-  * Agenda:
-    * Programme Manager ServiceLevelAgreement, ie what I can do for you
-    * Project Team Relations
-    * Use Cases and Type/Name of Real/Named Users: pedagogical situation of a class of students where lecturer is giving a presentation and then being able to put up a quiz where students can then respond to the quiz via their smartPhones 
-
-potential for other embed activities, like twitter and wave
-
-
-    * Documentation: Core Project Resources, Project Plan, Progress Posts 
-      * SWOT or List Top Three Sprints/Workpackages and Level of Difficulty for each
-
-    * FOI/Transparency: OSS, Creative Commons, Budget, etc.
-
-    * Technologies/Tools Using: Output1: 
-
-embed webpage into PPT2007/(2003 via word lib), add-in file (.ppa file), 
-
-
-    * Methodology: there are other more creative ppl than you?   
-
-Using agile, got plugin built in first two weeks, wrote documentation in week three (needs another rewrite)
-Meet once a week: Keith and Darren M are in same office, other Darren is bouncing back and forth between two.
-PPT plugin build.
-
-    * Sustainability, Business Case, Dissemination: VC, Subscription, Advertisement, etc.
-
-using ecl license able to sell tool back to business. Simon Atkinson did some work to embed small meeting technology.  
-workshop at leeds - making web2 work for you, oct 28th WED. 
 
 = Correspondance =
 Please see below in comments section for any and all correspondance by Programme Manager with the Projects.  Also all edits that need to be made to this page please place in comments section and the author will correct.
