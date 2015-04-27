@@ -1,0 +1,43 @@
+# Project Description #
+  * Short: Develop distributed repository of learning materials created via Xerte Online Toolkit.
+  * Long: Project is extending the Xerte online packaging tool which creates learning resources to expose an RSS feed of the content so it can be syndicated to a central store of learning content.
+  * Video intro to tool = http://www.youtube.com/watch?v=ZmZQaQu5z4Y
+
+# Project Details #
+  * A3-10 University of Nottingham
+  * 6 months 4/1/2009 10/1/2009
+  * Grant Funding £59777
+
+## Project Team/Partners ##
+  * Project manager: Andy Beggan (lead of learning team at Nottingham)andy.beggan[deleteThis](deleteThis.md)@nottingham.ac.uk
+  * Project Admin: Alison Johnson's (facilitate, organise and disseminate the activities of the project)
+  * Developers: Julian Tenney and Patrick Lockley
+  * Partners
+    * University of Bolton: Roy Attwood and Brett Haslam
+      * Installation and user testing feedback
+    * JISC TechDis:
+      * Providing teaching material and support documentation on how to use XERTE
+      * Installing
+
+# Documentation #
+<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up\_feeds="http://webapps.nottingham.ac.uk/elgg/xpert/weblog/rss" width="700" height="700" border="1" up\_showaddbutton="20"/>
+
+  * Project Blog: http://webapps.nottingham.ac.uk/elgg/xpert/weblog/
+    * Feed: http://webapps.nottingham.ac.uk/elgg/xpert/weblog/rss
+  * Code Repository: http://code.google.com/p/xerte
+  * Technical Documentation: http://webapps.nottingham.ac.uk/elgg/search/rss.php?tag=codeBlog
+  * End User Documentation:
+  * Analytics Engine:
+  * Project Website: http://www.nottingham.ac.uk/xpert
+  * PIMS listing: https://pims.jisc.ac.uk/projects/view/1268
+  * Core Project Resources:
+  * Project Plan: YES
+  * Final Project Post: http://webapps.nottingham.ac.uk/elgg/xpert/weblog/2405.html
+  * Final Budget: http://code.google.com/p/jiscri/downloads/detail?name=Xpert-FinalBudget_JISCRI.xlsx&can=2&q=
+  * Sign-off Form: YES
+
+# Correspondance #
+  * 2009-07-14 change of project date from 18 month project to 6 month project as agree by Neil J and DFF
+  * AB: I am also project managing an OER institutional bid called BERLiN which will develop our existing OER called u-Now: http://unow.nottingham.ac.uk/
+    * Version of the site (currently in development) which has the latest styling applied:  http://www.nottingham.ac.uk/xpert/RSS2/
+  * 2009-08-10 AB contacted Jorum to initiate a Jorum deposit tool.

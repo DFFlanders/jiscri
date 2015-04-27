@@ -1,0 +1,71 @@
+# Project Description #
+  * 10 second elevator pitch (how do you sell this to an early adopter?): Historically, a student or researcher conducting fieldwork was only able to search for datasets relevant to their study sites after downloading data from their mobile devices into a computer back at their laboratories. SPACER aims to develop mobile software that improves the process by enabling repositories to be searched whilst the student or researcher is still out in the field. The project will develop a demonstrator prototype that enables mobile phones with built-in Global Positioning System (GPS) devices to query repositories supporting standards of the Open Geospatial Consortium (OGC) - a global group of over 380 private, public and academic organisations (http://www.opengeospatial.org).
+  * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them):
+  * Questions this project answers:
+    * User Question (what itch does it scratch):
+    * Community Question (how does this change the way things were done):
+
+# Project Details #
+
+  * Name of Host Institution: University of Nottingham
+    * Department: Centre for Geospatial Science
+  * JISC Programme/Strand: 03/09
+  * Length of Project: 6 months
+    * Project Start Date: Mon, Jun 1st 2009
+    * Project End Date: Wed, Sep 30th 2009
+  * Grant Awarded to Project: £31,741.00
+  * PIMS listing: https://pims.jisc.ac.uk/projects/view/1339
+
+# Project Team #
+
+  * Project Manager = Mike Jackson, mike.jackson at nottingham.ac.uk, 0115 84 68130
+  * Lead Developer = Gobe Hobona, gobe.hobona at nottingham.ac.uk 0115 84 68408
+  * CS Student Dev Assistant = TBC
+  * Colm Jordan	(Stakeholder Representative(BGS), cjj at bgs.ac.uk 0115 93 63227
+  * Ben Butchart (Stakeholder Representative(Edina), b.butchart at ed.ac.uk 0131 65 11227
+
+# Documentation #
+
+<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up\_feeds="http://spacerproject.wordpress.com/feed/" width="700" height="700" border="1" up\_showaddbutton="20"/>
+
+  * Project Blog: http://spacerproject.wordpress.com/
+  * Code Repository: http://spacer.sourceforge.net
+  * Technical Documentation: https://sourceforge.net/docman/?group_id=266398
+  * End User Documentation:
+  * Analytics Engine: TBC
+  * Project Website: http://cgs.nottingham.ac.uk/spacer
+  * XMPP Feed (twitter):
+  * PIMS listing: https://pims.jisc.ac.uk/projects/view/1339
+  * Core Project Resources:
+  * Project Plan:
+  * Final Budget:
+  * Sign-off Form:
+
+# Meetings #
+(reverse chronological order of scheduled face to face meetings)
+
+First Meeting, Date of Meeting, Location of Meeting
+  * Agenda:
+    * Programme Manager SLA:
+    * SWOT:
+    * Documentation: Core Project Resources, Project Plan, Progress Posts
+    * List Top Three Sprints/Workpackages and Level of Difficulty for each
+    * Use Cases and Type/Name of Real/Named Users:
+    * Technologies/Tools Using (Standards, Methods,
+    * Methodology (Agile, SCRUM, TDD, etc) --> Code Repo/Wiki/Site?
+    * Sustainability / Success Plan / Business Case
+
+
+## Correspondance ##
+(in chronological order)
+  * meeting (Tuesday 23rd June) with the BGS and Edina in order to finalise the use case and requirements for SPACER
+    * Participants: Tyler Mitchell(OSGeo), Stuart Marsh (BGS), Joe Vernon(Edina), Gobe Hobona(CGS), Mike Jackson(CGS), Andrew Chamberlain (ComSine 1Spatial)
+  * 2009-06-24 request for late start date (from June to August) to hire student CS dev assistant
+    * DFF: Agreed so long as risk assessment (plan A, B and C) in case student isn't available.
+    * DFF: Want budget of contributions from other org (Edina) into project
+  * 2009-06-29 GH: adopting Google Android instead of Nokia Java ME, although the proposal mentioned Nokia Java ME.
+    * Signing: There is self-signing support in Android but Nokia requires applications to be signed with certificates from VeriSign, Thawte or Geotrust. Certificates cost at least $400 and are valid for a year. Signing is needed because we intend access both http and location capabilities of the phones.
+    * Usability: HTC/Google Android phones have bigger screens, touch interfaces and generally better usability.
+    * Community: The Android and iPhone communities appear to be growing at a much larger pace than the Nokia community of developers because of the signing issue.
+    * Other high impact features that are not in the originally selected Nokia phone(N95) such as digital compasses etc.
+      * DFF: Agreed to the change to Android OS, based on above reasons.  Agreed by

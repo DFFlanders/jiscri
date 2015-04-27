@@ -1,0 +1,62 @@
+_NOTE TO PROJECT ON THIS PAGE: If you see a correction/addition that needs to be made in this page please place edits in the comments section at the bottom of this page and I will change, please do not email me. /dff_
+
+# Project Description #
+  * Full Name of Project (project tag is name of this page): SubSift Services
+  * 10 second elevator pitch (how do you sell this to an early adopter?): SubSift is an innovative "submission sifting" application developed by the Intelligent Systems group at the University of Bristol to support academic peer review. SubSift matches submitted conference or journal papers to potential peer reviewers based on their similarity to published works of prospective reviewers in online bibliographic databases, such as Google Scholar. In the SubSift Services project, the ILRT will redevelop SubSift into a collection of web services designed to support not only peer review but also personalised data discovery and mashups in tools like Yahoo! Pipes.
+  * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them): SubSift matches submitted conference/journal papers to potential peer reviewers based on similarity to published works.
+  * Questions this project answers (end user problems it solves):
+    * User Question (what itch does it scratch):
+    * Community Question (how does this change the way things were done):
+
+# Project Details #
+  * Name of Host Institution: University of Bristol
+    * Department: ILRT, Information Services
+  * JISC Programme/Strand: Data
+  * Length of Project: 6 months
+    * Project Start Date:
+    * Project End Date:
+  * Grant Awarded to Project:
+
+# Project Team #
+  * Product Owner:
+  * Developer:
+  * Admin:
+  * Partners:
+  * Consultants:
+
+Nikki Rogers	nikki.rogers@bristol.ac.uk	Simon Price, Dominic Hiles	simon.price@bristol.ac.uk, dominic.hiles@bristol.ac.uk	Professor Peter Flach <peter.flach@bristol.ac.uk>
+
+
+# Documentation #
+  * Code Repository: http://code.google.com/p/subsift/
+  * Technical Documentation: http://code.google.com/p/subsift/issues/list
+  * End User Documentation:
+  * Analytics Engine: http://subsift.ilrt.bris.ac.uk/analytics/
+  * Project Website: http://subsift.ilrt.bris.ac.uk
+  * XMPP Feed (twitter): n/a
+  * RSS Feed From Project Blog: http://subsift.ilrt.bris.ac.uk/feed/
+
+<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up\_feeds="http://subsift.ilrt.bris.ac.uk/feed/" width="700" height="700" border="1" up\_showaddbutton="20"/>
+
+  * PIMS listing
+    * Received: / Comments: / Approved:
+    * Located:
+  * Core Project Resources
+    * Received: / Comments: / Approved:
+    * Located:
+  * Project Plan
+    * Received: / Comments: / Approved:
+    * Located:
+  * Progress Posts RSS Feed
+    * Received: / Comments: / Approved:
+    * Located:
+  * Final Budget
+    * Received: / Comments: / Approved:
+    * Located:
+  * Survey and Sign-off Form
+    * Received: / Comments: / Approved:
+    * Located:
+
+# Correspondance #
+Please see below in comments section for any and all correspondance by Programme Manager with the Projects.  Also all edits that need to be made to this page please place in comments section and the author will correct.
+  * Email, Phone calls, twitters, links sent, etc.

@@ -1,0 +1,16 @@
+# Post Funding #
+The Rapid Innovation projects primarily ran from July 2009 to January 2010, with a couple of the projects running late due to unforeseen circumstances.
+
+A 'Benefits Realisation' panel was convened in November 2009 to asses which projects had most aptly demonstrated the Programme change objectives of: a.) advancing agile developer skills, b.) growing the developer community, and c.) providing visionary exemplars of tools and techniques that would be needed for the future of higher and further education.  The projects that received follow-on 'Benefits Realisation' funding are listed here.  Each project that received this follow-on funding were tasked with sharing the knowledge, skills and or visionary tools with another institution and or wider community.
+
+In addition to the project selected there were also several other successes that projects achieved on their own merit without further funding.
+
+This document is a registry for logging some of these successes.  JISC will make an effort in the future to track the RI projects as they evolve over time.
+
+JISC is very proud of all the hard work that the RI project have achieved.  Congratulations to all the RI projects.
+
+If you'd like to receive a copy of the Rapid Innovation "Toolshed" newspaper please contact a.mcgregor@jisc.ac.uk
+
+
+# post-funding successes #
+Please add any examples onto this list (in the comments section

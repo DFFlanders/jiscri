@@ -1,0 +1,46 @@
+# Project Description #
+  * Full Name of Project (project tag is name of this page): Concept Linkage in Knowledge Repositories (CLINK)
+  * Long: Knowledge repositories proliferate at an accelerating rate and While these offer excellent support for specific information searches, there is limited support for unstructured browsing or semi-structured information gathering, when a user does not know what there is to know (but wants to find information connecting known concepts). This project will build a tool for semi-structured searching of knowledge repositories based on finding previously unknown concepts that lie between other concepts.
+  * Short: Knowledge repositories search and visualisation tools
+
+# Project Details #
+  * Name of Host Institution: University of Bradford
+    * Dept: School of Computing, Informatics and Media
+  * JISC Programme/Strand: Visualisation
+  * Length of Project: 6 months
+    * Project Start Date: 1/6/2009
+    * Project End Date: 30/11/2009
+  * Grant Awarded to Project: £32000
+
+# Project Team #
+  * Product Owner: Peter Cowling, p.i.cowling@bradford.ac.uk
+  * Developer: Stephen Remde <s.m.remde@bradford.ac.uk>,
+  * Partners:
+    * Tom Woolley <Tom.Woolley@nationalmediamuseum.org.uk>,
+    * Joe Brook <Joe.Brook@nationalmediamuseum.org.uk>,
+    * Peter Hartley <p.hartley@bradford.ac.uk>, Teaching Quality Enhancement Group
+    * Will Stewart <w.stewart@bradford.ac.uk>
+
+# Documentation #
+<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up\_feeds="http://conceptlinkage.blogspot.com/feeds/posts/default?alt=rss" width="700" height="700" border="1" up\_showaddbutton="20"/>
+
+  * Code Repository: http://code.google.com/p/conceptlinkage/
+  * Technical Documentation: http://code.google.com/p/conceptlinkage/wiki/TechGuide
+  * End User Documentation: http://conceptlinkage.org/
+  * Analytics Engine: NOT DECLARED
+  * Project Website: http://conceptlinkage.org/
+  * Project Blog: http://blog.conceptlinkage.org/ OR http://conceptlinkage.blogspot.com/
+  * PIMS listing: https://pims.jisc.ac.uk/projects/view/1351
+  * Core Project Resources: https://spreadsheets0.google.com/ccc?key=po8dqZ_GuNf5Q2fd00xr9Vw&hl=en
+  * Project Plan/Bid: http://code.google.com/p/jiscri/downloads/detail?name=46%20University%20of%20Bradford%20Concept%20Linkage%20in%20Knowledge%20Repositories.pdf&can=2&q=clink
+  * Final Budget: See Ben Wynne
+  * Final Progress Post: http://blog.conceptlinkage.org/2009/11/final-project-post.html
+  * Sign-off Form: Completed
+
+# Prototype #
+
+http://conceptlinkage.org/clink/
+
+# Correspondance #
+Please see below in comments section for any and all correspondance by Programme Manager with the Projects.  Also all edits that need to be made to this page please place in comments section and the author will correct.
+  * Email, Phone calls, twitters, links sent, etc.

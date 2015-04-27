@@ -1,0 +1,42 @@
+# Project Description #
+  * Full Name of Project: Personalising Alerts with Bayesian Feed Filtering
+    * Tag: bayesff
+  * Long: The Bayesian Feed Filtering (BayesFF) project aims to allow individual researchers to identify those articles that are of interest to them from a set of RSS feeds of Journal Tables of Content by applying the same approach that is used to filter out junk emails. The project will implement a RESTful API for an existing open source feed aggregation and filtering package; investigate whether the filtering is effective enough to be helpful to users; and disseminate information about the potential of this approach within the JISC community.
+  * Short: Developing a service to filtering RSS feeds to catch the stuff you're interested in.
+
+# Project Details #
+  * Name of Host Institution: Heriot-Watt University
+    * Department: Computer Sciences
+  * JISC Programme/Strand: INF11 / JISCRI / Feeds
+  * Length of Project: 6 months
+    * Project Start Date: 1/6/2009
+    * Project End Date: 30/11/2009
+  * Grant Awarded to Project: £40000
+
+# Project Team #
+  * Project Manager: Phil Barker, philb@icbl.hw.ac.uk, @philbarker
+  * Developer: Santiago Chumbe, santiago@icbl.hw.ac.uk
+  * Developer: Lisa Rogers, mthljr@macs.hw.ac.uk
+
+![http://farm3.static.flickr.com/2718/4361693579_ebdac25683.jpg](http://farm3.static.flickr.com/2718/4361693579_ebdac25683.jpg)
+
+# Documentation #
+  * Code Repository: https://sux0r.svn.sourceforge.net/svnroot/sux0r/branches/icbl/
+  * Technical Documentation: https://sux0r.svn.sourceforge.net/svnroot/sux0r/branches/icbl/documentation/ OR http://www.journaltocs.hw.ac.uk/docs/
+  * End User Documentation: http://www.journaltocs.hw.ac.uk/API
+  * Analytics Engine: TBC Google Analytics
+  * Project Website: http://www.icbl.hw.ac.uk/bayesff/
+  * Project Blog: http://bayesianfeedfilter.wordpress.com
+
+<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up\_feeds="http://bayesianfeedfilter.wordpress.com/feed/" width="700" height="700" border="1" up\_showaddbutton="20"/>
+
+  * PIMS listing: https://pims.jisc.ac.uk/projects/view/1360
+  * Core Project Resources: http://spreadsheets.google.com/ccc?key=0ArsNASxXZiL6cG84ZHFaX0d1TmY1UTJmZDAweHI5Vnc&hl=en
+  * Project Plan/Bid: http://code.google.com/p/jiscri/downloads/detail?name=89%20Heriot-Watt%20University%20Personalising%20Alerts%20with%20Bayesian%20Feed%20Filtering.pdf&can=2&q=bayesff
+  * Final Project Post: http://bayesianfeedfilter.wordpress.com/2009/12/11/bayesff-final-post/
+  * Final Budget: http://code.google.com/p/jiscri/downloads/detail?name=BayesFF-FinalBudget_JISCRI.xls&can=2&q=bayesff
+  * Sign-off Form: Complete
+
+# Correspondance #
+Please see below in comments section for any and all correspondance by Programme Manager with the Projects.  Also all edits that need to be made to this page please place in comments section and the author will correct.
+  * Email, Phone calls, twitters, links sent, etc.

@@ -1,0 +1,39 @@
+# Project Description #
+
+  * 10 second elevator pitch (how do you sell this to an early adopter?):
+    * Develop a robust, flexible and highly portable wireless communications network for use in educational collaborative group work. This network infrastructure could be used to support a broad range of learning, teaching and research activities. We are developing this system for use on geology fieldwork courses where we have established a clear need for reliable voice communication, a sense-of-presence video stream and the sharing of high-resolution digital images. The outstanding challenge to be addressed is to develop a wireless network that will prioritise the transfer of audio and video data in order to support a continuous dialogue between the students and lecturers. The project will use open source software and standard Wi-Fi technology to produce a reliable and flexible communication toolkit for mobile learning.
+
+  * Twitter pitch: enabling a mobile computer lab for the great outdoor lab.
+
+# Project Details #
+
+  * Name of Host Institution: Open University
+  * JISC Programme/Strand: Mobile Networking
+  * Length of Project: 6 months
+    * Project Start Date: 2009-06-07
+    * Project End Date: 2009-11-30
+  * Grant Awarded to Project: £22,367.00
+  * Project Website: http://projects.kmi.open.ac.uk/era/wiki
+
+# Project Team #
+http://projects.kmi.open.ac.uk/era/wiki/index.php/Team
+  * Project Owner: Trevor D. Collins, t.d.collins-at-open.ac.uk
+  * Developers: John Lea, san-at-spc.org (consultant)
+
+# Documentation #
+<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up\_feeds="http://projects.kmi.open.ac.uk/era/vowlan/?feed=rss2" width="700" height="700" border="1" up\_showaddbutton="20"/>
+
+  * Project Blog: http://projects.kmi.open.ac.uk/era/vowlan/
+  * Code Repository: N/A
+  * Technical Documentation: http://projects.kmi.open.ac.uk/era/wiki/index.php/VoWLAN_Technical_Report_2009
+  * End User Documentation: http://projects.kmi.open.ac.uk/era/wiki/index.php/VoWLAN_Educational_Report_2009
+  * Analytics Engine: TBC
+  * Project Website: http://projects.kmi.open.ac.uk/era/wiki/index.php/Main_Page
+  * PIMS listing: https://pims.jisc.ac.uk/projects/view/1344
+  * Core Project Resources: https://spreadsheets.google.com/ccc?key=0ArsNASxXZiL6cG84ZHFaX0d1TmY1UTJmZDAweHI5Vnc&hl=en
+  * Project Plan /Bid: http://code.google.com/p/jiscri/downloads/detail?name=26%20Open%20University%20Portable%20VoWLAN.pdf&can=2&q=vowlan
+  * Final Project Post: http://projects.kmi.open.ac.uk/era/vowlan/?p=327
+  * Final Budget: http://code.google.com/p/jiscri/downloads/detail?name=VoWLAN_FinalGudget.xls&can=2&q=vowlan
+  * Final Sign-off Survey Form: TBC
+
+# Correspondance #

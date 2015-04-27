@@ -1,0 +1,40 @@
+_NOTE TO PROJECT ON THIS PAGE: If you see a correction/addition that needs to be made in this page please place edits in the comments section at the bottom of this page and I will change, please do not email me. /dff_
+
+# Project Description #
+  * Full Name of Project (project tag is name of this page): Interactive Visual Search and Query Environment
+  * Long Description: INVISQUE stands for Interactive Visual Search and Query Environment.  It is a prototype for an interactive computer interface that will provide students and researchers with a visual display of their bibliographic search results arranged in a way which shows a network of keyword associations.
+  * Short description: Interface for searching library resources, will seek to represent relationships between various resources to help people searching for information.
+
+# Project Details #
+  * Name of Host Institution: Middlesex University
+    * Department: Interaction Design Centre, School of Engineering & Information Sciences
+  * JISC Programme/Strand: #inf11 / #jiscri
+  * Length of Project: 6 months
+    * Project Start Date: 1/6/2009
+    * Project End Date: 30/11/2009
+  * Grant Awarded to Project: £40000
+
+# Project Team #
+  * Project Manager: B.L. William Wong	w.wong@mdx.ac.uk
+  * Developers: Nazlin Bhimani, Nawaz Khan, Emma Bryne, Dong-Han Ham, Fan Han	n.bhimani@mdx.ac.uk, n.x.khan@mdx.ac.uk, e.bryne@mdx.ac.uk, Dong1@mdx.ac.uk, f.han@mdx.ac.uk
+
+# Documentation #
+  * Project Blog: http://www.invisque.mdx.ac.uk/
+    * Feed: http://www.invisque.mdx.ac.uk/?feed=rss2
+    * Twitter: http://twitter.com/INVISQUE
+  * Code Repository: http://www.eis.mdx.ac.uk/staffpages/raymond2/files/scripts/Invisque.zip
+  * Technical Documentation: http://www.eis.mdx.ac.uk/staffpages/raymond2/files/scripts/INVISQUE_Technical_Documentation.doc
+  * End User Documentation: TBC
+  * Analytics Engine: TBC
+  * Project Website: http://www.invisque.mdx.ac.uk/
+  * PIMS listing: TBC
+  * Core Project Resources: http://bit.ly/doapSS-jiscEXPO
+  * Project Plan: http://code.google.com/p/jiscri/downloads/detail?name=28%20Middlesex%20University%20INVISQUE.pdf&can=2&q=invisique
+  * Final Project Post: http://www.invisque.mdx.ac.uk/?p=177
+  * Final Budget: http://code.google.com/p/jiscri/downloads/detail?name=INVISIQUE-FinalBudgetTemplate_20091223-1%20Final%20Version.xls&can=2&q=invisique
+  * Sign-off Form: TBC
+
+
+# Correspondance #
+Please see below in comments section for any and all correspondance by Programme Manager with the Projects.  Also all edits that need to be made to this page please place in comments section and the author will correct.
+  * Email, Phone calls, twitters, links sent, etc.

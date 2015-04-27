@@ -1,0 +1,41 @@
+_NOTE TO PROJECT ON THIS PAGE: If you see a correction/addition that needs to be made in this page please place edits in the comments section at the bottom of this page and I will change, please do not email me. /dff_
+
+# Project Description #
+  * Full: Scrutiny: A Firefox Extension for Entity Recognition within Research Data
+  * Short: Scrutiny will be a Firefox extension which uses Natural Language Processing techniques to learn and identify entities within web pages (personal names, terminology, concepts etc) which it thinks might be of relevance to your particular area of research.
+
+# Project Details #
+  * Name of Host Institution: University of Hertfordshire
+    * Department: Humanities Research Institute, University of Sheffield
+  * JISC Programme/Strand: Personalisation
+  * Length of Project: 6 months
+    * Project Start Date: 1/6/2009
+    * Project End Date: 30/11/2009
+  * Grant Awarded to Project: £39472
+
+# Project Team #
+  * Product Owner: Tim Hitchcock <t.hitchcock@herts.ac.uk>, Michael Pidd m.pidd@sheffield.ac.uk
+  * Developer: Marta Ibarra marta@playgen.com
+
+Michael Pidd	m.pidd@sheffield.ac.uk	, Jamie McLaughlin, Mike Meredith, Katherine Rogers	, j.mclaughlin@sheffield.ac.uk, m.meredith@sheffield.ac.uk, k.m.rogers@sheffield.ac.uk	Tim Hitchcock <t.hitchcock@herts.ac.uk>, Robert Shoemaker <r.shoemaker@sheffield.ac.uk>
+
+# Documentation #
+<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up\_feeds="http://www.hrionline.ac.uk/scrutiny.xml" width="700" height="700" border="1" up\_showaddbutton="20"/>
+
+  * Project Blog: http://www.hrionline.ac.uk/scrutiny/
+    * Feed: http://www.hrionline.ac.uk/scrutiny.xml
+  * Code Repository: http://sourceforge.net/projects/scrutiny
+  * Technical Documentation: http://sourceforge.net/projects/scrutiny
+  * End User Documentation: http://www.hrionline.ac.uk/scrutiny/?p=171
+  * Analytics Engine: Server Log files
+  * Project Website: http://www.shef.ac.uk/hri/projects/projectpages/scrutiny.html
+  * PIMS listing: https://pims.jisc.ac.uk/projects/view/1342
+  * Core Project Resources: https://spreadsheets0.google.com/ccc?key=po8dqZ_GuNf5Q2fd00xr9Vw&hl=en
+  * Project Proposal: http://code.google.com/p/jiscri/downloads/detail?name=9%20University%20of%20Hertfordshire%20Scrutiny.pdf&can=2&q=label%3Ascrutiny
+  * Final Project Post: http://www.hrionline.ac.uk/scrutiny/?p=171
+  * Final Budget: http://code.google.com/p/jiscri/downloads/detail?name=Scrutiny-FinalBudget_22%20Dec.xls&can=2&q=label%3Ascrutiny
+  * Sign-off Form: Completed
+
+# Correspondance #
+Please see below in comments section for any and all correspondance by Programme Manager with the Projects.  Also all edits that need to be made to this page please place in comments section and the author will correct.
+  * Email, Phone calls, twitters, links sent, etc.

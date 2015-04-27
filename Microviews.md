@@ -1,0 +1,55 @@
+# Project Description #
+
+Add your content here.
+
+# Project Description #
+  * 10 second elevator pitch (how do you sell this to an early adopter?):
+  * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them):
+  * Questions this project answers:
+    * User Question (what itch does it scratch):
+    * Community Question (how does this change the way things were done):
+
+# Project Details #
+
+  * Name of Host Institution:
+  * JISC Programme/Strand:
+  * Length of Project:
+    * Project Start Date:
+    * Project End Date:
+  * Grant Awarded to Project:
+
+# Project Team #
+  * Project Manager/Investigator: David Millard
+  * Developer
+  * Admin
+  * Partners
+  * Consultants
+
+# Documentation #
+  * Core Project Resources
+  * Project Plan
+  * Progress Posts RSS Feed
+  * Final Budget
+  * Sign-off Form
+
+# Meetings #
+(reverse chronological order of scheduled face to face meetings)
+
+First Meeting, Date of Meeting, Location of Meeting
+  * Agenda:
+    * Programme Manager SLA:
+    * SWOT:
+    * Documentation: Core Project Resources, Project Plan, Progress Posts
+    * List Top Three Sprints/Workpackages and Level of Difficulty for each
+    * Use Cases and Type/Name of Real/Named Users:
+    * Technologies/Tools Using (Standards, Methods,
+    * Methodology (Agile, SCRUM, TDD, etc) --> Code Repo/Wiki/Site?
+    * Sustainability / Success Plan / Business Case
+
+# Correspondance #
+(descending chronological order)
+  * Email, Phone calls, twitters, links sent, etc.
+  * Remind projects regarding best practice in FOI.
+
+  * DFF: approved amendments to project proposal, issued grant letter
+  * DFF: sent email requesting return of grant letter.

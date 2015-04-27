@@ -1,0 +1,42 @@
+# Project Description #
+  * 10 second elevator pitch (how do you sell this to an early adopter?):
+    * Mobile Campus Assistant is a project to develop a prototype open source mobile smart phone application and a mobile-specific website to provide students on the move with location and time sensitive information. For example, 'where is my nearest...' service such as wireless hotspots, public PC availability, directions to campus buildings, access to timetables.
+
+  * Short Description (twitter-esque):
+    * The creation of a smart phone website and application to provide students with location and time sensitive information.
+
+# Project Details #
+  * Name of Host Institution: University of Bristol
+  * JISC Programme/Strand: Mobile
+  * Length of Project: 6 months
+    * Project Start Date: ?2009June
+    * Project End Date: ?2009Nov
+  * Grant Awarded to Project: £40,000.00
+
+# Project Team #
+  * Project Owner: Nikki Rogers Nikki.Rogers at bristol.ac.uk
+  * Developers: (lead) Mike Jones mike.a.jones at bristol.ac.uk
+    * Jasper Tregold jasper.tredgold@bristol.ac.uk
+    * Chris Bailey: c.bailey@bristol.ac.uk
+
+# Documentation #
+<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up\_feeds="http://mobilecampus.ilrt.bris.ac.uk/feed/" width="700" height="700" border="1" up\_showaddbutton="20"/>
+
+  * Project Blog: http://mobilecampus.ilrt.bris.ac.uk/
+  * Code Repository: http://github.com/MikeJ1971/mobile-campus-assistant/
+  * Technical Documentation: http://github.com/MikeJ1971/mobile-campus-assistant/
+  * End User Documentation: http://mobilecampus.ilrt.bris.ac.uk/end-user-documentation/
+  * Analytics Engine:
+  * Project Website: http://mobilecampus.ilrt.bris.ac.uk
+  * PIMS listing: https://pims.jisc.ac.uk/projects/view/1359
+  * Core Project Resources: http://spreadsheets.google.com/pub?key=po8dqZ_GuNf5Q2fd00xr9Vw&single=true&gid=0&output=html
+  * Project Plan:
+  * Final Project Post: http://mobilecampus.ilrt.bris.ac.uk/final-progress-report/
+  * Final Budget:
+  * Sign-off Form:
+
+# Prototype #
+beta - http://mca.ilrt.bristol.ac.uk
+
+# Correspondance #
+Please see below in comments section for any and all correspondance by Programme Manager with the Projects. Also all edits that need to be made to this page please place in comments section and the author will correct.

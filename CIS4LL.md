@@ -1,0 +1,51 @@
+# Project Description #
+  * Long Description:
+    * The Cloud Bank project aims to build a mobile- and web-based crowd-sourced information system to help international students share their knowledge and understanding of the local language and culture. The system allows students to collect, annotate and tag language- and culture-related content found in everyday life, including text, images and other media, and to share these content items with other language learners.
+  * Short Description:
+    * Is facebook for students studying in a foreign country.
+
+# Project Details #
+
+  * Name of Host Institution: University of Brighton
+    * Department: School of Computing, Mathematical and Information Sciences
+  * JISC Programme/Strand/Theme: INF11 / JISCRI / Mobile
+  * Length of Project: 6 months
+    * Project Start Date: 15/06/2009
+    * Project End Date: 30/11/2009
+  * Grant Awarded to Project: £40,000.00
+
+# Project Team #
+  * Product Manager: Lyn Pemberton
+  * Developers:
+    * Marcus Winter (LAMPHP), IDE
+    * Sanaz Fallahkhair (Interaction Designer): MPEG4, UXer, Requirements gathering,
+  * Richard Griffiths: Overlay of research outputs
+  * Stan Stanier: Head of Learning and Teaching.
+  * Admin: Seamlessresearchadmin@bton.ac.uk <- two ppl who job share
+  * Partners: mLearning community <- association of mobile learning: Mike Showforce
+  * Consultants: Graphic Designer <- Future platforms
+
+# Documentation #
+<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up\_feeds="http://cloudbankblog.blogspot.com/feeds/posts/default" width="700" height="700" border="1" up\_showaddbutton="20"/>
+
+  * Project Blog: http://cloudbankblog.blogspot.com/
+  * Code Repository: http://code.google.com/p/cloudbank/
+  * Technical Documentation: http://code.google.com/p/cloudbank/wiki/Technical_Overview
+  * End User Documentation: http://www.youtube.com/user/CloudBankChannel / http://itrg.brighton.ac.uk/cloudbank/files/CloudBank_Mobile_User_Guide.pdf
+  * Analytics Engine: TBC
+  * Project Website: http://itrg.brighton.ac.uk/cloudbank/
+  * PIMS listing: https://pims.jisc.ac.uk/projects/view/1352
+  * Core Project Resources: http://spreadsheets.google.com/pub?key=po8dqZ_GuNf5Q2fd00xr9Vw&single=true&gid=0&range=B21%3Az21&output=html
+  * Project Plan / Bid: http://code.google.com/p/jiscri/downloads/detail?name=52%20University%20of%20Brighton%20CloudBank.pdf&can=2&q=cloudbank
+  * Final Project Post: http://cloudbankblog.blogspot.com/2009/12/final-progress-post.html
+  * Final Budget: TBC
+  * Sign-off Form: TBC
+
+# Prototype #
+
+http://itrg.brighton.ac.uk/cloudbank/download.php
+
+# Correspondance #
+(descending chronological order)
+  * Email, Phone calls, twitters, links sent, etc.
+  * Remind projects regarding best practice in FOI.

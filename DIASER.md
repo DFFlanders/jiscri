@@ -1,0 +1,56 @@
+# Project Description #
+**One sentence summary: A mid to long term, disk based backup volume management solution with triple redundancy providing a quick and low-cost way to make an environment more robust and data more accessible by archiving in multiple places providing fast retrieval of archived data from all node hosting locations and created using a Perl installer.**
+
+Two questions this project attempts to answer:
+  * Can a distributed disk-based storage solution be secure and organised enough to replace single NAS or Tape storage systems.
+  * Are end users able to quickly adopt a long term archive strategy and use the DIASER software to implement this?
+
+# Project Info #
+  * Strand: A4-11
+  * Institution: University of Southampton Distributed Internet Archieve Systems for Educational Repositories DIASER
+  * 6 months 4/1/2009 9/1/2009 30117
+  * £30117
+
+## Project Team ##
+  * PM/Dev: Damian Brasher d.brasher@omii.ac.uk
+  * Neil P Chue Hong – Project advisor.
+  * Dr Simon J Hettrick - Documentation, graphics and marketing.
+
+
+# Documentation #
+RSS to Project Blog: http://sourceforge.net/export/rss2_projfiles.php?group_id=258272
+
+<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up\_feeds="http://sourceforge.net/export/rss2\_projfiles.php?group\_id=258272.xml" width="500" height="300" border="1" up\_showaddbutton="0" />
+
+# Previous Meetings #
+
+## Mtg on Thursday 14th May 2009 ##
+
+Next three code sprints:
+  1. Subroutine and menu item configure, re-write configuration file format fix crontab files.
+  1. Implement subroutine upgrade and share some new and existing functionality with sub modify and other subs.
+  1. Re-write fill\_diaser.sh in Perl and Perl version checking.
+  1. Write subroutine calculate\_lmb and incorporate results into subroutine configure.
+
+  * Roll-out of first deployable alpha week beginning 25th May.
+
+SWOT analysis:
+  * Strengths **Ease of deployment**, Ready to go, Easy to explain, Business model planning has taken place.
+  * Weaknesses **Competition**, difficulty identifying audiences.
+  * Opportunities **EPrints, OMII-UK, Organic projects leading to low level entry.
+  * Threats**Summer project difficult for HE evaluation.
+
+Potential users:
+  * Key - (Even though all users will need to deploy 3 Linux servers, these can be Virtual machines or standalone servers).
+  * Target audience - Windows/Linux power users (IT and repository managers), Windows/Linux systems administrators.
+  * Documentation - aimed at the power users, systems administrators can follow the documentation faster.
+
+Dissimenation:
+  * 2 part video to be produced, part 1) product introduction 2) user installation.
+
+Diagrammatic overview, http://www.diaser.org.uk/diagram.html
+
+# Correspondance #
+  * 2009-07-16 twitter from dbrasher @dfflanders link to all the release notes since April, added to after each new release http://diaser.svn.sourcefor...about 12 hours ago from web
+    * @dfflanders here is a link to the SourceForge RSS aggregate - http://bit.ly/DRuSd
+  * 2009-

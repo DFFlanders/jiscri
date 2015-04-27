@@ -1,0 +1,36 @@
+# Project Description #
+  * 10 second elevator pitch (how do you sell this to an early adopter?): A collaboration between the University of Southampton and the UK government to provide a new form of ‘community provisioned’ Information Service that stimulates interaction between the Research community, Public Sector Information publishers, and the new information intermediaries, the ‘mashup creators’.
+
+  * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them): A semantic Information Service stimulating interaction between Researchers, Public Sector publishers, and information mashup creators
+
+# Project Details #
+
+  * Name of Host Institution: University of Southampton
+  * JISC Programme/Strand: LinkedData, Researcher, Developer
+  * Length of Project: 6 months
+    * Project Start Date: 2009-06-01
+    * Project End Date: 2009-11-30
+  * Grant Awarded to Project: £39,154.00
+
+# Project Team #
+  * Product Owner: John Darlington
+  * Developers: Joe Lambert, Hazzaz Imtiaz, Benedicto Rodriguez Castro, Manuel Salvadores, Christos Koumenides
+
+# Documentation #
+
+<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up\_feeds="HTTP RSS FEED HERE" width="700" height="700" border="1" up\_showaddbutton="20"/>
+
+  * Project Blog: N/A <-- see below in comments section for reports
+  * API: http://www.openpsi.org/test-sparql.html
+  * Technical Documentation: N/A
+  * End User Documentation: N/A
+  * Analytics Engine: (see below)
+  * Project Website: http://www.openpsi.org/
+  * PIMS listing: https://pims.jisc.ac.uk/projects/view/1349
+  * Project Bid: http://code.google.com/p/jiscri/downloads/detail?name=42%20University%20of%20Southampton%20OpenPSI.pdf&can=2&q=#makechanges
+  * Final Project Post: (see below)
+  * Final Budget: ?
+  * Sign-off Form: ?
+
+# Correspondance (below as comments) #
+Please see below in comments section for any and all correspondance by Programme Manager with the Projects.  Please include any links, texts, phone calls, twitters, links and or any other info on the management of the project.  Please note: all edits that need to be made to this page please place in comments section and the author will correct.

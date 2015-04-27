@@ -1,0 +1,51 @@
+# Project Description #
+  * 10 second elevator pitch:
+    * The dotAC projects aims to develop a prototype Semantic Web demonstrator that synthesises research information from heterogeneous sources (institutional repositories and research council information systems), resolves name co-reference issues between the sources, and presents it to research-focussed end users through an interface that will allow them to explore the state of the research landscape in UKHE.
+
+  * Twitter description (120 character layman description):
+    * A Semantic Web tool for exploring the state of the research landscape in UK HE
+
+= Project Details =https://pims.jisc.ac.uk/projects/view/1355
+  * Name of Host Institution: University of Southampton
+    * Department: ECS
+  * JISC Programme/Strand: Semantic Web / Linked Data
+  * Length of Project: 6 months
+    * Project Start Date: 1/6/2009
+    * Project End Date: 30/11/2009
+  * Grant Awarded to Project: £39697
+
+# Project Team #
+
+  * Product Owner: Nicholas Gibbins nmg-at-ecs.soton.ac.uk
+  * Developer:
+    * Marcus Cobden (Grad Student) mc08r-at-ecs.soton.ac.uk
+  * Advisors:
+    * Ian Millard icm-at-ecs.soton.ac.uk
+    * Hugh Glaser hg-at-ecs.soton.ac.uk
+    * Les Carr lac-at-ecs.soton.ac.uk
+
+# Documentation #
+<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up\_feeds="http://blogs.ecs.soton.ac.uk/dotac/feed/"|"http://twitter.com/dotac" width="780" height="340" border="0" up\_showaddbutton="0"/>
+
+  * Project Blog: http://blogs.ecs.soton.ac.uk/dotac
+  * Code Repository: https://forge.ecs.soton.ac.uk/docman/?group_id=884 / http://forge.ecs.soton.ac.uk/projects/dotac/
+  * Technical Documentation: http://dotac.info/docs/
+  * End User Documentation: http://dotac.info/docs/explorer/ / http://dotac.info/docs/editor/
+  * Analytics Engine:
+  * Project Website: http://dotac.info/
+  * PIMS listing: https://pims.jisc.ac.uk/projects/view/1355
+  * Core Project Resources: http://spreadsheets.google.com/ccc?key=0ArsNASxXZiL6cG84ZHFaX0d1TmY1UTJmZDAweHI5Vnc&hl=en
+  * Project Plan / Bid: http://code.google.com/p/jiscri/downloads/detail?name=67%20University%20of%20Southampton%20dotAC.pdf&can=2&q=dotac
+  * Final Project Post: http://blogs.ecs.soton.ac.uk/dotac/2009/11/30/final-report/
+  * Final Budget:
+  * Sign-off Form:
+
+# Prototype #
+
+http://dotac.info/explorer/
+
+http://dotac.info/editor/
+
+# Correspondance #
+Please see below in comments section for any and all correspondance by Programme Manager with the Projects.  Also all edits that need to be made to this page please place in comments section and the author will correct.
+  * Email, Phone calls, twitters, links sent, etc.

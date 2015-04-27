@@ -1,0 +1,41 @@
+# Project Description #
+  * Long Description:
+    * Walking Through Time is a mobile application that will allow smart phone users with built-in GPS to not only find themselves in the present, but find themselves in the past. By making available historical UK maps, users will be able to scroll through time and navigate places using maps that are hundreds of years old.
+
+  * Short Description:
+    * Walking Through Time is a mobile application that will allow smart phone users with built-in GPS to not only find themselves in the present, but find themselves in the past. By making available historical UK maps, users will be able to scroll through time and navigate places using maps that are hundreds of years old.
+
+# Project Details #
+  * Name of Host Institution: University of Edinburgh
+  * JISC Programme/Strand: Mobile
+  * Length of Project: 6 months
+    * Project Start Date: 2009-06-15
+    * Project End Date: 2009-10-15
+  * Grant Awarded to Project: £30567.00
+
+# Project Team #
+  * Product Owner: Dr. Chris Speed (Digital Architect) c.speed at eca.ac.uk
+  * Developers:
+    * Dave Berry (Dev Team Lead) Dave.Berry at ed.ac.uk
+    * Petra Leimlehner (Java Dev) Petra.Leimlehner at ed.ac.uk
+  * Partners: Tim Urwin (Edina Digi Map Lead) t.urwin at ed.ac.uk
+  * Consultants: Edina
+
+# Documentation #
+<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up\_feeds="http://walkingthroughtime.eca.ac.uk/feed" width="700" height="700" border="1" up\_showaddbutton="20"/>
+
+  * Project Blog: http://walkingthroughtime.eca.ac.uk
+  * Code Repository: http://walkingthrough.sourceforge.net/
+  * Technical Documentation: http://walkingthrough.sourceforge.net/
+  * End User Documentation: http://www.youtube.com/watch?v=bJwYv-6wgf8
+  * Analytics Engine: TBC
+  * Project Website: http://walkingthroughtime.eca.ac.uk/
+  * PIMS listing: https://pims.jisc.ac.uk/projects/view/1350
+  * Core Project Resources: http://spreadsheets.google.com/pub?key=po8dqZ_GuNf5Q2fd00xr9Vw&single=true&gid=0&range=b13:z13&output=html
+  * Project Plan / Bid: http://code.google.com/p/jiscri/downloads/detail?name=44%20Edinburgh%20College%20of%20Art%20WalkingThroughTime.pdf&can=2&q=walkthrut
+  * Final Project Post: http://walkingthroughtime.eca.ac.uk/?p=268
+  * Final Budget: http://walkingthroughtime.eca.ac.uk/?p=244
+  * Sign-off Form:
+
+# Correspondance #
+Please add any comments or edits to be made to the comments section below.

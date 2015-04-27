@@ -1,0 +1,51 @@
+_NOTE TO PROJECT ON THIS PAGE: If you see a correction/addition that needs to be made in this page please place edits in the comments section at the bottom of this page and I will change, please do not email me. /dff_
+
+# Project Description #
+  * Project name: Library Social Widgets Toolkit
+
+  * 10 second elevator pitch:
+    * The aim of the project is to produce middleware and widgets that will allow users to check their library account, renew their books, pay fines, and review their reading lists from within a variety of social networking sites. Initially the widgets will plug into Moodle, Facebook, and iGoogle, so that users can access the services they want from the social sites they use.
+
+  * Twitter description:
+    * Renew your books and access core library services from Moodle, Facebook, and iGoogle
+
+# Project Details #
+  * Name of Host Institution: London School of Economics
+  * JISC Programme/Strand: Widgets
+  * Length of Project:
+    * Project Start Date:
+    * Project End Date:
+  * Grant Awarded to Project: £40,000.00
+
+# Project Team #
+  * Product Owner:
+  * Developer:
+  * Admin:
+  * Partners:
+  * Consultants:
+
+Michael Fake	m.fake@lse.ac.uk
+Shiraz Azizali, s.azizali@lse.ac.uk
+Ofer Engel	o.engel@lse.ac.uk
+Michael Hallas <m.hallas@lse.ac.uk>,
+Tim Green <t.green@lse.ac.uk>
+michael.j.fake@googlemail.com
+
+# Documentation #
+<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up\_feeds="http://lib-1.lse.ac.uk/library-widgets/?feed=rss2" width="700" height="700" border="1" up\_showaddbutton="20"/>
+
+  * Project Blog: http://lib-1.lse.ac.uk/library-widgets/
+  * Code Repository: http://code.google.com/p/librarywidgets/
+  * Technical Documentation: http://code.google.com/p/librarywidgets/w/list
+  * End User Documentation: http://lib-1.lse.ac.uk/library-widgets/?page_id=2
+  * Analytics Engine:
+  * Project Website: http://lib-1.lse.ac.uk/library-widgets/
+  * PIMS listing: https://pims.jisc.ac.uk/projects/view/1391
+  * Core Project Resources:
+  * Project Plan / Bid: http://code.google.com/p/jiscri/downloads/detail?name=49%20LSE%20LSWT.pdf&can=2&q=lswt
+  * Final Project Post: http://lib-1.lse.ac.uk/library-widgets/?p=521
+  * Final Budget:
+  * Sign-off Form:
+
+# Correspondance #
+Please see below in comments section for any and all correspondance by Programme Manager with the Projects.  Also all edits that need to be made to this page please place in comments section and the author will correct.

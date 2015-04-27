@@ -1,0 +1,35 @@
+_NOTE TO PROJECT ON THIS PAGE: If you see a correction/addition that needs to be made in this page please place edits in the comments section at the bottom of this page and I will change, please do not email me. /dff_
+
+# Project Description #
+  * Short description: Rudiment is a lightweight project to design and develop a tools mash-up to allow rules-controlled document management in a collaborative authoring environment. The proposed combination of technologies will provide a secure environment for distributed teams to collaborate on any set of documents.
+  * Long Description: Designing and developing rules-controlled document management in a collaborative authoring environment taking JISC research funding bids as the case study is the main objective of our project called Rudiment. Sharing the project with the University of Manchester enhances productivity and capacity of Rudiment. As a result of the close cooperation, combination of technologies such as Alfresco and Drupal is used to create a secure, managed social networking environment and increase understanding of how to integrate two proven technologies. One of the benefits of Rudiment is that documents are subsequently structured so a document template can be specified to ensure all submissions adhere to the same format. To sum up, Rudiment will provide the resolution of a recognised need for academics to access, retrieve and edit a working document using a prescribed set of rules.
+
+# Project Details #
+  * Name of Host Institution: Thames Valley University
+  * JISC Programme/Strand: inf11 /jiscri
+  * Length of Project: 6 Months
+  * Grant Awarded to Project: £39995
+
+# Project Team #
+Samia Oussena	samia.oussena@tvu.ac.uk	Anna Kocurova,Chris Banks, Divya Yadav Muvvala	anna.kocurova@tvu.ac.uk, chris.banks@manchester.ac.uk	Hilary Dexter hilary.Dexter@manchatser.ac.uk, Tim cappelliTimothy.Cappelli-2@manchester.ac.uk, Tony Clark tony.clark@tvu.ac.uk
+
+# Documentation #
+
+  * Project Blog: http://samsa.tvu.ac.uk/rudiment/blog/ <-- this link is not resolving?
+    * Feed: http://samsa.tvu.ac.uk/rudiment/blog/?feed=rss2
+  * Code Repository:  http://samsa.tvu.ac.uk/rudiment/software
+  * Technical Documentation: http://samsa.tvu.ac.uk/rudiment/software
+  * End User Documentation: TBC
+  * Analytics Engine: http://www.dotproject.net/
+  * Project Website: http://samsa.tvu.ac.uk/rudiment/
+  * PIMS listing: https://pims.jisc.ac.uk/outputs/view/3680
+  * Core Project Resources: https://spreadsheets.google.com/ccc?key=0ArsNASxXZiL6cG84ZHFaX0d1TmY1UTJmZDAweHI5Vnc&hl=en
+  * Project Plan: http://code.google.com/p/jiscri/downloads/detail?name=60%20Thames%20Valley%20University%20Rudiment.pdf&can=2&q=rudiment
+  * Final Project Post: TBC
+  * Final Budget: TBC
+  * Sign-off Form: TBC
+
+# Correspondance #
+Please see below in comments section for any and all correspondance by Programme Manager with the Projects.  Also all edits that need to be made to this page please place in comments section and the author will correct.
+  * Email, Phone calls, twitters, links sent, etc.
+  * Remind projects regarding best practice in FOI.

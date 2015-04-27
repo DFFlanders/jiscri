@@ -1,0 +1,37 @@
+NOTE TO PROJECT RE THIS PAGE: If you see a correction/addition that needs to be made in this page please place edits in the comments section at the bottom of this page and I will change, please do not email me. /dff
+
+# Project Description #
+  * Long Description: ICEIface aims to build an interface for ontology-based, complex datasets that will enable users to explore and interrogate the various elements of the dataset. The test case being employed is the enquiry-based undergraduate medical curriculum at the University of Manchester, which which exists in a newly created knowledgebase.
+  * Short Description: building an interface to explore and interrogate complex, ontology based datasets using the medical curriculum.
+
+<a href='http://www.youtube.com/watch?feature=player_embedded&v=HW3AIbG1Rk0' target='_blank'><img src='http://img.youtube.com/vi/HW3AIbG1Rk0/0.jpg' width='425' height=344 /></a>
+
+# Project Details #
+
+  * Name of Host Institution: University of Manchester
+  * JISC Programme/Strand: #inf11 / #jiscexpo
+  * Length of Project: 6 months
+
+# Project Team #
+  * Project Manager/Investigator: Tim Cappelli timothy.cappelli-2@manchester.ac.uk
+  * Developers: Chris Banks, Seb Richards chris.banks@manchester.ac.uk, seb@noodlebaker.com
+
+# Documentation #
+  * Project Blog: http://tewpl.manchester.ac.uk/iceiface/
+    * Feed: http://tewpl.manchester.ac.uk/iceiface/?q=rss.xml
+  * Code Repository: TBC
+  * Technical Documentation: http://tewpl.manchester.ac.uk/iceiface/?q=stories
+  * End User Documentation:
+  * Analytics Engine: Google analytics
+  * Project Website: http://tewpl.manchester.ac.uk/iceiface/
+  * PIMS listing: TBC
+  * Core Project Resources: http://bit.ly/doapSS-jiscEXPO
+  * Project Plan: http://code.google.com/p/jiscri/downloads/detail?name=8%20University%20of%20Manchester%20ICEIface.pdf&can=2&q=iceiface
+  * Final Project Post: http://tewpl.manchester.ac.uk/iceiface/?q=node/22
+  * Final Budget: http://code.google.com/p/jiscri/downloads/detail?name=finalbudgettemplate_jiscriiceiface.xls&can=2&q=
+  * Sign-off Form: TBC
+
+# Correspondance #
+Please see below in comments section for any and all correspondance by Programme Manager with the Projects.  Also all edits that need to be made to this page please place in comments section and the author will correct.
+  * Email, Phone calls, twitters, links sent, etc.
+  * Remind projects regarding best practice in FOI.

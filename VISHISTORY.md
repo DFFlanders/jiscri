@@ -1,0 +1,43 @@
+_NOTE TO PROJECT ON THIS PAGE: If you see a correction/addition that needs to be made in this page please place edits in the comments section at the bottom of this page and I will change, please do not email me. /dff_
+
+# Project Description #
+  * Full Name of Project: Visual History Project
+  * Long Description: Visual History is a project proposal to address the on-line visualisation and retention of data and assets that are produced by students while undertaking a research project in History, and is applicable to a wide range of related subject areas.  The project will define a structure of “History items” to enable “views” of the project linking items by use of a map, timeline, or through other attributes.  This will form the basis of a display board metaphor.
+  * Short description: Visual History is a project to address the on-line visualisation and retention of data and assets that are produced in a group history project
+
+
+# Project Details #
+  * Name of Host Institution: University of Central Lancashire
+    * Department: Faculty of Arts Humanities and Social Sciences
+  * JISC Programme/Strand: inf11 /jiscri
+  * Length of Project: 6 months
+    * Project Start Date: 15/06/2009
+    * Project End Date: 30/11/2009
+  * Grant Awarded to Project: £40000
+
+# Project Team #
+  * Project Manager: Phil Holifield	Pholifield@uclan.ac.uk
+  * Developer: Mike Cottam, macottam@uclan.ac.uk
+  * Developer: Dongjie Xu, dxu@uclan.ac.uk
+  * Developer: Steve Caunce <sacaunce@uclan.ac.uk>
+  * Developer: Barbara McManus <bmcmanus@uclan.ac.uk>
+
+# Documentation #
+<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up\_feeds="http://vishistory.wordpress.com/feed/" width="700" height="700" border="1" up\_showaddbutton="20"/>
+
+  * Code Repository: http://code.google.com/p/vishistory/
+  * Technical Documentation: TBC
+  * End User Documentation: TBC
+  * Analytics Engine: TBC
+  * Project Website: www.uclan.ac.uk/vishistory
+  * RSS Feed From Project Blog: http://vishistory.wordpress.com/feed/
+  * PIMS listing: https://pims.jisc.ac.uk/projects/view/1356
+  * Core Project Resources:
+  * Project Plan: TBC
+  * Progress Posts RSS Feed: http://vishistory.wordpress.com/feed/
+  * Final Budget: TBC
+  * Survey and Sign-off Form: TBC
+
+# Correspondance #
+Please see below in comments section for any and all correspondance by Programme Manager with the Projects.  Also all edits that need to be made to this page please place in comments section and the author will correct.
+  * Email, Phone calls, twitters, links sent, etc.

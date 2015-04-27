@@ -1,0 +1,39 @@
+# Project Description #
+
+  * Plugins for Advanced Export & Search
+  * PAXSRI
+  * The PAXS Project (Plugins for Advanced Export & Search) exists to create enhancements for two of the weaker areas of a stock EPrints installation. These two area's are metadata export and advanced search.
+
+# Project Details #
+  * A4-9
+  * University of Southampton
+    * Electronics & Computer Science
+  * 6 months 4/1/2009 9/1/2009
+  * £29829
+
+# Project Team #
+  * Project Manager: mc schraefel mc at ecs.soton.ac.uk
+  * Developer: Dan Smith ds at ecs.soton.ac.uk
+  * Developer: Jo Lambert jl2 at ecs.soton.ac.uk
+
+![http://farm5.static.flickr.com/4034/4364922336_093f10f656_o.jpg](http://farm5.static.flickr.com/4034/4364922336_093f10f656_o.jpg)
+
+
+# Project Resources #
+
+  * Project Blog: http://blog.mspace.fm/category/jisc/paxs/
+  * Code Repository: http://paxs.mspace.fm/repos/paxs-advsearch/trunk
+  * Technical Documentation: http://blog.mspace.fm/2009/10/19/final-jiscri-progresspost-for-paxs-plugins-for-advanced-search-and-export-for-eprints/
+  * End User Documentation: http://blog.mspace.fm/2009/10/19/final-jiscri-progresspost-for-paxs-plugins-for-advanced-search-and-export-for-eprints/
+  * Analytics Engine: TBC
+  * Project Website: http://paxs.mspace.fm
+  * XMPP Feed (twitter): http://twitter.com/mspacedev
+  * PIMS listing: https://pims.jisc.ac.uk/outputs/view/3667
+  * Core Project Resources: http://blog.mspace.fm/2009/10/19/final-jiscri-progresspost-for-paxs-plugins-for-advanced-search-and-export-for-eprints/
+  * Project Plan: N/A
+  * Final Project Post: http://blog.mspace.fm/2009/10/19/final-jiscri-progresspost-for-paxs-plugins-for-advanced-search-and-export-for-eprints/
+  * Final Budget:
+  * Sign-off Form: TBC
+
+# Correspondence #
+see below 'comments'
